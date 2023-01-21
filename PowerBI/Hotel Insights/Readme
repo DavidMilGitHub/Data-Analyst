@@ -1,1 +1,9 @@
-This PowerBi dashboard platform helps hotels monitor their performance and continuously improve their operations. Fully customized for your individual hotel, this powerful hotel dashboard connects all data points (from single and multiple hotels) into one easy-to-read data visualization.
+This PowerBi dashboard platform helps hotels monitor their performance and continuously improve their operations. Fully customized for your individual hotel, this powerful hotel dashboard connects all data points (from single and multiple hotels) into one easy-to-read data visualization. In this dashboard I've used visualisations that show the most important information about the hotels such as:
+      - Average Rating 
+      - Cancellation Rate 
+      - Occupancy
+      - Revenue 
+      - Total Bookings 
+      - Total Cancelled Bookings
+      - Total Capacity
+      - Total Succesfull Bookings
