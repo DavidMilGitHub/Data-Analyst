@@ -1,0 +1,1 @@
+In this project, I trained a straightforward Logistic Regression model to classify comments as either positive or negative. Through this model, I was able to achieve an impressive accuracy rate of 94% in predicting the sentiment of the comments. Additionally, I conducted an analysis of the most frequently used words in both positive and negative comments.
