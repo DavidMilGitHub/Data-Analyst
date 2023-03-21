@@ -1,1 +1,7 @@
-We will perform a complete Exploratory Data Analysis of the FIFA 2019. We will be observing the best players, bets teams, we will make our best teams and try to access players on the basis of there ratings. First we will do some simple visualisation that shows some correlations then we will visualise some distributions like age, skills etc. Lastly we will find the top players and see which club do they play, which country are they from etc.
+In this project, we will conduct an in-depth analysis of the FIFA 2019 dataset. The primary goal is to explore the data and gain insights into various aspects of the game, including top players, best teams, and individual player ratings.
+
+Our analysis will begin with simple visualizations to identify correlations between different features in the dataset. We will also visualize distributions of relevant features such as age and skill level.
+
+Towards the end of our analysis, we will identify the top players in the dataset, along with their respective clubs and countries. This information will help us identify the most successful players and teams, and also provide insight into the characteristics that make them successful.
+
+Overall, our analysis will involve a range of visualizations and data exploration techniques to uncover patterns and insights in the FIFA 2019 dataset. By the end of the project, we hope to have a better understanding of the game and the factors that contribute to success in the world of soccer.
