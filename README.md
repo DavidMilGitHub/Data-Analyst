@@ -9,5 +9,15 @@ Throughout my academic and professional career, I have developed a strong founda
 I'm constantly looking for new challenges and opportunities to grow my skills and knowledge in the field of data science. If you're interested in working together or have any questions, please don't hesitate to reach out!
 
 # Table of contents
-[About](https://github.com/DavidMilGitHub/Data-Analyst#About)
+- [About](https://github.com/DavidMilGitHub/Data-Analyst#About)
+- [Portfolio Projects](https://github.com/DavidMilGitHub/Data-Analyst#Portfolio-Projects)
+  - **Machine Learning**
+    - [Spam Filtering](https://github.com/DavidMilGitHub/Data-Analyst#Spam-Filtering)
 
+# Portfolio Projects
+### Spam Filtering
+- **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Machine%20Learning/Spam%20Filtering/spam-filtering.ipynb)
+- **Description**:
+- **Skills**: Exploratory data analysis, Data visualization, Text analytics, Feature Engineering, Predictive Analysis
+- **Technology**: Python, Pandas, Numpy, Scikit, Matplotlib
+- **Results**: Predictive model that will categorize messages into spam and not spam.
