@@ -14,6 +14,8 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
   - **Machine Learning**
     - [Spam Filtering](https://github.com/DavidMilGitHub/Data-Analyst#Spam-Filtering)
     - [Car Selling Price](https://github.com/DavidMilGitHub/Data-Analyst#Car-Selling-Prices)
+  - **PowerBI**
+    - [Ticketing System](https://github.com/DavidMilGitHub/Data-Analyst#Ticketing-System-in-PowerBi)
 
 # Portfolio Projects
 In this section I will briefly describe my Data Analytics projects 
