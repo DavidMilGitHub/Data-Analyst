@@ -19,6 +19,8 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
     - [HR Project](https://github.com/DavidMilGitHub/Data-Analyst#HR-Project)
   - **Data Analysis**
     - [FIFA 2019 Player Analysis](https://github.com/DavidMilGitHub/Data-Analyst#Fifa-2019-Player-Analysis)
+  - **SQL**
+    - [Employee Salary Management Database](https://github.com/DavidMilGitHub/Data-Analyst#Employee-Salary-Management-Database)
 
 # Portfolio Projects
 In this section I will briefly describe my Data Analytics projects 
@@ -57,4 +59,13 @@ In this section I will briefly describe my Data Analytics projects
 - **Skills**: Data visualization, Data Visualization, EDA
 - **Technology**: Python, Pandas, Numpy, Mathplotlib, Plotly
 - **Results**: Our analysis will involve a range of visualizations and data exploration techniques to uncover patterns and insights in the FIFA 2019 dataset.
+
+### Employee Salary Management Database 
+- **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/SQLProject.sql)
+- **Description**: The Employee Salary Database Management System is a robust and efficient solution designed to handle the management and organization of employee salary data within an organization.
+- **Skills**: Database Management, SQL, SQL Queries and Optimization, Problem-Solving and Troubleshooting, Data Modeling and Database Design
+- **Technology**: SQL, MSSQL Server
+- **Results**: It provides a centralized platform for HR departments and administrators to efficiently manage employee compensation, track salary changes, generate reports, and ensure accurate payroll processing.
+
+
 
