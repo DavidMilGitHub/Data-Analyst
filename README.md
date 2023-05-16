@@ -17,6 +17,8 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
   - **PowerBI**
     - [Ticketing System](https://github.com/DavidMilGitHub/Data-Analyst#Ticketing-System-in-PowerBi)
     - [HR Project](https://github.com/DavidMilGitHub/Data-Analyst#HR-Project)
+  - **Data Analysis**
+    - [FIFA 2019 Player Analysis](https://github.com/DavidMilGitHub/Data-Analyst#Fifa-2019-Player-Analysis)
 
 # Portfolio Projects
 In this section I will briefly describe my Data Analytics projects 
@@ -48,4 +50,11 @@ In this section I will briefly describe my Data Analytics projects
 - **Skills**: Data visualization, Interactive Features, SQL, KPIs
 - **Technology**: PowerBI, SQL
 - **Results**: HR Project in PowerBI offers HR departments a powerful tool for data-driven decision-making, by providing insightful and actionable data on the workforce and recruitment.
+
+### Fifa 2019 Player Analysis 
+- **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Pyhton/FIFA%202019%20Analysis/FIFA%202019%20Analysis%20-%20Copy.ipynb)
+- **Description**: In this project, we will conduct an in-depth analysis of the FIFA 2019 dataset. The primary goal is to explore the data and gain insights into various aspects of the game, including top players, best teams, and individual player ratings.
+- **Skills**: Data visualization, Data Visualization, EDA
+- **Technology**: Python, Pandas, Numpy, Mathplotlib, Plotly
+- **Results**: Our analysis will involve a range of visualizations and data exploration techniques to uncover patterns and insights in the FIFA 2019 dataset.
 
