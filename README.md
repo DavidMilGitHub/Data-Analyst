@@ -16,9 +16,17 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
 
 # Portfolio Projects
 In this section I will briefly describe my Data Analytics projects 
+
 ### Spam Filtering
 - **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Machine%20Learning/Spam%20Filtering/spam-filtering.ipynb)
 - **Description**: The goal of this project is to develop an effective spam classification system using two popular machine learning algorithms: Naive Bayes and Support Vector Machines (SVM). The project aims to tackle the problem of email spam detection by training models on a labeled dataset of emails, distinguishing between legitimate emails (ham) and unwanted spam emails.
 - **Skills**: Exploratory data analysis, Data visualization, Text analytics, Feature Engineering, Predictive Analysis
 - **Technology**: Python, Pandas, Numpy, Scikit, Matplotlib
 - **Results**: Predictive model that will categorize messages into spam and not spam.
+
+### Car Selling Prices 
+- **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Machine%20Learning/Car%20Selling%20Price/car_selling_price_new.ipynb)
+- **Description**: The Car Selling Price Prediction Model is a data-driven solution designed to estimate the selling price of used cars based on various factors. The project utilizes two popular machine learning algorithms, Random Forest Regression and Linear Regression, to develop accurate and reliable price prediction models and achieve 95% precision.
+- **Skills**: Exploratory data analysis, Data visualization, Feature Engineering, Predictive Analysis, Machine Learning Models
+- **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, Regex, Sklearn
+- **Results**: Predictive model that will predict the car selling price based on previously trained ML model.
