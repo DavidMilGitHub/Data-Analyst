@@ -13,6 +13,7 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
 - [Portfolio Projects](https://github.com/DavidMilGitHub/Data-Analyst#Portfolio-Projects)
   - **Machine Learning**
     - [Spam Filtering](https://github.com/DavidMilGitHub/Data-Analyst#Spam-Filtering)
+    - [Car Selling Price](https://github.com/DavidMilGitHub/Data-Analyst#Car-Selling-Prices)
 
 # Portfolio Projects
 In this section I will briefly describe my Data Analytics projects 
@@ -30,3 +31,10 @@ In this section I will briefly describe my Data Analytics projects
 - **Skills**: Exploratory data analysis, Data visualization, Feature Engineering, Predictive Analysis, Machine Learning Models
 - **Technology**: Python, Pandas, Numpy, Seaborn, Matplotlib, Regex, Sklearn
 - **Results**: Predictive model that will predict the car selling price based on previously trained ML model.
+
+### Ticketing System in PowerBi 
+- **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/tree/main/PowerBI/Ticketing%20System%20Project)
+- **Description**: The Ticketing System Dashboard is a comprehensive solution developed in Power BI that provides organizations with valuable insights and analytics related to their ticketing and issue management processes. This interactive and visually appealing dashboard allows users to track and monitor tickets, identify trends, and make data-driven decisions to improve operational efficiency and customer satisfaction.
+- **Skills**: Data visualization, Interactive Features, SQL, KPIs
+- **Technology**: PowerBI, SQL
+- **Results**: Ticketing system provides organizations with valuable insights into the performance of their support team and allows them to make data-driven decisions to improve their customer service operations .
