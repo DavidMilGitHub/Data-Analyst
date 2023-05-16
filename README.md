@@ -15,9 +15,10 @@ I'm constantly looking for new challenges and opportunities to grow my skills an
     - [Spam Filtering](https://github.com/DavidMilGitHub/Data-Analyst#Spam-Filtering)
 
 # Portfolio Projects
+In this section I will briefly describe my Data Analytics projects 
 ### Spam Filtering
 - **Code**: [Link](https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Machine%20Learning/Spam%20Filtering/spam-filtering.ipynb)
-- **Description**:
+- **Description**: The goal of this project is to develop an effective spam classification system using two popular machine learning algorithms: Naive Bayes and Support Vector Machines (SVM). The project aims to tackle the problem of email spam detection by training models on a labeled dataset of emails, distinguishing between legitimate emails (ham) and unwanted spam emails.
 - **Skills**: Exploratory data analysis, Data visualization, Text analytics, Feature Engineering, Predictive Analysis
 - **Technology**: Python, Pandas, Numpy, Scikit, Matplotlib
 - **Results**: Predictive model that will categorize messages into spam and not spam.
