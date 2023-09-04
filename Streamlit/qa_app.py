@@ -1,61 +1,3 @@
-
-# import streamlit as st
-# from difflib import SequenceMatcher
-# import json
-
-# # Load your JSON data
-# try:
-#     with open('your_dataset.json', 'r') as json_file:
-#         qa_data = json.load(json_file)
-# except FileNotFoundError:
-#     st.error("Dataset file not found. Please make sure 'your_dataset.json' exists.")
-
-# st.title('Question Answering Chatbot')
-
-# # User's question input
-# user_question = st.text_input('Enter your question:')
-
-# if st.button('Get Answer'):
-#     if not user_question:
-#         st.warning("Please enter a question.")
-#     else:
-#         # Function to calculate Jaccard similarity
-#         def calculate_jaccard_similarity(set1, set2):
-#             intersection = len(set1.intersection(set2))
-#             union = len(set1.union(set2))
-#             return intersection / union if union != 0 else 0
-
-#         # Function to find the most similar question in the dataset
-#         @st.cache_data
-#         def find_most_similar_question(user_question, data):
-#             max_similarity = 0
-#             most_similar_question = None
-#             user_question_tags = set(["Tag1", "Tag2"])  # Extract tags from user_question
-
-#             for entry in data:
-#                 question_tags = set(entry.get("tags", []))
-#                 text_similarity = SequenceMatcher(None, user_question, entry["question"]).ratio()
-#                 tag_similarity = calculate_jaccard_similarity(user_question_tags, question_tags)
-
-#                 similarity = (text_similarity + tag_similarity) / 2  # Weighted average
-#                 if similarity > max_similarity:
-#                     max_similarity = similarity
-#                     most_similar_question = entry
-
-#             return most_similar_question
-
-#         # Find the most similar question in the dataset
-#         similar_question = find_most_similar_question(user_question, qa_data)
-
-#         # Retrieve the answer based on the similar question
-#         if similar_question:
-#             answer = similar_question["answer"]
-#             st.subheader('Answer:')
-#             st.write(answer)
-#         else:
-#             st.info('No matching question found.')
-
-
 import streamlit as st
 from difflib import SequenceMatcher
 import json
@@ -72,7 +14,7 @@ lemmatizer = WordNetLemmatizer()
 
 # Load your JSON data
 try:
-    with open('DavidMilGitHub/Data-Analyst/blob/main/Streamlit/your_dataset.json', 'r',errors='replace') as json_file:
+    with open('github.com/DavidMilGitHub/Data-Analyst/blob/main/Streamlit/your_dataset.json', 'r',errors='replace') as json_file:
         qa_data = json.load(json_file)
 except FileNotFoundError:
     st.error("Dataset file not found. Please make sure 'your_dataset.json' exists.")
