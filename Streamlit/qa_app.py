@@ -55,6 +55,7 @@
 #         else:
 #             st.info('No matching question found.')
 
+!pip install nltk
 
 import streamlit as st
 from difflib import SequenceMatcher
