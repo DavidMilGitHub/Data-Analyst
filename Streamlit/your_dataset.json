@@ -1,0 +1,1464 @@
+[
+    {
+        "question": "What is the purpose of Clause 2.1 in the code?",
+        "answer": "The purpose of Clause 2.1 is to express the intentions for determining the design, construction, protection, location, arrangement, and maintenance of exit facilities to provide safe means of escape for occupants from all buildings hereafter erected, altered, or changed in occupancy.",
+        "tag": "Purpose of Clause 2.1"
+    },
+    {
+        "question": "What areas are designated as means of escape according to Clause 2.1?",
+        "answer": "Areas designated as means of escape include exit staircases, fire lift lobbies, smoke-free lobbies, exit passageways, and escape corridors.",
+        "tag": "Designated Means of Escape Areas"
+    },
+    {
+        "question": "What is the requirement regarding the use of designated means of escape areas?",
+        "answer": "Designated means of escape areas, such as exit staircases, fire lift lobbies, smoke-free lobbies, exit passageways, and escape corridors, should not be turned into other usage.",
+        "tag": "Prohibition on Other Usage"
+    },
+    {
+        "question": "Is there an effective date associated with this regulation?",
+        "answer": "The provided text does not specify an effective date or the name of the regulation. It is presented as a general guideline for determining exit facility design, construction, and usage in buildings.",
+        "tag": "Effective Date and Regulation Name"
+    },
+    {
+        "question": "What is the purpose of Clause 2.2.1 in the code?",
+        "answer": "Clause 2.2.1 serves to outline the criteria and factors used to determine exit requirements for a building, including the type of use or occupancy, occupant load, floor area, travel distance to an exit, and exit capacity.",
+        "tag": "Purpose of Clause 2.2.1"
+    },
+    {
+        "question": "What factors are considered when determining exit requirements for a building?",
+        "answer": "Exit requirements are determined based on the type of use or occupancy, occupant load, floor area, travel distance to an exit, and exit capacity, as specified in Table 2.2A and the information provided in this clause.",
+        "tag": "Factors for Exit Requirement Determination"
+    },
+    {
+        "question": "Are exit facilities required for every storey of a building?",
+        "answer": "Yes, according to Clause 2.2.1, every storey of a building should be provided with exit facilities tailored to its occupant load.",
+        "tag": "Exit Facilities Requirement per Storey"
+    },
+    {
+        "question": "Can vertical exits from above-ground storeys serve all storeys above ground level simultaneously?",
+        "answer": "Yes, vertical exits provided from any storey above ground level may serve simultaneously all storeys above the ground level.",
+        "tag": "Vertical Exits Above Ground Level"
+    },
+    {
+        "question": "Are there any restrictions on vertical exits from below-ground storeys?",
+        "answer": "Yes, there are restrictions. Clause 2.3.5 prohibits basement staircases from being continuous with exit staircases serving the upper storeys, unless otherwise allowed by the SCDF (Singapore Civil Defence Force).",
+        "tag": "Vertical Exits Below Ground Level Restrictions"
+    },
+    {
+        "question": "What does Clause 2.2.2 of the code address?",
+        "answer": "Clause 2.2.2 deals with mixed occupancy scenarios, where different parts of a building or storey of a building are designed for different types of occupancies or used for different purposes simultaneously.",
+        "tag": "Purpose of Clause 2.2.2"
+    },
+    {
+        "question": "How are exit requirements determined in mixed occupancy situations?",
+        "answer": "In mixed occupancy situations, the exit requirements for the entire building or storey of the building should be determined based on the type of occupancy or usage that has the strictest exit requirements. Alternatively, exit requirements for each building section can be determined separately.",
+        "tag": "Exit Requirement Determination in Mixed Occupancy"
+    },
+    {
+        "question": "What is the basis for determining exit requirements in mixed occupancy scenarios?",
+        "answer": "The basis for determining exit requirements in mixed occupancy scenarios is the type of occupancy or usage that has the strictest exit requirements.",
+        "tag": "Basis for Exit Requirement Determination"
+    },
+    {
+        "question": "What is the purpose of Clause 2.2.3 223 in the code?",
+        "answer": "Clause 2.2.3 addresses situations where a building or part of a building is used for multiple purposes involving different activities at different times. It specifies that the purpose or use involving the greatest number of occupants should determine the exit requirements.",
+        "tag": "Purpose of Clause 2.2.3"
+    },
+    {
+        "question": "How are exit requirements determined in cases of multiple occupancy or use?",
+        "answer": "In cases of multiple occupancy or use, exit requirements are determined based on the purpose or use involving the greatest number of occupants.",
+        "tag": "Exit Requirement Determination in Multiple Occupancy"
+    },
+    {
+        "question": "What is the effective date for Clause 2.2.4 224?",
+        "answer": "The effective date for Clause 2.2.4 is August 25, 2023.",
+        "tag": "Effective Date of Clause 2.2.4"
+    },
+    {
+        "question": "What does Clause 2.2.4 address?",
+        "answer": "Clause 2.2.4 addresses non-simultaneous occupancy scenarios. It allows the exclusion of certain floor areas, such as toilets, locker rooms, lobbies, and corridors, from occupant load calculations if they are not occupied at the same time as other rooms or spaces by building occupants.",
+        "tag": "Purpose of Clause 2.2.4"
+    },
+    {
+        "question": "What types of spaces can be omitted from occupant load calculations according to Clause 2.2.4?",
+        "answer": "Clause 2.2.4 allows the omission of floor areas of toilets, locker rooms, lobbies, and corridors from occupant load calculations if they are not occupied at the same time as other rooms or spaces by building occupants.",
+        "tag": "Spaces Omitted from Occupant Load Calculations"
+    },
+    {
+        "question": "What is the purpose of Clause 2.2.5 in the code?",
+        "answer": "Clause 2.2.5 addresses the capacity of exits and exit facilities. It specifies how to measure exit width, taking into account the type of occupancy and type of exit, and also outlines requirements for rooms or spaces with two exits.",
+        "tag": "Purpose of Clause 2.2.5"
+    },
+    {
+        "question": "How should the capacity of exits and exit facilities be measured?",
+        "answer": "The capacity of exits, exit staircases, exit passageways, corridors, exit doors, and other exit facilities should be measured in units of half a meter's width. The number of persons per unit of width is determined by the type of occupancy and type of exit as listed in Table 2.2A.",
+        "tag": "Measurement of Exit Capacity"
+    },
+    {
+        "question": "What is the significance of not factoring in fractions of a unit width less than 250mm in exit width measurement?",
+        "answer": "In exit width measurement, fractions of a unit width less than 250mm are not factored in to ensure a practical and clear calculation of exit capacity.",
+        "tag": "Significance of Not Factoring in Fractions"
+    },
+    {
+        "question": "What requirement does Clause 2.2.5b outline for rooms or spaces with two exits?",
+        "answer": "Clause 2.2.5b stipulates that in rooms or spaces required to have two exits, each exit should be of sufficient width to accommodate not less than half the total occupant load.",
+        "tag": "Requirement for Rooms or Spaces with Two Exits"
+    },
+    {
+        "question": "What is the purpose of Clause 2.2.6 in the code?",
+        "answer": "Clause 2.2.6 deals with the determination of travel distance for different types of occupancies. It specifies the maximum travel distances allowed and provides guidelines for measuring travel distances in various scenarios.",
+        "tag": "Purpose of Clause 2.2.6"
+    },
+    {
+        "question": "How is the maximum travel distance determined for a floor area with at least two exits?",
+        "answer": "For a floor area designed with a minimum of two exits, the maximum travel distance is determined based on the limits specified in Table 2.2A. It is measured from the most remote point in any occupied space to the nearest exit.",
+        "tag": "Maximum Travel Distance with Two Exits"
+    },
+    {
+        "question": "What does Clause 2.2.6b specify for large floor areas without room subdivisions?",
+        "answer": "Clause 2.2.6b allows large floor areas without room subdivisions to use the 'direct distance' concept as a guide for travel distance. The travel distance in such cases should not exceed two-thirds of the maximum travel distance permitted under Table 2.2A.",
+        "tag": "Travel Distance in Large Undivided Floor Areas"
+    },
+    {
+        "question": "How is the most remote point for measuring travel distance defined in Clause 2.2.6c?",
+        "answer": "Clause 2.2.6c defines the most remote point as being 400mm from the enclosure walls of the room or space. This point is used as the starting reference for measuring travel distance.",
+        "tag": "Definition of Most Remote Point"
+    },
+    {
+        "question": "In what scenarios does Clause 2.2.6e apply?",
+        "answer": "Clause 2.2.6e applies when an area of refuge is provided in lieu of required exits. In such cases, the travel distance is measured to the exit door at the corridor leading to the area of refuge.",
+        "tag": "Application of Clause 2.2.6e"
+    },
+    {
+        "question": "Under what conditions is Clause 2.2.6g applicable for ancillary offices within other Purpose Groups?",
+        "answer": "Clause 2.2.6g applies to ancillary offices within other Purpose Groups under the following conditions: (1) the ancillary office is fire compartmented from spaces belonging to other purpose groups, and (2) the ancillary office occupants have access to exits within the ancillary office compartment leading to direct discharge at ground level into an external space, exit staircase, or internal/external exit passageway.",
+        "tag": "Conditions for Application of Clause 2.2.6g"
+    },
+    {
+        "question": "What is the measurement unit used to determine the capacity of exits and exit facilities?",
+        "answer": "The measurement unit used is half a metre's width."
+      },
+      {
+        "question": "What factors determine the number of persons per unit of width for exits and exit facilities?",
+        "answer": "The number of persons per unit of width is determined by the type of occupancy and type of exit as listed under Table 2.2A."
+      },
+      {
+        "question": "What is the significance of Table 2.2A in determining the capacity of exits and exit facilities?",
+        "answer": "Table 2.2A provides information on the number of persons per unit of width for different types of occupancy and exit types, which is crucial for capacity determination."
+      },
+      {
+        "question": "What is the rule regarding fractions of a unit width less than 250mm in exit width measurement?",
+        "answer": "Fractions of a unit width less than 250mm shall not be factored in the measurement."
+      },
+      {
+        "question": "What requirement applies when a room or space is mandated to have two exits?",
+        "answer": "When a room or space is required to have two exits, each exit must be of sufficient width to accommodate not less than half the total occupant load."
+      },
+      {
+        "question": "How is the capacity of exits, exit staircases, and other exit facilities measured in terms of width?",
+        "answer": "The capacity is measured in units of half a metre's width."
+      },
+      {
+        "question": "How are the number of persons per unit of width determined based on the type of occupancy and exit type?",
+        "answer": "The number of persons per unit of width is determined based on guidelines provided in Table 2.2A, considering the type of occupancy and exit type."
+      },
+      {
+        "question": "How should one factor in fractions of unit width when measuring exit width?",
+        "answer": "Fractions of unit width less than 250mm should not be included in the measurement."
+      },
+      {
+        "question": "How can a room or space ensure compliance when it's required to have two exits, and what should be the width of each exit in relation to the total occupant load?",
+        "answer": "To ensure compliance, each exit must be wide enough to accommodate at least half of the total occupant load for that room or space."
+      },
+      {
+        "question": "What is the maximum allowable travel distance for different types of occupancies?",
+        "answer": "The maximum allowable travel distance is determined as specified in Table 2.2A and must be adhered to for different types of occupancies."
+      },
+      {
+        "question": "What is the condition for applying the maximum travel distance from the most remote point to the nearest exit?",
+        "answer": "This condition applies to floor areas designed with a minimum of two exits, and the maximum travel distance should not exceed the limits specified in Table 2.2A."
+      },
+      {
+        "question": "When can the 'direct distance' concept be used for determining travel distance in a large floor area?",
+        "answer": "The 'direct distance' concept can be used as a guide for determining travel distance in a large floor area without sub-division of rooms, corridors, etc., and it should not exceed two-thirds of the maximum travel distance permitted under Table 2.2A. However, if the large floor area undergoes sub-division, Table 2.2A must be followed."
+      },
+      {
+        "question": "How is the most remote point for measuring travel distance defined in this clause?",
+        "answer": "The most remote point for measuring travel distance is defined as being 400mm from the enclosure walls of the room or space."
+      },
+      {
+        "question": "What determines the calculation of travel distance for residential apartments or maisonettes?",
+        "answer": "The calculation of travel distance for residential apartments or maisonettes is determined based on the provisions outlined in Clause 9.2.1a.(5)."
+      },
+      {
+        "question": "How is travel distance measured when an area of refuge is provided in place of required exits?",
+        "answer": "Travel distance is measured to the exit door at the corridor leading to the area of refuge."
+      },
+      {
+        "question": "Under what condition is travel distance measured to a position where an exit door would be installed if required?",
+        "answer": "Travel distance is measured to such a position when permitted under Clause 2.3.3 for exit staircases to be entered without the provision of an exit door."
+      },
+      {
+        "question": "What are the travel distance requirements for an ancillary office within other purpose groups?",
+        "answer": "For an ancillary office within other purpose groups, the travel distance requirement is allowed to be based on PG IV, provided that the ancillary office is fire compartmented from spaces belonging to the other purpose groups and the occupants have access to exits within the ancillary office compartment leading to direct discharge at ground level into an external space, exit staircase, or internal/external exit passageway."
+      },
+      {
+        "question": "What is the minimum clear width requirement for an exit door or exit access opening?",
+        "answer": "The minimum clear width requirement for an exit door or exit access opening is not less than 850mm as specified under Table 2.2A, effective from 1 Mar 2022."
+      },
+      {
+        "question": "What is the minimum clear width requirement for exit access doors serving a room with an occupant load of not more than two persons?",
+        "answer": "Exit access doors serving a room with an occupant load of not more than two persons must have a minimum clear width of 610mm."
+      },
+      {
+        "question": "How wide can a single leaf swing door along the means of egress be?",
+        "answer": "A single leaf swing door along the means of egress should not exceed 1.25m in clear width."
+      },
+      {
+        "question": "What is the minimum clear width requirement for an exit door/exit access opening?",
+        "answer": "The minimum clear width requirement for an exit door/exit access opening is not less than 850mm as specified under Table 2.2A, effective from 1 Mar 2022."
+      },
+      {
+        "question": "What is the minimum clear width requirement for exit access doors serving a room with an occupant load of not more than two persons?",
+        "answer": "Exit access doors serving a room with an occupant load of not more than two persons must have a minimum clear width of 610mm."
+      },
+      {
+        "question": "What is the maximum clear width allowed for a single leaf swing door along the means of egress?",
+        "answer": "The maximum clear width allowed for a single leaf swing door along the means of egress is 1.25m."
+      },
+      {
+        "question": "What is the effective date for the minimum clear width requirement specified in (a)?",
+        "answer": "The effective date for the minimum clear width requirement specified in (a) is 1 Mar 2022."
+      },
+      {
+        "question": "What is the maximum allowable width for exit staircases?",
+        "answer": "The maximum allowable width for exit staircases is 2 meters."
+    },
+    {
+        "question": "How should wide exit staircases be divided if they exceed 2 meters in width?",
+        "answer": "Wide exit staircases exceeding 2 meters in width should be divided using handrails into sections with a width of not less than 1 meter or more than 2 meters."
+    },
+    {
+        "question": "What should be considered when determining the exit capacity of a staircase wider than 2 meters that is part of the required means of escape?",
+        "answer": "When determining the exit capacity of a staircase wider than 2 meters that is part of the required means of escape, the part of its width in excess of 2 meters should not be taken into account."
+    },
+    {
+        "question": "What is the measurement of width referred to in Cl.2.2.7 and Cl.2.2.8?",
+        "answer": "The measurement of width referred to in Cl.2.2.7 and Cl.2.2.8 is the clear width, including the width of the plinth to the balustrade or parapet wall."
+    },
+    {
+        "question": "How is the clear width of an exit staircase measured when it is enclosed on both sides by walls only?",
+        "answer": "The clear width of an exit staircase enclosed on both sides by walls only is measured between the finished surfaces of the walls."
+    },
+    {
+        "question": "How is the clear width of an exit staircase measured when it has a wall on one side and a balustrade on the other side?",
+        "answer": "The clear width of an exit staircase with a wall on one side and a balustrade on the other side is measured between the finished surface of the wall and the inner side of the balustrade."
+    },
+    {
+        "question": "How is the clear width of an exit staircase with balustrades on both sides measured?",
+        "answer": "The clear width of an exit staircase with balustrades on both sides is measured between the inner sides of the balustrades."
+    },
+    {
+        "question": "What should be noted regarding the projection of handrails into the clear width of a staircase?",
+        "answer": "The projection of handrails into the clear width of a staircase should not exceed 80mm on each side of the staircase. If the projection exceeds 80mm, the clear width of the staircase should be measured from the inner sides of the handrails."
+    },
+    {
+        "question": "What is the purpose of this section 2.2.9a?",
+        "answer": "This section (2.2.9a) defines how the width of exit staircases should be measured, taking into account different scenarios involving walls and balustrades. It also provides guidelines for handrail projections and their impact on clear width measurements."
+    },
+    {
+        "question": "What is the measurement method for an exit door with a single leaf door?",
+        "answer": "For an exit door with a single leaf door, the opening shall be measured between the edge of the door jamb and the surface of the door when opened at an angle of 90°."
+    },
+    {
+        "question": "How is the clear opening measured for a 2-leaf exit door fitted with an approved automatic flush bolt?",
+        "answer": "The clear opening for a 2-leaf exit door fitted with an approved automatic flush bolt is measured between the surface of one leaf to the other door leaf when opened at an angle of 90°."
+    },
+    {
+        "question": "What happens if one of the door leaves is bolted to the door frame and/or floor by a manually operated bolt?",
+        "answer": "If one of the door leaves is bolted to the door frame and/or floor by a manually operated bolt, this door leaf shall not be considered for the purpose of determining the exit capacity of the door. The opening of the other door leaf shall have a clear width of not less than 850mm, measured between the edge of the bolted door leaf and the surface of the other door leaf when opened at an angle of 90°."
+    },
+    {
+        "question": "What door components can be disregarded if they do not protrude more than 80mm into the clear width of an exit opening?",
+        "answer": "Door hardware and handrails can be disregarded if they do not protrude more than 80mm into the clear width of an exit opening."
+    },
+    {
+        "question": "What does this section (2.2.9b) specify?",
+        "answer": "This section (2.2.9b) specifies how to measure the clear width of exit doors, including single leaf doors, 2-leaf doors with automatic flush bolts, and doors with manually operated bolts. It also provides guidelines for disregarding certain door components that do not significantly protrude into the clear width of the exit opening."
+    },
+    {
+        "question": "What is the requirement for the number of door openings in rooms or enclosed spaces with an occupant load exceeding the maximum permissible occupant load for one door?",
+        "answer": "There shall be at least two door openings remote from each other which lead to exits from every room or enclosed space with an occupant load exceeding the maximum permissible occupant load for one door."
+    },
+    {
+        "question": "How is the maximum permissible occupant load for one door determined?",
+        "answer": "The maximum permissible occupant load for one door is determined based on the type of occupancy, as specified in Table 2.2.10."
+    },
+    {
+        "question": "What are the maximum occupant loads for one door for different types of occupancy?",
+        "answer": "The maximum occupant loads for one door are as follows: High hazard - 25, Patient accommodation area - 50, Classrooms - 50, Godowns, stores, and factories not of high hazard type - 50, Assembly - 50."
+    },
+    {
+        "question": "When is compliance with Table 9.7.3a required for rooms and spaces with an occupancy of more than 50 persons?",
+        "answer": "Compliance with Table 9.7.3a is required for rooms and spaces with an occupancy of more than 50 persons."
+    },
+    {
+        "question": "What does this section (2.2.10) specify?",
+        "answer": "This section (2.2.10) specifies the requirement for the number of door openings in rooms or enclosed spaces based on their occupant load, with a focus on ensuring that there are at least two door openings remote from each other for spaces with occupant loads exceeding the maximum permissible occupant load for one door."
+    },
+    {
+        "question": "What is the requirement for the number of independent exit staircases or exits for every storey of a building?",
+        "answer": "There shall be at least two independent exit staircases or other exits from every storey of a building, unless otherwise permitted under other subsequent provisions of the Code."
+    },
+    {
+        "question": "How does the exception (a) in 2.2.11a apply to non-habitable roofs?",
+        "answer": "For non-habitable roofs that are able to comply with one-way travel distance, at least one exit staircase shall be provided. The travel distances for roof areas which are open-to-sky shall be based on the requirements for sprinkler-protected buildings."
+    },
+    {
+        "question": "How should non-habitable roofs that are unable to comply with one-way travel distance to the exit staircase be addressed according to exception (b)?",
+        "answer": "For non-habitable roofs that are unable to comply with one-way travel distance to the exit staircase, an additional cat/ship ladder shall be provided. This ladder should be adequately separated in accordance with Cl.2.3.12 and lead to the circulation area of the floor below. Access hatches, if provided, should be readily accessible from the roof, and access hatch openings should have a minimum clear width of 1m in diameter. The travel distances for roof areas which are open-to-sky shall be based on the requirements for sprinkler-protected buildings."
+    },
+    {
+        "question": "What does exception (c) in 2.2.11c refer to?",
+        "answer": "Exception (c) refers to the roof of protruding structures above the non-habitable roof, namely exit staircase shafts and lift motor rooms."
+    },
+    {
+        "question": "What is the effective date of this regulation (2.2.11)?",
+        "answer": "The effective date of this regulation (2.2.11) is 25 Aug 2023."
+    },
+    {
+        "question": "explain What is the main purpose of this section (2.2.11) explain?",
+        "answer": "The main purpose of this section (2.2.11) is to establish the requirement for the number of independent exit staircases or exits on every storey of a building, with exceptions and conditions provided for non-habitable roofs and protruding structures."
+    },
+    {
+        "question": "What are the requirements for exits and access facilities according to this section (2.2.12)?",
+        "answer": "All exits and access facilities shall be required to comply with the specified conditions."
+    },
+    {
+        "question": "How should exits and access facilities be with respect to visibility and accessibility?",
+        "answer": "Exits and access facilities shall be clearly visible or their locations shall be clearly indicated. They must also be kept readily accessible and unobstructed at all times."
+    },
+    {
+        "question": "What conditions apply when occupants need to pass through another room or space to access the required exit?",
+        "answer": "When occupants need to pass through another room or space to access the required exit, the following conditions must be complied with:\n(1) the exit access door separating the rooms or spaces must only be fitted with an electromechanical device designed in accordance with Cl.2.3.9k.(2);\n(2) the doorway of the exit access door must not be blocked/obstructed and must be kept clear at all times;\n(3) warning signs with the wording 'Exit Access Door - Keep Clear' must be placed prominently on both sides of the exit access door; and\n(4) the egress paths through the exit access door must be suitably demarcated."
+    },
+    {
+        "question": "What is the purpose of placing exits as remote as possible from each other when multiple exits are required?",
+        "answer": "The purpose of placing exits as remote as possible from each other when multiple exits are required is to ensure that occupants have access to more than one exit in case of emergencies, improving safety."
+    },
+    {
+        "question": "What is the effective date of this regulation (2.2.12)?",
+        "answer": "The effective date of this regulation (2.2.12) is 15 Mar 2021."
+    },
+    {
+        "question": "explain What is the main objective of this section (2.2.12)?",
+        "answer": "The main objective of this section (2.2.12) is to establish requirements for the visibility, accessibility, and placement of exits and access facilities in buildings to ensure occupant safety during emergencies."
+    },
+    {
+        "question": "What is the requirement for entry at every storey level to an exit staircase serving more than four storeys above ground level?",
+        "answer": "The requirement is that entry at every storey level to such an exit staircase shall be through an external exit passageway or external corridor."
+    },
+    {
+        "question": "How should the openings for natural lighting and ventilation to the corridor be located?",
+        "answer": "The openings for natural lighting and ventilation to the corridor should be located in a way that they face and are open to either an external space complying with Cl.2.3.11, a street, service road, or other public space open to the sky, or an air well that opens vertically to the sky and has a minimum width of 6m and a superficial plan area of not less than 93m²."
+    },
+    {
+        "question": "What are the three options for the location of openings for natural lighting and ventilation to the corridor?",
+        "answer": "The openings for natural lighting and ventilation to the corridor should face and be open to (1) an external space complying with Cl.2.3.11, or (2) a street, service road, or other public space open to the sky, or (3) an air well that opens vertically to the sky and has a minimum width of 6m and a superficial plan area of not less than 93m²."
+    },
+    {
+        "question": "What are the requirements for external corridors mentioned in this section?",
+        "answer": "For external corridors, they shall comply with the requirements specified in Cl.2.3.10."
+    },
+    {
+        "question": "Explain What is the objective of this section 2.2.13a?",
+        "answer": "The objective of this section 2.2.13a is to establish requirements for the smoke-free approach to exit staircases in buildings with more than four storeys above ground level, ensuring safe egress for occupants during emergencies."
+    },
+    {
+        "question": "What are the requirements for a smoke-free lobby?",
+        "answer": "The requirements for a smoke-free lobby include: (1) Separation from adjoining areas by a wall with 1-hour fire resistance, (2) An exit access door with ½-hour fire resistance fitted with an automatic self-closing device, (3) Design that does not impede the movement of occupants through the escape route, (4) A minimum floor area of 3m² with a minimum clear width of 1.2m, which increases to 6m² with a minimum clear width of 2m if it also serves as a fire lift lobby, (5) Grading of the floor from the lift door towards the lobby door with a fall not exceeding 1 in 200, (6) Maintenance as common property if it acts as buffer space for entry into the exit staircase and use by firefighters during an emergency, (7) Ventilation through permanent fixed ventilation openings, mechanical ventilation (except for PG II buildings), or cross-ventilated corridor/lobby."
+    },
+    {
+        "question": "How should the exit access door of a smoke-free lobby be designed?",
+        "answer": "The exit access door of a smoke-free lobby should have ½-hour fire resistance and be fitted with an automatic self-closing device conforming to the requirements of Cl.3.9.2."
+    },
+    {
+        "question": "What is the minimum required floor area for a smoke-free lobby?",
+        "answer": "The minimum floor area for a smoke-free lobby is 3m² with a minimum clear width of 1.2m. If it also serves as a fire lift lobby, the floor area should be not smaller than 6m² with a minimum clear width of 2m."
+    },
+    {
+        "question": "How should a smoke-free lobby be ventilated?",
+        "answer": "A smoke-free lobby can be ventilated through permanent fixed ventilation openings, mechanical ventilation (except for PG II buildings), or cross-ventilated corridor/lobby."
+    },
+    {
+        "question": "What are the requirements for permanent fixed ventilation openings in a smoke-free lobby?",
+        "answer": "Permanent fixed ventilation openings should be located in the external wall of the lobby and have a total area of not less than 15% of the floor area of the lobby. Each opening should not be less than 1m² and should abut an external space or air well, each having a minimum clear area of 93m² and minimum width of 6m, without obstruction vertically throughout the airspace for ventilation. No part of the lobby floor area shall be more than 9m away from the air well or external space."
+    },
+    {
+        "question": "What is the purpose of this section 2.2.13b?",
+        "answer": "The purpose of this section (2.2.13b) is to establish requirements for the design and ventilation of smoke-free lobbies, including fire lift lobbies, to ensure safe egress and protect occupants from smoke during emergencies in buildings."
+    },
+    {
+        "question": "Under what conditions is the omission of the smoke-free lobby allowed?",
+        "answer": "The omission of the smoke-free lobby leading to the exit staircase of any building exceeding four storeys is allowed under specific conditions provided in the exception of this section."
+    },
+    {
+        "question": "What are the requirements for the fire door opening into the exit staircases?",
+        "answer": "The fire door opening into the exit staircases should have a 1-hour fire resistance rating and be fitted with an automatic self-closing device to comply with the requirements of Cl.3.9.2."
+    },
+    {
+        "question": "In which situations is the omission of a smoke-free lobby not allowed?",
+        "answer": "The omission of a smoke-free lobby to exit staircases is not allowed when the building exceeds four storeys and belongs to PG III or VII, when the internal exit staircase with pressurization exceeds the habitable height of 24m, and when the exit staircase is adjacent to a fire lift as required in Chapter 6."
+    },
+    {
+        "question": "What is the purpose of this section (2.2.13c)?",
+        "answer": "The purpose of this section (2.2.13c) is to specify conditions under which the omission of the smoke-free lobby to exit staircases is allowed and under which situations it is not allowed."
+    },
+    {
+        "question": "What are the requirements for the entry to exit staircases serving basement storeys in a building with more than four basement storeys?",
+        "answer": "In a building comprising more than four basement storeys, the entry to exit staircases serving the basement storeys at every basement storey level shall be through smoke-free lobbies, one of which shall be designated as a fire lift lobby. The exit staircase connecting to the fire lift lobby shall be pressurized to comply with the requirements in Chapter 7. (Section 2.2.14a)"
+    },
+    {
+        "question": "What are the requirements for the entry to exit staircases serving basement storeys in a building with two, three, or four basement storeys?",
+        "answer": "In a building comprising two, three, or four basement storeys, entry at every basement storey level to at least one of the exit staircases serving the basement storeys shall be through a smoke-free lobby. Where only one smoke-free lobby is provided, it shall be required to serve as a fire lift lobby. (Section 2.2.14b)"
+    },
+    {
+        "question": "What are the requirements for smoke-free lobbies in basement occupancies?",
+        "answer": "Smoke-free lobbies in basement occupancies shall be required to comply with the relevant provisions under Cl.2.2.13b. and shall be mechanically ventilated to comply with the requirements in Chapter 7. (Section 2.2.14c)"
+    },
+    {
+        "question": "Explain What is the purpose of this section (2.2.14)?",
+        "answer": "The purpose of this section (2.2.14) is to specify the requirements for smoke-free approach to exit staircases in basements based on the number of basement storeys in a building."
+    },
+    {
+        "question": "Under what conditions can the occupant load for a floor area be reduced when it has access to area(s) of refuge?",
+        "answer": "When a floor area has access to area(s) of refuge and meets the specified requirements in this Clause, the occupant load for which vertical exits are to be accounted for the floor area can be reduced to half when one area of refuge is provided and to one third when two or more areas of refuge are provided. (Section 2.2.15)"
+    },
+    {
+        "question": "What is the required size for an area of refuge?",
+        "answer": "An area of refuge shall be adequate in size to hold the occupant load it receives from the floor area it serves as provision for required exit, in addition to its own occupant load calculated on the basis of 0.3m2 per person except for healthcare occupancies when the occupant load shall comply with the provisions under Cl.9.3.2b.(4). (Section 2.2.15a)"
+    },
+    {
+        "question": "What must an area of refuge be provided with?",
+        "answer": "An area of refuge shall be provided with at least one staircase for use by the occupants to gain access to other exit staircases or the ground level directly to an external space. (Section 2.2.15b)"
+    },
+    {
+        "question": "How should an area of refuge be entered?",
+        "answer": "An area of refuge shall be entered through an external corridor, and the room or space or area of refuge shall be separated from the corridor by a wall with at least 1-hr fire resistance rating. (Section 2.2.15c)"
+    },
+    {
+        "question": "What are the requirements for external corridors when used as entry into an area of refuge?",
+        "answer": "External corridors when used as entry into an area of refuge shall conform to the requirements for external exit passageway for minimum width, changes in floor level, roof protection, enclosure on the open side, and provision of opening of the wall between the room or space and the exit passageway. (Section 2.2.15d)"
+    },
+    {
+        "question": "What are the requirements for exit doors between the area of refuge and the external corridor?",
+        "answer": "Exit doors between the room or space or area of refuge and the external corridor shall have fire resistance of at least ½-hr and be fitted with an automatic self-closing device to comply with the requirements of Cl.3.9.2. (Section 2.2.15e)"
+    },
+    {
+        "question": "What additional requirement is placed on fire compartments when exit reduction is permitted in connection with an area of refuge?",
+        "answer": "Every fire compartment in which exit reduction is permitted in connection with an area of refuge shall have in addition to exit through the area(s) of refuge at least one exit staircase complying with Cl.2.3.3. (Section 2.2.15f)"
+    },
+    {
+        "question": "What is the purpose of this section (2.2.15)?",
+        "answer": "The purpose of this section (2.2.15) is to specify the requirements for area of refuge and exit reduction based on certain conditions for floor areas in a building. (Section 2.2.15)"
+    },
+    {
+        "question": "What is the purpose of Section 2.3.1?",
+        "answer": "The purpose of Section 2.3.1 is to specify general requirements related to means of escape in buildings, including access and exit facilities, exit staircase signage, and fire escape plans. (Section 2.3.1)"
+    },
+    {
+        "question": "What is the general requirement regarding means of escape in buildings?",
+        "answer": "Means of escape shall be provided for all buildings by one or more of the facilities listed in this section. Access and exit facilities not specifically covered in this Code shall not be used without the approval of the SCDF. Required exits shall be kept readily accessible, and doors shall be openable and unobstructed at all times during the occupancy of the building. Any future grille gate/door swing from units/service shaft into the common areas shall be indicated with dotted lines on building plans to show the egress requirements are met, despite the door swing. (Section 2.3.1a)"
+    },
+    {
+        "question": "What are the requirements for exit staircase signage?",
+        "answer": "Exit staircases serving all buildings (except PG I) shall be provided with signage not smaller than 300 x 300mm, and it should be within the stairwell at each storey landing. The signage must contain the storey number (at least 125mm in height) and an identification of the staircase in alphabetical and/or numeric form (at least 25mm in height). The letters and numbers on the sign can be of any colour that provides contrast with the background colour. The signage should be located such that it is visible when the door is in the open position and also visible to any person moving up or down the staircase. (Section 2.3.1b)"
+    },
+    {
+        "question": "What is the significance of the exit staircase signage?",
+        "answer": "Exit staircase signage is significant as it provides essential information within the building to help occupants locate and use the exit staircases effectively during emergencies. (Section 2.3.1b)"
+    },
+    {
+        "question": "What is the requirement regarding fire escape plans?",
+        "answer": "A fire escape plan shall be provided for all buildings except PG I and displayed in common lobbies or lift lobbies so that they are easily viewable by building occupants and the general public passing through these common areas. (Section 2.3.1c(1))"
+    },
+    {
+        "question": "What are the specifications for the fire escape plan?",
+        "answer": "The fire escape plan should have legible lettering and make the fire escape routes clear to the viewer. It must show the floor layout in the correct orientation and highlight escape routes, escape corridors, and exit staircases using appropriate colors, directional signs, and words. The plan should include the locations of fire lifts, evacuation lifts, PWD holding points, hose reels, fire extinguishers, manual alarm call points, and rising mains. (Section 2.3.1c(1))"
+    },
+    {
+        "question": "What is the purpose of the fire escape plan?",
+        "answer": "The fire escape plan serves the purpose of providing essential information to building occupants and the general public for firefighting and evacuation purposes. It helps individuals understand the layout of the building, identify escape routes, and locate important fire safety equipment. (Section 2.3.1c(1))"
+    },
+    {
+        "question": "How can legibility be ensured for fire escape plans in buildings with large floor areas?",
+        "answer": "For buildings with large floor areas, ensuring legibility of the fire escape plan can be achieved by providing a partial plan that shows at least two escape routes. This partial plan should indicate egress paths to at least two remotely located exits/exit staircases, including PWD holding points. (Section 2.3.1c(2))"
+    },
+    {
+        "question": "What is the significance of fire escape plans in buildings?",
+        "answer": "Fire escape plans are significant in buildings as they play a critical role in emergency preparedness and response. They provide clear guidance to occupants and the public on how to safely evacuate the building during a fire or other emergencies. (Section 2.3.1c)"
+    },
+    {
+        "question": "What is the fire resistance requirement for exit passageways serving as means of escape or required exits?",
+        "answer": "Exit passageways serving as a means of escape or required exits shall have the requisite fire resistance as specified under Clause 3.3. (Section 2.3.2a)"
+    },
+    {
+        "question": "What are the requirements for an internal exit passageway serving as a required exit of a building?",
+        "answer": "An internal exit passageway serving as a required exit of a building must comply with the following requirements: (Section 2.3.2b)\n(1) It shall be enclosed with construction complying with the provisions of Clause 3.3.\n(2) The enclosure walls shall have not more than two exit doors, excluding the final discharge door and exit staircase door, opening into the exit passageway.\n(3) Exit doors opening into an exit passageway shall have a fire resistance rating as required for exit doors opening into exit staircases, be fitted with an automatic self-closing device, and comply with the requirements of Clause 3.9.2 for fire-resisting doors.\n(4) The minimum width and capacity of the exit passageway shall comply with the requirements as provided in Table 2.2A.\n(5) Changes in level along an exit passageway requiring less than two risers shall be via a ramp complying with the provisions under Clause 2.3.8.\n(6) If the exit staircase which connects to the internal exit passageway is pressurized, the internal exit passageway shall also be pressurized to comply with the requirements in Chapter 7."
+    },
+    {
+        "question": "What is the purpose of requiring fire resistance in exit passageways?",
+        "answer": "Requiring fire resistance in exit passageways ensures that these passageways can withstand fire for a specified duration, providing a safe means of escape during a fire emergency. (Section 2.3.2a)"
+    },
+    {
+        "question": "How are exit doors in an internal exit passageway regulated?",
+        "answer": "Exit doors opening into an exit passageway must have a required fire resistance rating, be equipped with automatic self-closing devices, and comply with the requirements of Clause 3.9.2 for fire-resisting doors. (Section 2.3.2b(3))"
+    },
+    {
+        "question": "When should an internal exit passageway be pressurized?",
+        "answer": "If the exit staircase that connects to the internal exit passageway is pressurized, the internal exit passageway must also be pressurized to comply with the requirements in Chapter 7. (Section 2.3.2b(6))"
+    },
+    {
+        "question": "What does Table 2.2A specify for exit passageways?",
+        "answer": "Table 2.2A specifies the minimum width and capacity requirements for exit passageways. (Section 2.3.2b(4))"
+    },
+    {
+        "question": "What is the purpose of requiring changes in level to be via a ramp in an exit passageway?",
+        "answer": "Requiring changes in level along an exit passageway to be via a ramp ensures accessibility for individuals with mobility impairments and maintains a continuous, unobstructed egress path. (Section 2.3.2b(5))"
+    },
+    {
+        "question": "What is the section 2.3. about?",
+        "answer": "This section, 2.3.2, outlines the requirements for exit passageways, including fire resistance, door regulations, capacity, accessibility, and pressurization, to ensure they provide safe means of escape in buildings. (Section 2.3.2)"
+    },
+    {
+        "question": "What are the requirements for using an external exit passageway as a required exit?",
+        "answer": "To use an external exit passageway as a required exit, it must comply with the following requirements: (Section 2.3.2c)\n(1) Any ventilation openings on the external wall between the exit passageway and the rest of the floor space shall be of non-combustible construction, fixed at a level of at least 1.8m, measured from the finished floor level of the passageway to the sill level of the openings. Such ventilation openings shall be located not less than 3m from any opening of an exit staircase.\n(2) It is exempted from the limitations of a maximum of two exit doors opening into the exit passageway.\n(3) It can be roofed over provided the depth of the roofed-over portion does not exceed 3m to avoid smoke logging.\n(4) It can be enclosed on the open side by only a parapet wall of not less than 1m and not more than 1.1m in height. The vertical height of the unobstructed and uninterrupted ventilation opening measured from the parapet wall up to the top edge of the opening or eaves of overhang shall be not less than 1.2m.\n(5) Exit doors opening into an external exit passageway shall have a fire resistance rating of at least ½-hour and shall be fitted with an automatic self-closing device."
+    },
+    {
+        "question": "What are the ventilation requirements for internal exit passageways?",
+        "answer": "All internal exit passageways shall be naturally ventilated by fixed ventilation openings in an external wall, with such ventilation openings being not less than 15% of the floor area of the exit passageway. (Section 2.3.2d(1))"
+    },
+    {
+        "question": "explain What is the section 2.3.2 about?",
+        "answer": "This section, 2.3.2, covers the requirements for exit passageways, including external exit passageways and ventilation, to ensure they provide safe means of escape in buildings. (Section 2.3.2)"
+    },
+    {
+        "question": "What are the requirements for the enclosure of an internal exit staircase?",
+        "answer": "An internal exit staircase serving as the required exit of the building shall be enclosed with construction complying with the provisions of Cl.3.8. The enclosure walls of an internal exit staircase, excluding the final discharge, shall not have more than two exit doors opening into the exit staircase shaft at each storey. (Section 2.3.3(a)(1))"
+    },
+    {
+        "question": "When is the enclosure between an internal exit staircase and an external exit passageway or external corridor not required?",
+        "answer": "If an internal exit staircase is directly approached from an external exit passageway or external corridor, such enclosure between the staircase and the external exit passageway or external corridor is not required. (Section 2.3.3(a)(2))"
+    },
+    {
+        "question": "What is the requirement regarding unprotected openings near openings in the external walls of the internal exit staircase?",
+        "answer": "There shall be no unprotected openings of occupancy area or combustible material/construction within 1.5m horizontally or within 3m vertically below any opening, including final discharge openings, located in the external walls of the internal exit staircase. (Section 2.3.3(a)(3))"
+    },
+    {
+        "question": "explain What is the section 2.3.3a about?",
+        "answer": "This section, 2.3.3(a), provides requirements for internal exit staircases, including their enclosure, approach via external exit passageway or corridor, and protection against unprotected openings near staircase openings. (Section 2.3.3(a))"
+    },
+    {
+        "question": "Under what conditions can doors to exit staircases of standalone car park buildings without any commercial activities or non-ancillary usage be omitted?",
+        "answer": "Doors to exit staircases of standalone car park buildings without any commercial activities or non-ancillary usage can be omitted if the following conditions are complied with: (i) The car park building shall not exceed five storeys above ground, with no basement storey, and shall not be connected to any other building, except by an open-sided covered link-way. (ii) At least two exit staircases shall be provided to serve every upper storey, with specific requirements for location, clear width, clear height, ventilation, and separation from occupancy areas. (iii) Every storey shall have cross ventilation, with the building being open-sided and having specific requirements for the percentage of open sides and distribution of openings. (iv) No part of the floor space shall be more than 12m from the openings on the perimeter walls or air wells, with specific requirements for air well dimensions. (v) Travel distances within each car parking deck shall comply with Table 2.2A, with specific requirements for upper storeys. (vi) The separation distance between the nearest edge of exit opening to exit staircase and the nearest edge of any vehicle parking lot shall not be less than 3m. (Section 2.3.3(4)(b)(i-vi))"
+    },
+    {
+        "question": "What is the maximum number of storeys that a standalone car park building without any commercial activities or non-ancillary usage can have to omit exit staircase doors?",
+        "answer": "A standalone car park building without any commercial activities or non-ancillary usage can omit exit staircase doors if it does not exceed five storeys above ground. (Section 2.3.3(4)(b)(i))"
+    },
+    {
+        "question": "What are the specific requirements for the location of the two exit staircases in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "The two exit staircases shall be located as remotely from one another as practicable. (Section 2.3.3(4)(b)(ii))"
+    },
+    {
+        "question": "What are the specific requirements for the clear width and clear height of exit openings to the staircases in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "The exit openings to the staircases at each storey shall have a clear width of not more than 1m or less than 850mm and a clear height of not more than 2m. (Section 2.3.3(4)(b)(ii))"
+    },
+    {
+        "question": "What are the specific ventilation requirements for the exit staircases in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "The staircases shall be ventilated by fixed openings in the external walls, with such openings being of area not less than 10% of the floor area per floor of the staircase. (Section 2.3.3(4)(b)(ii))"
+    },
+    {
+        "question": "What are the specific requirements for cross ventilation in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "Every storey shall have cross ventilation, with the building being open-sided and having specific requirements for the percentage of open sides and distribution of openings. (Section 2.3.3(4)(b)(iii))"
+    },
+    {
+        "question": "What is the maximum allowable distance between any part of the floor space and the openings on the perimeter walls or air wells in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "No part of the floor space shall be more than 12m from the openings on the perimeter walls or air wells, with specific requirements for air well dimensions. (Section 2.3.3(4)(b)(iv))"
+    },
+    {
+        "question": "What are the requirements for travel distances within each car parking deck in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "The travel distance within each car parking deck shall comply with Table 2.2A, with specific requirements for upper storeys. (Section 2.3.3(4)(b)(v))"
+    },
+    {
+        "question": "What is the minimum separation distance required between the nearest edge of exit opening to exit staircase and the nearest edge of any vehicle parking lot in a standalone car park building without any commercial activities or non-ancillary usage?",
+        "answer": "The separation distance between the nearest edge of exit opening to exit staircase and the nearest edge of any vehicle parking lot shall not be less than 3m. (Section 2.3.3(4)(b)(vi))"
+    },
+    {
+        "question": "What is the 2.3.3(4)x section about?",
+        "answer": "This section, 2.3.3(4)(b)(i-vi), outlines the conditions and requirements for standalone car park buildings without any commercial activities or non-ancillary usage to omit exit staircase doors. It specifies specific criteria related to building height, exit staircase location, dimensions, ventilation, cross ventilation, floor space, travel distances, and separation distances from parking lots. (Section 2.3.3(4)(b)(i-vi))"
+    },
+    {
+        "question": "Under what condition can an exit staircase qualify as an external exit staircase?",
+        "answer": "An exit staircase can qualify as an external exit staircase if it complies with Cl.1.4.50. (Section 2.3.3(1))"
+    },
+    {
+        "question": "When can an external exit staircase be used as a required exit in place of an internal exit staircase?",
+        "answer": "An external exit staircase can be used as a required exit in place of an internal exit staircase if it complies with the requirements for exit staircases and there are no unprotected openings or combustible material/construction within 3m horizontally or within 3m vertically below, or adjacent or facing it. (Section 2.3.3(2))"
+    },
+    {
+        "question": "What is the exception for using the open-sided external corridor for access to an external exit staircase?",
+        "answer": "In a building designed with external corridor access, the access to the external exit staircase can be by means of the open-sided external corridor adjoining the occupancy areas, subject to the conditions that the external corridor shall be served by at least two exit staircases, unobstructed ventilation openings shall be provided along the long side of the external corridor above the parapet or balustrade, and its final discharge leads directly to an external space. (Section 2.3.3(2) - Exception)"
+    },
+    {
+        "question": "What is the requirement for fire-rated doors to the external exit staircases?",
+        "answer": "Fire-rated doors to the external exit staircases shall be provided unless the conditions given in Cl.2.3.3a(4) are fully complied with. (Section 2.3.3(3))"
+    },
+    {
+        "question": "explain What is the section 2.3.3(1)-(2)-(3) about?",
+        "answer": "This section, 2.3.3(1)-(3), outlines the conditions and requirements for external exit staircases and when they can be used as a required exit in place of internal exit staircases. It also provides an exception for buildings with external corridor access and specifies the requirements for fire-rated doors. (Section 2.3.3(1)-(3))"
+    },
+    {
+        "question": "What are the acceptable discharge locations for exit staircases at ground level?",
+        "answer": "Exit staircases at ground level can discharge directly into: (a) an external space, (b) an open-sided external corridor with no commercial activity and is not more than 5m from the building eave line, (c) an open-to-sky corridor with a minimum width of 1.2m and two-way escape paths leading to an external space (with unprotected openings not lower than 1.8m from the floor level), or (d) an air well of size complying with Table 1.4.2 with a discharge point at the grade level having at least 2 separated egress routes with direct access through circulation space to the building external. (Section 2.3.3c(1)(a)-(d))"
+    },
+    {
+        "question": "What is the minimum width requirement for an open-to-sky corridor leading to an external space?",
+        "answer": "The open-to-sky corridor leading to an external space should have a minimum width of 1.2m. (Section 2.3.3c(1)(c))"
+    },
+    {
+        "question": "What is the purpose of specifying a minimum height for unprotected openings along the open-to-sky corridor?",
+        "answer": "The minimum height of 1.8m for unprotected openings along the open-to-sky corridor ensures that these openings are positioned higher from the floor level to enhance safety. (Section 2.3.3c(1)(c))"
+    },
+    {
+        "question": "What does the term 'air well' refer to in this context?",
+        "answer": "The term 'air well' refers to a specific type of open space or void within the building that meets the size requirements specified in Table 1.4.2 and provides a discharge point at grade level with multiple egress routes leading to the building's exterior. (Section 2.3.3c(1)(d))"
+    },
+    {
+        "question": "What is the section 2.3.3(1)(a)-(b)-(c)-(d) about?",
+        "answer": "This section, 2.3.3(1)(a)-(d), details the acceptable discharge locations for exit staircases at ground level, ensuring that they provide safe and direct access to external spaces or designated corridors. (Section 2.3.3c(1)(a)-(d))"
+    },
+    {
+        "question": "Under what conditions can a maximum of 50% of the total number of exit staircases be discharged directly to the ground level covered circulation space in a sprinkler-protected building?",
+        "answer": "A maximum of 50% of the total number of exit staircases can be discharged directly to the ground level covered circulation space in a sprinkler-protected building if the specified conditions are complied with. (Section 2.3.3(2))"
+    },
+    {
+        "question": "What is the requirement for the discharge point of an exit staircase into the ground level circulation space?",
+        "answer": "The discharge point of the exit staircase into the ground level circulation space should be within sight of and have direct access to an external space. (Section 2.3.3(2)(a))"
+    },
+    {
+        "question": "What is the maximum allowed distance between the discharge point of an exit staircase and the external space?",
+        "answer": "The maximum distance between the discharge point of an exit staircase and the external space should not exceed 10 meters. (Section 2.3.3(2)(b))"
+    },
+    {
+        "question": "How should commercial activities along the designated escape passageway leading to an external space be managed in this context?",
+        "answer": "If there are commercial activities, such as shops or kiosks/carts, along one or both sides of the designated escape passageway leading to an external space, a minimum separation distance of 10 meters should be maintained between the commercial activities and the designated escape passageway. The circulation space should also be equipped with an engineered smoke control system. Alternatively, the commercial activities should be fire compartmented with walls and doors of a minimum 1-hour fire resistance rating. (Section 2.3.3(2)(c))"
+    },
+    {
+        "question": "What is the requirement for the clear width of exit doors leading to an external space?",
+        "answer": "The clear width of the exit doors leading to an external space should be adequate to receive the occupant load in the 1st storey circulation space and the total number of people discharging from the internal exit staircases. (Section 2.3.3(2)(d))"
+    },
+    {
+        "question": "What is the section 2.3.3(2)(a)-(b)-(c)-(d) about?",
+        "answer": "This section, 2.3.3(2)(a)-(d), outlines the conditions and requirements for discharging exit staircases directly to the ground level covered circulation space in sprinkler-protected buildings, ensuring safety and accessibility to external spaces. (Section 2.3.3(2))"
+    },
+    {
+        "question": "In the case of a PG II residential building without an automatic sprinkler system, how many exit staircases must discharge to an external space?",
+        "answer": "In the case of a PG II residential building without an automatic sprinkler system, at least 50% of the total number of exit staircases must discharge to an external space. (Section 2.3.3(3))"
+    },
+    {
+        "question": "What are the requirements for the ground level covered circulation space in such buildings?",
+        "answer": "The ground level covered circulation space must be free of any commercial activity. (Section 2.3.3(3)(a))"
+    },
+    {
+        "question": "What is the maximum allowed distance between the discharge point of an exit staircase and the external space in this context?",
+        "answer": "The maximum distance between the discharge point of an exit staircase and the external space should not exceed 10 meters. (Section 2.3.3(3)(c))"
+    },
+    {
+        "question": "How should the discharge point of an exit staircase be ventilated?",
+        "answer": "The discharge point of an exit staircase should be effectively cross-ventilated, with each end having at least 50% permanent openings, and no part of the circulation space should be more than 10 meters from the openings on the perimeter walls of the building or air well. (Section 2.3.3(3)(e))"
+    },
+    {
+        "question": "What is the section 2.3.3(3)(a)-b-c-d-(e) about?",
+        "answer": "This section, 2.3.3(3)(a)-(e), specifies the requirements for exit staircases in PG II residential buildings without automatic sprinkler systems, ensuring that a portion of exit staircases discharge to external spaces and ground level circulation spaces while maintaining safety and accessibility. (Section 2.3.3(3))"
+    },
+    {
+        "question": "What is the required distance for unprotected openings or combustible materials from the discharge point of the exit staircase?",
+        "answer": "There shall be no unprotected openings of occupancy area or combustible material/construction within 3 meters from the discharge point of the exit staircase. This distance can be reduced to 1.5 meters if the unprotected openings are along the same plane of the staircase exit. (Section 2.3.3(4))"
+    },
+    {
+        "question": "What is the requirement regarding obstructions or objects encroaching on the egress path at the discharge point of the exit staircase?",
+        "answer": "There shall be no obstruction or any object encroaching, including any door swinging, onto the egress path at the discharge point of the exit staircase. The width of the egress path at the discharge point shall not be less than the width of the exit staircase. (Section 2.3.3(5))"
+    },
+    {
+        "question": "What is the section  2.3.3(4)-(5) about?",
+        "answer": "This section, 2.3.3(4)-(5), outlines requirements to ensure the safety and accessibility of exit staircases at their discharge points, including distance requirements from unprotected openings, and the prevention of obstructions on the egress path. (Section 2.3.3(4)-(5))"
+    },
+    {
+        "question": "What are the minimum width and capacity requirements for exit staircases?",
+        "answer": "The minimum width and capacity of exit staircases shall be as specified in Table 2.2A. (Section 2.3.3(d))"
+    },
+    {
+        "question": "Are winders allowed in exit staircases?",
+        "answer": "Winders are not permitted in any building other than for access staircases in a residential unit. In such cases, there shall be not more than one winder per 90° turn. (Section 2.3.3(d)(1))"
+    },
+    {
+        "question": "What are the width requirements for treads in circular staircases used as exit staircases?",
+        "answer": "Where a circular staircase is used as an exit staircase or access staircase in PG I & II buildings, the width of treads measured at the narrower end shall be not less than 100mm in residential buildings and 125mm in other buildings, and at a distance of half meter from the narrower end shall be not less than 225mm in residential buildings and 250mm in other buildings. Such staircase shall not be more than 10m in height. (Section 2.3.3(d)(2))"
+    },
+    {
+        "question": "What are the requirements for landings in exit staircases?",
+        "answer": "The minimum clear width and length of a landing, where there is a change in direction, shall not be less than the clear width of the exit staircase. (Section 2.3.3(d)(3))"
+    },
+    {
+        "question": "explain What is the section 2.3.3(d) about?",
+        "answer": "This section, 2.3.3(d), specifies the minimum width and capacity requirements for exit staircases, restrictions on winders, requirements for treads in circular staircases, and the standards for landings in exit staircases. (Section 2.3.3(d))"
+    },
+    {
+        "question": "What is the maximum height allowed for the riser in an exit staircase?",
+        "answer": "The height of the riser for any exit staircase shall not be more than 175mm. (Section 2.3.3(4))"
+    },
+    {
+        "question": "What are the minimum depth requirements for the tread in exit staircases?",
+        "answer": "The minimum depth of the tread shall not be less than: (a) 225mm within residential units and 275mm for common areas of residential buildings; (b) 250mm for PG VI and VIII buildings; and (c) 275mm for all other buildings. (Section 2.3.3(4))"
+    },
+    {
+        "question": "What is the purpose of specifying riser and tread dimensions in exit staircases?",
+        "answer": "The purpose of specifying riser and tread dimensions is to ensure the safety and usability of exit staircases in different types of buildings. (Section 2.3.3(4))"
+    },
+    {
+        "question": "How does the depth of treads vary for different building types?",
+        "answer": "The depth of treads varies depending on the building type: 225mm within residential units and 275mm for common areas of residential buildings; 250mm for PG VI and VIII buildings; and 275mm for all other buildings. (Section 2.3.3(4))"
+    },
+    {
+        "question": "What is the section 2.3.3(4) about?",
+        "answer": "This section, 2.3.3(4), specifies the maximum height of risers and the minimum depth of treads for exit staircases in different types of buildings to ensure safety and usability. (Section 2.3.3(4))"
+    },
+    {
+        "question": "What is the minimum required clear headroom for an exit staircase?",
+        "answer": "The clear headroom shall be at least 2m measured from the pitch line of the exit staircase or finished floor level of the landing to the underside of any obstruction. (Section 2.3.3(5))"
+    },
+    {
+        "question": "How many handrails are required for every exit staircase?",
+        "answer": "Every exit staircase shall have handrails on both sides. (Section 2.3.3(6)(a))"
+    },
+    {
+        "question": "Under what condition can a handrail be provided only on one side of an exit staircase?",
+        "answer": "For exit staircases with only 1.25m or less in width, a handrail can be provided only at one side; the opposite side shall be either a wall, parapet, or grilles. (Section 2.3.3(6)(a))"
+    },
+    {
+        "question": "When should handrails be provided according to the width of the exit staircase?",
+        "answer": "Where the width of the exit staircase exceeds 2m, handrails shall be provided in accordance with the requirements of Cl.2.2.8. (Section 2.3.3(6)(b))"
+    },
+    {
+        "question": "What is the section 2.3.3(5) and (6) about?",
+        "answer": "This section, 2.3.3(5) and (6), specifies the requirements for clear headroom in exit staircases and the placement of handrails to ensure safety and accessibility. (Section 2.3.3(5) and (6))"
+    },
+    {
+        "question": "What are the ventilation requirements for exit staircases?",
+        "answer": "All exit staircases shall be ventilated by fixed openings in the external walls, such openings being of area not less than 10% of the floor area per floor of the staircase, or mechanically ventilated to comply with the requirements in Chapter 7."
+    },
+    {
+        "question": "Under what conditions is mechanical ventilation allowed for exit staircases?",
+        "answer": "Mechanical ventilation is not allowed for PG II buildings, except for a staircase storey shelter."
+    },
+    {
+        "question": "What is the section 2.3.3(7) about?",
+        "answer": "This section, 2.3.3(7), outlines the ventilation requirements for exit staircases, including the options for natural ventilation through fixed openings or mechanical ventilation, with exceptions for certain building types. It also references the requirements in Chapter 7 for mechanical ventilation. (Section 2.3.3(7))"
+    },
+    {
+        "question": "Under what conditions should internal exit staircases be pressurized?",
+        "answer": "In any building, except PG II for which the habitable height exceeds 24m, any internal exit staircases without provision for natural ventilation shall be pressurised to comply with the requirements in Chapter 7."
+    },
+    {
+        "question": "In what type of building should the exit staircase connecting to the fire lift lobby be pressurised?",
+        "answer": "In a building comprising more than four basement storeys, the exit staircase connecting to the fire lift lobby shall be pressurised."
+    },
+    {
+        "question": "What is the purpose of pressurising exit staircases?",
+        "answer": "Pressurisation of exit staircases helps ensure the safe evacuation of occupants during a fire emergency by preventing smoke from entering the staircase and maintaining a clear and safe egress path."
+    },
+    {
+        "question": "What is the section 2.3.3(8) about?",
+        "answer": "This section, 2.3.3(8), outlines the requirements for pressurising internal exit staircases in buildings, specifying the conditions under which pressurisation is required and referencing the requirements in Chapter 7. It also mentions the pressurisation of the exit staircase connecting to the fire lift lobby in buildings with more than four basement storeys. (Section 2.3.3(8))"
+    },{
+        "question": "Under what conditions can the internal exit staircase have different modes of ventilation within a single shaft?",
+        "answer": "For buildings exceeding 24m in habitable height, the internal exit staircase can be naturally ventilated at its upper part and mechanically ventilated at its lower part, provided the lower part does not exceed 24m in habitable height, and there shall not be any intermediate staircase landing door separating the two modes of ventilation."
+    },
+    {
+        "question": "What is the alternative requirement if the lower part of the internal exit staircase exceeds 24m in habitable height?",
+        "answer": "If the lower part of the internal exit staircase exceeds 24m in habitable height, this lower part shall be pressurised instead of having different modes of ventilation. For pressurisation of the exit staircase, an intermediate staircase landing door is permitted."
+    },
+    {
+        "question": "What is the purpose of allowing different modes of ventilation within a single staircase shaft?",
+        "answer": "Allowing different modes of ventilation within a single staircase shaft provides flexibility in meeting ventilation requirements while ensuring fire safety in tall buildings."
+    },
+    {
+        "question": "What is the section 2.3.3(9) about?",
+        "answer": "This section, 2.3.3(9), specifies the conditions under which the internal exit staircase in tall buildings can have different modes of ventilation within a single shaft, allowing for natural ventilation at the upper part and mechanical ventilation at the lower part, as long as certain height limits and requirements are met. It also provides an alternative requirement if the lower part exceeds 24m in habitable height. (Section 2.3.3(9))"
+    },
+    {
+        "question": "What are the requirements for scissor exit staircases?",
+        "answer": "Scissor exit staircases must comply with several requirements outlined in this section."
+    },
+    {
+        "question": "How should two separate internal exit staircases within the same enclosure be separated?",
+        "answer": "Each exit staircase should be separated from the other by non-combustible construction with fire resistance equal to that required for the enclosure."
+    },
+    {
+        "question": "What is the required separation distance between exit door openings of scissor exit staircases?",
+        "answer": "The separation distance between the two closer edges of staircase doors should be at least 7 meters."
+    },
+    {
+        "question": "How should the door openings into scissor exit staircases be spaced when there is only one pair of scissor exit staircases?",
+        "answer": "In a sprinkler-protected building, the door openings should be spaced at least 1/3 the diagonal dimension of the area to be served. In a non-sprinkler-protected building, they should be spaced at least ½ the diagonal dimension."
+    },
+    {
+        "question": "Where should the ventilation openings of each staircase be located?",
+        "answer": "The ventilation openings of each staircase should be located on alternate storeys if they are serving both staircases on the same wall."
+    },
+    {
+        "question": "What is the purpose/need of scissor exit staircases?",
+        "answer": "Scissor exit staircases are designed to provide safe means of egress from a building and ensure fire safety by separating internal exit staircases within the same enclosure."
+    },
+    {
+        "question": "What is the section 2.3.4 about?",
+        "answer": "This section, 2.3.4, outlines the requirements for scissor exit staircases, including their separation, compliance with exit staircase provisions, door opening spacing, and ventilation placement. (Section 2.3.4)"
+    },
+    {
+        "question": "What are the requirements for exit staircases serving a basement storey?",
+        "answer": "Exit staircases serving a basement storey must comply with all applicable provisions for exit staircases."
+    },
+    {
+        "question": "Can a basement exit staircase be made continuous with an exit staircase serving a non-basement storey?",
+        "answer": "No, a basement exit staircase cannot be made continuous with an exit staircase serving a non-basement storey of the building."
+    },
+    {
+        "question": "How should basement exit staircases aligned with exit staircases of non-basement storeys be separated?",
+        "answer": "Basement exit staircases aligned with exit staircases of non-basement storeys should be separated by construction having fire resistance equal to that required for the enclosure."
+    },
+    {
+        "question": "What is the purpose of these requirements for basement exit staircases?",
+        "answer": "The requirements ensure that exit staircases serving basement storeys of a building meet safety standards and are appropriately separated from other exit staircases."
+    },
+    {
+        "question": "What is the section 2.3.5 about?",
+        "answer": "This section, 2.3.5, outlines the requirements for basement exit staircases, including their compliance with exit staircase provisions and separation from exit staircases serving non-basement storeys. (Section 2.3.5)"
+    },
+    {
+        "question": "Under what conditions is an upper storey staircase allowed to be continuous with one serving a basement?",
+        "answer": "An upper storey staircase can be continuous with one serving a basement if allowed by the SCDF (Singapore Civil Defence Force)."
+    },
+    {
+        "question": "How should entry into the basement staircase be arranged?",
+        "answer": "Entry into the basement staircase should be through a protected lobby or directly from the basement occupancy area, provided the door to the basement staircase is at least 1-hour fire-rated."
+    },
+    {
+        "question": "What is required to prevent occupants from continuously exiting from upper storeys into the basement during an emergency?",
+        "answer": "To prevent occupants from continuously exiting from upper storeys into the basement during an emergency, a physical barrier in the form of a door or gate (self-closing type) shall be provided across the staircase landing at ground level."
+    },
+    {
+        "question": "What is the purpose of a smoke-free lobby in the staircase?",
+        "answer": "A smoke-free lobby shall be provided for entry into the staircase at all storeys, including basement storeys, if the staircase serves more than four storeys, including basement storeys. Its purpose is to ensure that the lobby remains free of smoke during emergencies."
+    },
+    {
+        "question": "What should be provided inside the staircase enclosure to guide occupants during emergencies?",
+        "answer": "Appropriate signage shall be provided inside the staircase enclosure to direct occupants out of the building at ground level."
+    },
+    {
+        "question": "What does this subsection 2.3.5d address or upper storey staircases that continue into the basement?",
+        "answer": "This subsection, 2.3.5d, provides requirements for upper storey staircases that continue into the basement, including entry arrangements, barriers, smoke-free lobbies, and signage to ensure safety during emergencies. (Section 2.3.5d)"
+    },
+    {
+        "question": "Under what conditions can a hardwood staircase be used in a building?",
+        "answer": "A hardwood staircase can be used as an internal access staircase in a building."
+    },
+    {
+        "question": "What requirement applies to timber staircases used in units in PG I and II buildings that are not under conservation?",
+        "answer": "In PG I and II buildings that are not under conservation, where timber staircases are used, the structural elements such as the stringer supporting the treads and risers shall be constructed of non-combustible materials."
+    },
+    {
+        "question": "What does this section 2.3.6 address for the use of hardwood staircases in buildings?",
+        "answer": "This section, 2.3.6, provides conditions and requirements for the use of hardwood staircases in buildings, including the use as an internal access staircase and the construction of structural elements in certain building types. (Section 2.3.6)"
+    },
+    {
+        "question": "Under what conditions can spiral staircases serve as required exits?",
+        "answer": "Spiral staircases can serve as required exits if they comply with the following conditions: 1. They must be external and unenclosed; 2. They can serve only mezzanine floors, balconies, or any storey with an occupant load not exceeding 25 persons; 3. They must be constructed of non-combustible materials; 4. They must have a tread length of at least 750mm; and 5. They must not exceed a height of 10 meters."
+    },
+    {
+        "question": "In which types of buildings are spiral staircases not allowed to be designed as the sole means of escape?",
+        "answer": "Spiral staircases shall not be designed as the sole means of escape for buildings under PG I and for PG II maisonettes and penthouses."
+    },
+    {
+        "question": "What is the primary purpose of this section 2.3.7 to specify the conditions under which spiral staircases can serve?",
+        "answer": "The primary purpose of this section, 2.3.7, is to specify the conditions under which spiral staircases can serve as required exits and under which circumstances they cannot, particularly in certain building types. (Section 2.3.7)"
+    },
+    {
+        "question": "What is the requirement for door operation in exit and exit access doors?",
+        "answer": "Exit/exit access doors shall be capable of being opened manually from the inside of the building, without the use of a key, tool, or special knowledge or effort. However, this requirement does not apply within residential units under PG I and II."
+    },
+    {
+        "question": "What is the requirement for fire resistance in exit and exit access doors?",
+        "answer": "Exit/exit access doors that are required to have a fire resistance rating shall comply with the relevant provisions for fire resisting doors under Cl.3.9.2."
+    },
+    {
+        "question": "In what situations must exit doors and exit access doors open in the direction of exit travel?",
+        "answer": "Exit doors and exit access doors must open in the direction of exit travel in the following situations: 1. When leading to an area of refuge, exit, or exit passageway. 2. When used in an exit enclosure, including smoke-free and fire lift lobbies in a building, except for doors of individual residential units that open directly into an exit enclosure. 3. When serving a high hazard area. 4. When serving a room or space with more than 50 persons."
+    },
+    {
+        "question": "What is the purpose of this section 2.3.9, is to specify requirements for exit doors and exit access doors?",
+        "answer": "The purpose of this section, 2.3.9, is to specify requirements for exit doors and exit access doors, including their operation, fire resistance, and the direction in which they must open in certain situations. (Section 2.3.9)"
+    },
+    {
+        "question": "What is the requirement for exit doors opening into exit staircases and exit passageways?",
+        "answer": "Exit doors opening into exit staircases and exit passageways shall not impede the egress of occupants when such doors are swung open."
+    },
+    {
+        "question": "What is the requirement for doors opening into corridors?",
+        "answer": "All doors that open into the corridor shall not hinder the movement of occupants. When such a door is swung open, the corridor's clear width shall be at least half of the required clear width as stipulated under Table 2.2A."
+    },
+    {
+        "question": "What is the maximum allowable opening force for exit doors and exit access doors?",
+        "answer": "The maximum allowable opening force for exit doors and exit access doors is 30N at 0° and 20N at 30° opening."
+    },
+    {
+        "question": "What is the purpose of these requirements in section 2.3.9(d) are designed to ensure that exit doors and exit access doors do not impede the safe egress of occupants?",
+        "answer": "These requirements in Section 2.3.9(d) are designed to ensure that exit doors and exit access doors do not impede the safe egress of occupants and that doors opening into corridors do not obstruct the movement of occupants in case of an emergency. They also specify maximum allowable opening forces for such doors. (Section 2.3.9(d))"
+    },
+    {
+        "question": "What are the requirements for the vision panel in the fire door to an exit staircase and smoke-free/fire lift lobby?",
+        "answer": "The vision panel shall have a clear view size of 100mm (width) by 600mm (height), the requisite fire resistance rating, and shall not turn opaque when subject to heat. The bottom edge of the vision panel shall be located at 900mm above the finished floor level. The provision of vision panel shall not apply to fire doors of residential apartment or maisonette units."
+    },
+    {
+        "question": "Can revolving doors be used as exit/exit access doors for required exits?",
+        "answer": "No, revolving doors shall not be used as exit/exit access doors for required exits."
+    },
+    {
+        "question": "What is the requirement for the location of exit/exit access doors of each residential unit?",
+        "answer": "Exit/exit access door of each residential unit shall be located at not more than 500mm from the strata-title line to prevent the creation of a large entrance alcove/corridor. However, in situations where the entrance alcove/corridor leads into an open-sided common corridor which meets the requirements for smoke-free approach under Cl.9.2.1a.(4)(e) & (f), the separation distance between the entrance alcove/corridor and the nearest exit staircase shall not be less than 3m."
+    },
+    {
+        "question": "What is the purpose of these requirements in Section 2.3.9(e), (f), and (g) aim to ensure that exit doors and access doors are equipped with vision panels for safety and visibility?",
+        "answer": "These requirements in Section 2.3.9(e), (f), and (g) aim to ensure that exit doors and access doors are equipped with vision panels for safety and visibility, prevent the use of revolving doors as required exit doors, and specify the location of exit/exit access doors of residential units to optimize safety during emergencies."
+    },
+    {
+        "question": "What type of doors are required for any door located in a path of travel?",
+        "answer": "Any door located in a path of travel shall be of the side-hinged or pivoted swing type. The door shall be designed and installed so that when swung open, it does not prevent full use of the opening. The minimum clear width of the door opening shall not be less than the required door clear width."
+    },
+    {
+        "question": "Are there any exceptions to the requirement for door swing type?",
+        "answer": "Yes, the requirement on door swing does not apply to buildings under PG I and residential units under PG II."
+    },
+    {
+        "question": "Under what conditions can locking of exit/exit access doors be permissible?",
+        "answer": "With prior consent from the SCDF, locking of exit/exit access doors is permissible at certain rooms or spaces of healthcare occupancies and detention and correctional occupancies."
+    },
+    {
+        "question": "Are sliding doors and roller shutters permitted for exit access leading to exits?",
+        "answer": "Yes, sliding door and roller shutter installations are permitted across the exit access leading to exits, including exterior door openings, except in areas stipulated under Cl.2.3.9c.(1) and (3). These doors shall not form part of the fire compartment integrity."
+    },
+    {
+        "question": "What is the purpose of these requirements in Section 2.3.9(h) ensure that doors in the path of travel are of the appropriate type?",
+        "answer": "These requirements in Section 2.3.9(h) ensure that doors in the path of travel are of the appropriate type to facilitate egress, with exceptions for certain building types and locking consent for specific occupancies. Additionally, they permit the use of sliding doors and roller shutters for exit access in various situations."
+    },
+    {
+        "question": "What is the maximum opening force allowed for manually operable sliding doors or roller shutters?",
+        "answer": "The maximum opening force for sliding doors/roller shutters shall not be more than 30N."
+    },
+    {
+        "question": "Under what conditions is a manually operable sliding door or roller shutter permitted to remain in the closed position during the period of occupation?",
+        "answer": "A manually operable sliding door or roller shutter that can remain in the closed position during the period of occupation is permitted for rooms or spaces with an occupant load not exceeding 50 persons. When opened, it shall not reduce the effective width/height of the doorway leading to the escape route."
+    },
+    {
+        "question": "What is the requirement for manually operable sliding doors or roller shutters for rooms or spaces serving more than 50 persons?",
+        "answer": "A manually operable sliding door or roller shutter is allowed for a room or space that serves more than 50 persons, provided it shall remain in the full open position during the period of occupation. A readily discernible sign with the lettering “THIS DOOR TO REMAIN OPEN WHEN THE BUILDING IS OCCUPIED” shall be permanently pasted on both sides of such a sliding door or roller shutter at a height of 1.4m from the finished floor level. The lettering shall be 25mm in height and painted in white on a red background with a reflective surface."
+    },
+    {
+        "question": "What is the purpose of these requirements for manually operable sliding doors and roller shutters?",
+        "answer": "These requirements ensure that manually operable sliding doors and roller shutters can be used for egress in specific situations while maintaining safety standards. The conditions are based on the occupant load and the need to keep escape routes clear during periods of occupation."
+    },
+    {
+        "question": "What is a wicket door?",
+        "answer": "A wicket door can be incorporated within a roller shutter or sliding door. It is of the swing type with a minimum head height of 2m and a clear width not less than the required door clear width."
+    },
+    {
+        "question": "What are the requirements for a wicket door?",
+        "answer": "The wicket door shall comply with all the requirements of an exit access door. It should be clearly marked and readily visible for occupants to see. It should only have simple manual fastenings for ease of escape."
+    },
+    {
+        "question": "What is a sliding door with a swing-out feature?",
+        "answer": "A sliding door with a swing-out feature is a door that can be swung open in the direction of escape travel when a certain horizontal force is applied to the door."
+    },
+    {
+        "question": "What are the requirements for a sliding door with a swing-out feature?",
+        "answer": "When the sliding door is converted to a swing door, it shall comply with all the requirements of an exit access door. The maximum door opening force shall be 30N at 0° and 20N at 30° opening. A readily visible sign with the lettering “IN EMERGENCY, PUSH TO OPEN” shall be affixed onto the door."
+    },
+    {
+        "question": "What is the purpose of these provisions for wicket doors and sliding doors with swing-out features?",
+        "answer": "These provisions ensure that wicket doors and sliding doors with swing-out features meet safety requirements for exit access doors while allowing for ease of escape during emergencies."
+    },
+    {
+        "question": "What is the section 2.3.9(2)c primarily about?",
+        "answer": "This section primarily covers the requirements and specifications for exit doors and exit access doors, including provisions for wicket doors and sliding doors with swing-out features."
+    },
+    {
+        "question": "What are the requirements for power-operated automatic sliding doors/roller shutters?",
+        "answer": "Power-operated automatic sliding doors/roller shutters shall be linked to the building fire alarm system. They shall automatically open to the required width/height upon the activation of the fire alarm."
+    },
+    {
+        "question": "What type of automatic sliding doors/roller shutters are required?",
+        "answer": "The automatic sliding doors/roller shutters shall be of the fail-safe type. In case of electrical or sensor device faults, or power failure, they shall automatically open and remain open until power is restored."
+    },
+    {
+        "question": "What is the purpose of a manual override mechanism for automatic sliding doors/roller?",
+        "answer": "A manual override mechanism is provided to trigger the immediate opening of sliding doors/roller shutters. It ensures that the doors open and remain open upon activation, especially in emergencies."
+    },
+    {
+        "question": "Where should the manual override device be located?",
+        "answer": "The manual override device shall be housed in a break glass box located beside the sliding doors or roller shutters. It should be fixed at a height of 1.2m above the finished floor level, easily accessible, conspicuous, and free from obstructions. A readily discernible sign with the lettering “EMERGENCY DOOR RELEASE” shall be permanently displayed beside the switch."
+    },
+    {
+        "question": "Are there any exceptions to the requirement to link power-operated doors to the building fire alarm system?",
+        "answer": "Powered sliding doors, roller shutters, and swing doors belonging to unit owners or tenants are not required to be linked to the building fire alarm system, provided they are designed as fail-safe type, installed with manual override, and do not form part of the building’s fire protection system, such as a smoke control system."
+    },
+    {
+        "question": "What is the primary purpose of these requirements for power-operated doors?",
+        "answer": "The primary purpose of these requirements is to ensure that power-operated automatic sliding doors/roller shutters are equipped with safety features, including automatic opening during fire alarms, fail-safe mechanisms, and manual override for emergency situations."
+    },
+    {
+        "question": "What are the requirements for power-operated automatic sliding doors/roller shutters?",
+        "answer": "Power-operated automatic sliding doors/roller shutters shall be linked to the building fire alarm system. They shall automatically open to the required width/height upon the activation of the fire alarm."
+    },
+    {
+        "question": "What type of automatic sliding doors/roller shutters are required?",
+        "answer": "The automatic sliding doors/roller shutters shall be of the fail-safe type. In case of electrical or sensor device faults, or power failure, they shall automatically open and remain open until power is restored."
+    },
+    {
+        "question": "What is the purpose of a manual override mechanism for these doors?",
+        "answer": "A manual override mechanism is provided to trigger the immediate opening of sliding doors/roller shutters. It ensures that the doors open and remain open upon activation, especially in emergencies."
+    },
+    {
+        "question": "Where should the manual override device be located?",
+        "answer": "The manual override device shall be housed in a break glass box located beside the sliding doors or roller shutters. It should be fixed at a height of 1.2m above the finished floor level, easily accessible, conspicuous, and free from obstructions. A readily discernible sign with the lettering “EMERGENCY DOOR RELEASE” shall be permanently displayed beside the switch."
+    },
+    {
+        "question": "Are there any exceptions to the requirement to link power-operated doors to the building fire alarm system?",
+        "answer": "Powered sliding doors, roller shutters, and swing doors belonging to unit owners or tenants are not required to be linked to the building fire alarm system, provided they are designed as fail-safe type, installed with manual override, and do not form part of the building’s fire protection system, such as a smoke control system."
+    },
+    {
+        "question": "What is the primary purpose of these requirements for power-operated doors?",
+        "answer": "The primary purpose of these requirements is to ensure that power-operated automatic sliding doors/roller shutters are equipped with safety features, including automatic opening during fire alarms, fail-safe mechanisms, and manual override for emergency situations."
+    },
+    {
+        "question": "What type of doors serving spaces of mass occupation need panic exit devices?",
+        "answer": "Exit doors or exit access doors serving spaces of assembly/mass occupation, such as auditoriums, concert halls, theatres, and more, with an occupant load factor not greater than 1m²/person and occupant load greater than 50, require panic exit devices. These devices allow the door to open when pressure is applied to the bar in the direction of travel and must be marked 'Push Bar To Open' in letters not less than 50mm high. (Section 2.3.9, item i)"
+      },
+      {
+        "question": "What is the purpose of a panic exit device?",
+        "answer": "A panic exit device is designed to allow quick and easy egress from a building in case of an emergency. It opens the door when pressure is applied to the bar in the direction of travel. (Section 2.3.9, item i)"
+      },
+      {
+        "question": "What types of locking devices are not permitted for exit doors in certain situations?",
+        "answer": "One-way locking devices like panic bolts or thumb turn locking devices are not permitted in specific situations, including the exit door between the exit staircase and fire lift lobby, between the exit staircase and smoke-free lobby/fire lift lobby/occupancy area on the re-entry floor, and between the exit access door between the smoke-free lobby/fire lift lobby and occupancy area on the re-entry floor. (Section 2.3.9, item j)"
+      },
+      {
+        "question": "What is the effective date for the regulations mentioned?",
+        "answer": "The effective date for the regulations mentioned is March 1, 2019. (Section 2.3.9, item j)"
+      },
+      {
+        "question": "What are some examples of spaces with mass occupation mentioned in the text?",
+        "answer": "Examples of spaces with mass occupation mentioned in the text include auditoriums, concert halls, theatres, assembly halls, exhibition halls, conference halls, cinemas, stadiums, function halls, casinos, or any other spaces with an occupant load factor not greater than 1m²/person and an occupant load greater than 50. (Section 2.3.9, item i)"
+      },
+      {
+        "question": "What does the text say about the marking of panic exit devices?",
+        "answer": "Panic exit devices must be appropriately marked with 'Push Bar To Open' in letters not less than 50mm high. (Section 2.3.9, item i)"
+      },
+      {
+        "question": "What is the purpose of the one-way locking device mentioned in the text?",
+        "answer": "The one-way locking device, such as a panic bolt or thumb turn locking device, is not permitted in certain situations to ensure that people can exit quickly and easily during emergencies. (Section 2.3.9, item j)"
+      },
+      {
+        "question": "What is the main topic of the entire section (Section 2.3.9i)?",
+        "answer": "The main topic of this entire section is the regulations and requirements related to exit doors, exit access doors, and locking devices in buildings, particularly those serving spaces with mass occupation and situations where one-way locking devices are not permitted. (Section 2.3.9)"
+      },
+      {
+        "question": "What are the requirements for exit access doors and exit doors with electromagnetic/electromechanical locking devices?",
+        "answer": "Exit access doors and exit doors with electromagnetic/electromechanical locking devices must comply with the requirements specified in Table 2.3.9k.(1) - 1 & Table 2.3.9k.(1) - 2. These locking devices in the escape path must be directly connected to the building's automatic fire alarm system to deactivate them. Linking them to other systems that cause delays in de-energizing the locking devices is not allowed. (Section 2.3.9, item k(1))"
+      },
+      {
+        "question": "How should exit access doors and exit doors with electromagnetic/electromechanical locking devices be controlled during a fire emergency?",
+        "answer": "During a fire emergency, exit access doors and exit doors with electromagnetic/electromechanical locking devices in the escape path must be connected directly to the building's automatic fire alarm system to deactivate the locking devices. Using other systems like access control or building management systems that cause delays in de-energizing the locking devices is not permitted. (Section 2.3.9, item k(1))"
+      },
+      {
+        "question": "What is the effective date for the regulations mentioned in item k(1)?",
+        "answer": "The effective date for the regulations in item k(1) is August 25, 2023. (Section 2.3.9, item k(1))"
+      },
+      {
+        "question": "What is required for exit access doors within tenant units when the escape route goes through another occupied space?",
+        "answer": "Exit access doors within tenant units must release when the alarm on that floor activates if the escape route passes through another occupied space as permitted by Cl.2.2.12b. (Section 2.3.9, item k(2))"
+      },
+      {
+        "question": "What is the effective date for the regulations mentioned in item k(2)?",
+        "answer": "The effective date for the regulations in item k(2) is September 15, 2020. (Section 2.3.9, item k(2))"
+      },
+      {
+        "question": "What requirements are in place for doors opening into a passenger lift lobby with access control after normal operation hours?",
+        "answer": "When doors opening into a passenger lift lobby have access control and are locked after normal operation hours, the lobby must have direct access to at least one exit staircase to prevent occupants from being trapped in the lobby during fire emergencies or building power failures. (Section 2.3.9, item k(3))"
+      },
+      {
+        "question": "What is the main topic of this entire section 2.3.9k related to exit access doors, exit doors, and access control devices?",
+        "answer": "The main topic of this entire section is the regulations and requirements related to exit access doors, exit doors, and access control devices, especially those with electromagnetic/electromechanical locking mechanisms. It also addresses the control of doors within tenant units and passenger lift lobbies during fire emergencies. (Section 2.3.9)"
+      },
+      {
+        "question": "What are the requirements for exit staircases serving more than 7 storeys in non-residential buildings regarding re-entry?",
+        "answer": "Exit staircase enclosures serving more than 7 storeys in non-residential buildings must allow re-entry from the staircase enclosure to the interior of the building. There should be at least one level where re-entry into the interior of the building is possible. (Section 2.3.9, item l(1))"
+      },
+      {
+        "question": "How far apart should the re-entry points in an exit staircase be located?",
+        "answer": "The re-entry points in an exit staircase should not be located more than 6 storeys apart, and there should not be more than three storeys above the highest re-entry door in the building. (Section 2.3.9, item l(2))"
+      },
+      {
+        "question": "What is the requirement for the corridor connected to the re-entry points in the staircase enclosure?",
+        "answer": "The corridor connected to the re-entry points in the staircase enclosure must open into a common corridor that is directly connected to at least one other exit staircase. (Section 2.3.9, item l(3))"
+      },
+      {
+        "question": "How should exit doors permitting re-entry into the building be identified?",
+        "answer": "Exit doors permitting re-entry into the building should be identified with a signage that says 'Re-entry door' with lettering height of at least 50mm on the staircase side of the exit door. (Section 2.3.9, item l(4))"
+      },
+      {
+        "question": "What locking device is required for doors on the re-entry floor, and what additional feature should they have?",
+        "answer": "Doors on the re-entry floor, such as doors of smoke-free lobby, fire lift lobby, or exit staircase, should be fitted with an electromagnetic/electromechanical locking device complying with Cl.2.3.9k.(1). Additionally, they should have a manual override device on both sides of the door. (Section 2.3.9, item l(5))"
+      },
+      {
+        "question": "What signage is required for non-re-entry floors in exit staircases?",
+        "answer": "All non-re-entry floors in exit staircases should be identified with a sign on the staircase side of the exit door that shows the designated re-entry floors. (Section 2.3.9, item l(6))"
+      },
+      {
+        "question": "What is the main topic of this entire section (Section 2.3.9, item l)?",
+        "answer": "The main topic of this entire section is the regulations and requirements related to exit doors and exit access doors, particularly focusing on the re-entry options for exit staircases in non-residential buildings with more than 7 storeys. It also addresses the identification and locking requirements for re-entry doors. (Section 2.3.9, item l)"
+      },
+      {
+        "question": "What is the requirement for warning signage on exit doors with one-way locks?",
+        "answer": "Exit doors with one-way locking devices or electromagnetic/electromechanical locking devices in exit staircases must have a warning sign positioned at the entrance, stating 'EXIT ONLY, NO RE-ENTRY TO BUILDING.' This requirement applies to all buildings except PG I & II. (Section 2.3.9, item m)"
+      },
+      {
+        "question": "What is the purpose of the warning signage for exit doors with one-way locks?",
+        "answer": "The purpose of the warning signage is to inform occupants that they will not be able to re-enter the floor if they exit through the door with a one-way lock. (Section 2.3.9, item m)"
+      },
+      {
+        "question": "What type of buildings are exempt from the requirement for warning signage on exit doors with one-way locks?",
+        "answer": "The requirement for warning signage on exit doors with one-way locks does not apply to PG I & II buildings. (Section 2.3.9, item m)"
+      },
+      {
+        "question": "What is the requirement for digital locksets on exit doors or exit access doors?",
+        "answer": "Digital locksets installed on exit doors or exit access doors must have mechanical fail-safe features on the non-secure side, meaning they should not rely on electrical energy to ensure occupant escape. (Section 2.3.9, item n)"
+      },
+      {
+        "question": "Why is it important for digital locksets on exit doors to have mechanical fail-safe features?",
+        "answer": "Having mechanical fail-safe features on digital locksets ensures that occupants can still escape through the door even in the absence of electrical energy, enhancing safety during emergencies. (Section 2.3.9, item n)"
+      },
+      {
+        "question": "What is the main topic of this entire section Section 2.3.9, items m and n regulations and requirements related to exit doors and exit access doors?",
+        "answer": "The main topic of this entire section is the regulations and requirements related to exit doors and exit access doors, including the provision of warning signage for doors with one-way locks and the necessity for mechanical fail-safe features on digital locksets. (Section 2.3.9, items m and n)"
+      },
+      {
+        "question": "What are the requirements for the vertical height of ventilation openings in an external corridor?",
+        "answer": "The vertical height of unobstructed and uninterrupted ventilation openings in an external corridor must not be less than 1.2m, measured from the parapet wall/balustrade/grille/railing up to the top edge of the opening or eaves of overhang. (Section 2.3.9, item a)"
+      },
+      {
+        "question": "What is the maximum depth allowed for a covered area of an external corridor?",
+        "answer": "The depth of the covered area/portion of an external corridor shall not exceed 3m. (Section 2.3.9, item b)"
+      },
+      {
+        "question": "What is the requirement for fire resistance in an external corridor if it passes by a room with a sleeping risk?",
+        "answer": "If an external corridor passes by a room or space with a sleeping risk, a 1-hour fire resistance rating wall of height not less than 1.1m, measured from the finished floor level of the external corridor to the sill level of the opening, must be provided along the corridor leading to the exits. Ventilation openings above the fire-rated wall must be of non-combustible construction. (Section 2.3.9, item c)"
+      },
+      {
+        "question": "Is it necessary for the door opening into an external corridor to be fire-rated?",
+        "answer": "No, the door opening into the external corridor does not need to be fire-rated. (Section 2.3.9, item d)"
+      },
+      {
+        "question": "What are the height requirements for parapet walls or balustrades in an external corridor?",
+        "answer": "The provision of parapet wall or balustrade for an external corridor must be at least 1m in height but no more than 1.5m in height along the outer side of the corridor. (Section 2.3.9, item e)"
+      },
+      {
+        "question": "What is the minimum length requirement for unobstructed openings above the parapet wall in an external corridor?",
+        "answer": "The length of unobstructed and uninterrupted openings above the parapet wall of the external wall must not be less than 6m, and they must abut an external space. (Section 2.3.9, item f)"
+      },
+      {
+        "question": "What is the main topic of this entire section  external corridors, covering aspects such as ventilation opening height, covered area depth, fire resistance in the presence of sleeping risk, door rating, parapet wall or balustrade height, and length of openings above the parapet wall. (Section 2.3.10)?",
+        "answer": "The main topic of this entire section is the set of requirements for external corridors, covering aspects such as ventilation opening height, covered area depth, fire resistance in the presence of sleeping risk, door rating, parapet wall or balustrade height, and length of openings above the parapet wall. (Section 2.3.10)"
+      },
+      {
+        "question": "What is the minimum size requirement for an air well?",
+        "answer": "The minimum size of an air well for ventilation purposes must comply with the requirements specified in Table 1.4.2. (Section 2.3.11, item a)"
+      },
+      {
+        "question": "For what specific areas are air wells required for ventilation?",
+        "answer": "Air wells are required for the ventilation of exit staircases and exit passageways (as an extension to an exit staircase). (Section 2.3.11, item a)"
+      },
+      {
+        "question": "What are the minimum clear area, width, and obstruction requirements for an air well?",
+        "answer": "An air well must have a minimum clear area of 93m², a minimum width of 6m, and should be without vertical obstructions throughout the airspace. (Section 2.3.11, item b)"
+      },
+      {
+        "question": "What are some areas or spaces that require ventilation via an air well?",
+        "answer": "Spaces that require ventilation through an air well include smoke-free lobbies, external corridors, external exit passageways, cross-ventilated corridors/lobbies, common internal corridors stipulated under Cl.9.2.1a.(10)(b), and internal corridors of hotels, hostels, service apartments, healthcare occupancies, workers' dormitories, and similar spaces. (Section 2.3.11, item b)"
+      },
+      {
+        "question": "What is Section 2.3.11?",
+        "answer": "The main topic of this entire section is the requirements for air wells in the context of building ventilation. It specifies the size requirements and the areas or spaces that must have ventilation through air wells. (Section 2.3.11)"
+      },
+      {
+        "question": "What is the requirement for the placement of multiple exits in a building?",
+        "answer": "When multiple exits are required in a building, they must be remotely located from each other and arranged to minimize the possibility that more than one can be rendered unusable by a fire or other emergency condition. (Section 2.3.12, item a)"
+      },
+      {
+        "question": "How should the distance between two exits or exit access doors be determined?",
+        "answer": "The distance between two exits or exit access doors should be equal to or not less than half the length of the maximum overall diagonal dimension of the building or area they serve, measured in a straight line between the furthest edges of the doors. (Section 2.3.12, item b)"
+      },
+      {
+        "question": "What is the implication if the distance between two exits is less than half the length of the maximum overall diagonal dimension of the building or area?",
+        "answer": "If the distance between two exits is less than half the length of the maximum overall diagonal dimension of the building or area, it is considered a one-way escape arrangement. (Section 2.3.12, item b(1))"
+      },
+      {
+        "question": "What is the minimum separation distance allowed between the furthest edges of the doors of two exits?",
+        "answer": "The separation distance between the furthest edges of the doors of two exits, such as exit staircases, exit passageways, or exit ramps, must not be less than 7m. (Section 2.3.12, item b(2))"
+      },
+      {
+        "question": "What is the requirement for the separation distance of exits in PG II buildings on residential floors?",
+        "answer": "In PG II buildings, the separation distance of exits on the residential floor must not be less than half the length of the maximum overall diagonal dimension of the protected lobby/corridor or external corridor. (Section 2.3.12, item b(3))"
+      },
+      {
+        "question": "What is Section 2.3.12?",
+        "answer": "The main topic of this entire section is the requirement for the remoteness of exits in buildings to enhance fire safety. It specifies the placement and distance requirements for multiple exits to ensure that they can be used effectively during emergencies. (Section 2.3.12)"
+      },
+      {
+        "question": "Under what condition is there a reduction in the minimum separation distance between two exits?",
+        "answer": "The reduction in the minimum separation distance between two exits is allowed in buildings protected throughout by an approved automatic sprinkler system that complies with Chapter 6. In such cases, the separation distance shall be not less than one third the length of the maximum overall diagonal dimension of the building or area to be served. (Section 2.3.12, item c)"
+      },
+      {
+        "question": "What is the requirement for the separation distance between the furthest edges of the doors of two exits when the automatic sprinkler system is installed?",
+        "answer": "Even when an automatic sprinkler system is installed, the separation distance between the furthest edges of the doors of two exits (exit staircases, exit passageways, or exit ramps) shall not be less than 7m. (Section 2.3.12, item c)"
+      },
+      {
+        "question": "How can exit separation be measured when two exit components are connected by a corridor?",
+        "answer": "Exit separation can be measured along the line of travel within the exit access corridor when two exit staircases, exit passageways, or exit ramps are interconnected by a corridor. (Section 2.3.12, item d)"
+      },
+      {
+        "question": "What requirements apply to the exit access corridor connecting two exit components?",
+        "answer": "The exit access corridor connecting two exit staircases, exit passageways, or exit ramps shall be protected by a minimum 1-hour fire-rated enclosure. The doors opening into this corridor shall have a minimum ½-hour fire resistance rating. (Section 2.3.12, item d)"
+      },
+      {
+        "question": "What is the minimum separation distance required along the line of travel within the exit access corridor between the furthest edges of the doors of the two exits?",
+        "answer": "The minimum separation distance required along the line of travel within the exit access corridor between the furthest edges of the doors of the two exits (exit staircases, exit passageways, or exit ramps) shall not be less than 7m. (Section 2.3.12, item d)"
+      },
+      {
+        "question": "What is Section 2.3.12c and d?",
+        "answer": "The main topic of this entire section is the regulation of exit separation in buildings to ensure safety during emergencies. It covers both the standard separation requirements and exceptions that apply when an automatic sprinkler system is in place. (Section 2.3.12)"
+      },
+      {
+        "question": "What is a one-way travel or 'common path' in the context of building exits?",
+        "answer": "A one-way travel or 'common path' exists when a floor space is arranged or partitioned in a way that occupants within that space can only travel in one direction to reach any of the exits or the splitting point where they have the choice of two or more routes to remote exits. (Section 2.3.12, item e(1))"
+      },
+      {
+        "question": "What is the maximum travel distance allowed from the most remote point to the splitting point in a one-way travel scenario?",
+        "answer": "The travel distance from the most remote point to the splitting point in a one-way travel scenario should not exceed the permissible one-way travel distance specified in Table 2.2A. (Section 2.3.12, item e(2))"
+      },
+      {
+        "question": "What angle of divergence is required at the splitting point for routes to be considered two-way travel?",
+        "answer": "At the splitting point in a one-way travel scenario, the angle of divergence between any two alternative routes must not be less than 90º to consider the routes originating from the splitting point as two-way travel. (Section 2.3.12, item e(2))"
+      },
+      {
+        "question": "What is the aggregate travel distance limit for one-way travel and continuous two-way travel in relation to exits?",
+        "answer": "The aggregate travel distances for one-way travel from the most remote point to the splitting point and continuous two-way travel from the splitting point to the nearest exit shall not exceed the permissible two-way travel distance allowed in Table 2.2A. (Section 2.3.12, item e(3))"
+      },
+      {
+        "question": "What areas or spaces are included in the context of this section?",
+        "answer": "This section applies to various types of spaces, including internal corridors of hotels, hostels, service apartments, healthcare occupancies, workers' dormitories, and similar spaces, where one-way travel scenarios and exit routes need to be considered. (Section 2.3.12, item e(6))"
+      },
+      {
+        "question": "What is Section 2.3.12e?",
+        "answer": "The main topic of this entire section is the regulation of exit routes and travel distances in buildings, particularly addressing one-way travel scenarios and the permissible distances and angles involved. (Section 2.3.12)"
+      },
+      {
+        "question": "What types of buildings or usages are exempted from the requirements mentioned in this section?",
+        "answer": "The following buildings or usages are exempted from these requirements: PG I and II buildings, hospitals and nursing care facilities, industrial buildings/usages exempted from barrier-free accessibility compliance, non-residential buildings/usages within residential developments for ancillary use, and PG III to VIII buildings not served by any lift. (Section 2.4.1, item a)"
+      },
+      {
+        "question": "when did section 2.4.1 become effective??",
+        "answer": "Effective Date: 2 Mar 2020"
+      },
+      {
+        "question": "What is the requirement regarding obstacles in escape routes for Persons With Disabilities (PWDs)?",
+        "answer": "Escape routes must be free from any obstacles that could cause undue delay to PWDs during evacuation, such as raised thresholds or steps. Minor changes in level within any storey should have ramps that conform to the requirements in the 'Code on Accessibility in the Built Environment.' (Section 2.4.1, item b)"
+      },
+      {
+        "question": "Which types of buildings are not subject to the escape route requirements?",
+        "answer": "PG I and II buildings, hospitals and nursing care facilities, industrial buildings/usages exempted from accessibility compliance, non-residential buildings/usages within residential developments for ancillary use, and PG III to VIII buildings without any lift service are not required to comply with these escape route requirements. (Section 2.4.1, item a)"
+      },
+      {
+        "question": "What is the purpose of ensuring escape routes are free from obstacles for PWDs?",
+        "answer": "The purpose of ensuring obstacle-free escape routes for PWDs is to prevent undue delays during their evacuation in emergency situations, enhancing their safety. (Section 2.4.1, item b)"
+      },
+      {
+        "question": "What is Section 2.4.1?",
+        "answer": "The main topic of this entire section is the exemption criteria and requirements related to escape routes in various types of buildings, with a focus on ensuring accessibility and safety for Persons With Disabilities (PWDs). (Section 2.4.1)"
+      },
+      {
+        "question": "What is the purpose of a PWD Holding Point?",
+        "answer": "The purpose of a PWD Holding Point is to provide a safe waiting area for Persons With Disabilities (PWDs) to await assistance during evacuation. (Section 2.4.2, item a)"
+      },
+      {
+        "question": "How many designated PWD Holding Points are required on each storey of a building?",
+        "answer": "There should be at least two designated PWD Holding Points remotely positioned on every storey of a building, except for a building designed with a single exit staircase allowed under this Code. (Section 2.4.2, item b(1))"
+      },
+      {
+        "question": "Where should the PWD Holding Points be located within the building?",
+        "answer": "The PWD Holding Points should be located within specific areas in the following order of priority: Evacuation lift lobby, Fire lift lobby, Smoke-free lobby or external corridor, and Exit staircase. (Section 2.4.2, item b(2))"
+      },
+      {
+        "question": "What are the requirements for positioning a PWD Holding Point within the specified areas?",
+        "answer": "The PWD Holding Point located in the specified areas should be positioned away from the edge of the exit staircase and the path of persons escaping from the occupied space. It should not reduce or encroach onto the required dimensions or spaces of the specified areas. (Section 2.4.2, item b(3))"
+      },
+      {
+        "question": "What signage is required when a PWD Holding Point is present?",
+        "answer": "When a PWD Holding Point is located, a mandatory sign with the wording 'PWD Holding Point' must be prominently displayed. (Section 2.4.2, item c)"
+      },
+      {
+        "question": "What is the Section 2.4.2?",
+        "answer": "The main topic of this entire section is the provision of PWD Holding Points in buildings to ensure the safety and accessibility of Persons With Disabilities (PWDs) during evacuation. It specifies the purpose, siting, and signage requirements for these holding points. (Section 2.4.2)"
+      },
+      {
+        "question": "What is the purpose of the communication provisions mentioned in this section?",
+        "answer": "The purpose of the communication provisions is to provide a means of communication for Persons With Disabilities (PWDs) to call for assistance during a fire emergency from the PWD holding point to the Fire Command Centre (FCC) or any 24-hourly manned station. (Section 2.4.3)"
+      },
+      {
+        "question": "What are the acceptable forms of communication that can be used for PWDs to call for assistance?",
+        "answer": "The suitable means of communication can be in the form of a distress button or dedicated voice communication. (Section 2.4.3)"
+      },
+      {
+        "question": "What are the height requirements for locating the means of communication?",
+        "answer": "The means of communication should be located between 800mm and 1.2m above the finished floor level. (Section 2.4.3, item a)"
+      },
+      {
+        "question": "What labeling and instruction sign requirements apply to the means of communication?",
+        "answer": "The means of communication should be appropriately labeled and provided with a prominently displayed clear instruction sign on its operation. (Section 2.4.3, items b and c)"
+      },
+      {
+        "question": "How should the means of communication indicate that the distress signal has been relayed?",
+        "answer": "The means of communication should generate a clear visual indication to indicate that the distress signal has been relayed. (Section 2.4.3, item d)"
+      },
+      {
+        "question": "What is the main requirement in Section 2.4.3?",
+        "answer": "The main requirement addressed in this section is the provision of suitable means of communication for Persons With Disabilities (PWDs) at PWD holding points to request assistance during fire emergencies. It outlines the specifications for the location, type, labeling, instruction signs, and indication of distress signal relay. (Section 2.4.3)"
+      },
+      {
+        "question": "When did Section 2.4.3 become effective?",
+        "answer": "Effective Date: 2 Mar 2020"
+      },
+      {
+        "question": "What are the dimension requirements for a PWD Holding Point?",
+        "answer": "A PWD Holding Point should be adequately sized to accommodate a wheelchair user and allow for easy maneuvering. It should have a space of at least 900mm X 1.4m for a wheelchair. (Section 2.4.4, item a)"
+      },
+      {
+        "question": "What should be considered when siting a PWD Holding Point inside specific areas like an exit staircase, smoke-free lobby, or fire lift lobby?",
+        "answer": "When a PWD Holding Point is sited inside an exit staircase, smoke-free lobby, or fire lift lobby, it should not result in a reduced size of these spaces, and its access should not obstruct the flow of evacuation. (Section 2.4.4, item b)"
+      },
+      {
+        "question": "How should the PWD Holding Point be marked for visibility?",
+        "answer": "The PWD Holding Point should be marked on the ground with a wheelchair symbol in white against a contrasting background, with a dotted outline. (Section 2.4.4, item c)"
+      },
+      {
+        "question": "What is the purpose of the dimension requirements for a PWD Holding Point?",
+        "answer": "The dimension requirements for a PWD Holding Point are intended to ensure that it can comfortably accommodate a wheelchair user and allow for easy maneuvering, enhancing accessibility for Persons With Disabilities (PWDs) during emergencies. (Section 2.4.4)"
+      },
+      {
+        "question": "What are the key considerations when siting a PWD Holding Point inside specific areas?",
+        "answer": "When siting a PWD Holding Point inside areas like exit staircases, smoke-free lobbies, or fire lift lobbies, it's important to ensure that it doesn't reduce the size of these spaces and that its access doesn't obstruct the evacuation flow. (Section 2.4.4, item b)"
+      },
+      {
+        "question": "What is  section 2.4.4. PWD Holding Point requirements?",
+        "answer": "The main requirement addressed in this section is the sizing and marking of a PWD Holding Point to accommodate wheelchair users and ensure ease of maneuvering. It also specifies considerations for siting the PWD Holding Point within specific building areas. (Section 2.4.4)"
+      },
+      {
+        "question": "What are the construction requirements for a PWD Holding Point?",
+        "answer": "A PWD Holding Point should be enclosed with fire-resisting construction, except for any part that is an external wall of a building. It should also be directly served by a safe route to a storey exit, evacuation lift, or final exit. (Section 2.4.5)"
+      },
+      {
+        "question": "What is the requirement regarding handrails within an exit staircase?",
+        "answer": "The handrails within an exit staircase should be continuous. (Section 2.4.6, item a)"
+      },
+      {
+        "question": "Where should a wheelchair stairlift be sited when installed?",
+        "answer": "A wheelchair stairlift, when installed, should be sited inside an exit staircase. It should not encroach into the escape path of building occupants when in the operating position. (Section 2.4.6, item b)"
+      },
+      {
+        "question": "What is the main purpose of enclosing a PWD Holding Point with fire-resisting construction?",
+        "answer": "The main purpose of enclosing a PWD Holding Point with fire-resisting construction is to enhance the safety and protection of Persons With Disabilities (PWDs) during fire emergencies, ensuring that they have a secure area while waiting for assistance. (Section 2.4.5)"
+      },
+      {
+        "question": "What is the significance of continuous handrails in an exit staircase?",
+        "answer": "Continuous handrails in an exit staircase are significant for providing continuous support and guidance to building occupants during evacuation, especially in emergency situations. (Section 2.4.6, item a)"
+      },
+      {
+        "question": "What are the key considerations when siting a wheelchair stairlift?",
+        "answer": "When siting a wheelchair stairlift, it is important to ensure that it is located inside an exit staircase and that it does not obstruct the escape path of building occupants when in the operating position. (Section 2.4.6, item b)"
+      },
+      {
+        "question": "What is Sections 2.4.5 and 2.4.6?  ",
+        "answer": "The main topic of this entire section is the requirements and considerations related to the protection and accessibility of PWD Holding Points and the specifications for handrails and wheelchair stairlifts within exit staircases. (Sections 2.4.5 and 2.4.6)"
+      },
+      {
+        "question": "Under what conditions can internal and external exit ramps be used as exits?",
+        "answer": "Internal and external exit ramps can be used as exits in lieu of internal and external exit staircases or evacuation lifts, provided they comply with Cl.2.3.3, Cl.2.3.8, the 'Code on Accessibility in the Built Environment,' and any subsequent amendments or addenda. (Section 2.4.7)"
+      },
+      {
+        "question": "What is Section 2.4.7?",
+        "answer": "The main topic of this section is the permissibility of using internal and external exit ramps as exits instead of exit staircases or evacuation lifts, subject to specified compliance requirements. (Section 2.4.7)"
+      },
+      {
+        "question": "What are the requirements for entry to an exit staircase serving more than four storeys above ground level?",
+        "answer": "Entry to an exit staircase serving more than four storeys above ground level can be through an external exit passageway or external corridor, and natural lighting and ventilation openings to the corridor should face an external space, street, service road, or air well. (Section 2.2.13a)"
+      },
+      {
+        "question": "What are the requirements for a smoke-free lobby?",
+        "answer": "A smoke-free lobby should be separated from the adjoining areas by a wall with 1-hour fire resistance. The exit access door should have ½-hour fire resistance and an automatic self-closing device conforming to the requirements of Cl.3.9.2. (Section 2.2.13b(1) and (2))"
+      },
+      {
+        "question": "How should a smoke-free lobby be ventilated?",
+        "answer": "A smoke-free lobby can be ventilated through permanent fixed ventilation openings in the external wall, mechanical ventilation (except for PG II buildings, which comply with Chapter 7 requirements), or cross-ventilated corridor/lobby with specific criteria. (Section 2.2.13b(7))"
+      },
+      {
+        "question": "Under what circumstances can the omission of a smoke-free lobby be allowed for exit staircases serving buildings exceeding four storeys?",
+        "answer": "The omission of the smoke-free lobby required under Cl.2.2.13b. leading to the exit staircase of any building exceeding four storeys is allowed under specific situations, such as when the internal exit staircase has pressurization, when an external exit staircase is constructed to comply with Cl.2.3.3b., in an open-sided car park floor with cross-ventilation, or on the M&E floor with limited headroom. (Section 2.2.13c(1))"
+      },
+      {
+        "question": "In what situations is the omission of a smoke-free lobby for exit staircases not allowed?",
+        "answer": "The omission of a smoke-free lobby to exit staircases is not allowed when the building exceeds four storeys and belongs to PG III or VII, when the internal exit staircase with pressurization exceeds the habitable height of 24m, or when the exit staircase is adjacent to a fire lift as required in Chapter 6. (Section 2.2.13c(2))"
+      },
+      {
+        "question": "What are the requirements for entry to exit staircases in buildings with more than four basement storeys?",
+        "answer": "In buildings comprising more than four basement storeys, entry to exit staircases serving the basement storeys at every basement storey level shall be through smoke-free lobbies, one of which shall be designated as a fire lift lobby. The exit staircase connecting to the fire lift lobby shall be pressurized to comply with the requirements in Chapter 7. (Section 2.2.14a)"
+      },
+      {
+        "question": "What are the entry requirements for buildings with two, three, or four basement storeys?",
+        "answer": "In a building comprising two, three, or four basement storeys, entry at every basement storey level to at least one of the exit staircases serving the basement storeys shall be through a smoke-free lobby. If only one smoke-free lobby is provided, it must serve as a fire lift lobby. (Section 2.2.14b)"
+      },
+      {
+        "question": "What are the ventilation requirements for smoke-free lobbies in basement occupancies?",
+        "answer": "Smoke-free lobbies in basement occupancies should comply with the relevant provisions under Cl.2.2.13b. and shall be mechanically ventilated to comply with the requirements in Chapter 7. (Section 2.2.14c)"
+      },
+      {
+        "question": "Under what circumstances can the occupant load for which vertical exits are to be accounted for a floor area be reduced?",
+        "answer": "The occupant load for which vertical exits are to be accounted for a floor area can be reduced to half when one area of refuge is provided and to one third when two or more areas of refuge are provided, subject to specific requirements. (Section 2.2.15)"
+      },
+      {
+        "question": "What are the requirements for an area of refuge?",
+        "answer": "An area of refuge should be adequately sized to hold the occupant load it receives from the floor area it serves as provision for required exit, in addition to its own occupant load. It should be entered through an external corridor and separated from the corridor by a wall with at least 1-hour fire resistance rating. Exit doors between the area of refuge and the external corridor should have fire resistance of at least ½-hour and be fitted with an automatic self-closing device. (Section 2.2.15a, c, d, e)"
+      },
+      {
+        "question": "Non-simultaneous occupancy?",
+        "answer": "The floor areas of toilets, locker rooms, lobbies, and corridors that are not occupied at the same time as other rooms or spaces by building occupants, can be omitted from the occupant load calculations of that storey of the building in which the storey is located."
+      }
+]
