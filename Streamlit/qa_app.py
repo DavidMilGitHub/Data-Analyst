@@ -72,7 +72,7 @@ lemmatizer = WordNetLemmatizer()
 
 # Load your JSON data
 try:
-    with open('your_dataset.json', 'r',errors='replace') as json_file:
+    with open('DavidMilGitHub/Data-Analyst/blob/main/Streamlit/your_dataset.json', 'r',errors='replace') as json_file:
         qa_data = json.load(json_file)
 except FileNotFoundError:
     st.error("Dataset file not found. Please make sure 'your_dataset.json' exists.")
