@@ -12,12 +12,31 @@ nltk.download("wordnet")
 # Initialize the WordNet Lemmatizer
 lemmatizer = WordNetLemmatizer()
 
-# Load your JSON data
-try:
-    with open('github.com/DavidMilGitHub/Data-Analyst/blob/main/Streamlit/your_dataset.json', 'r') as json_file:
-        qa_data = json.load(json_file)
-except FileNotFoundError:
-    st.error("Dataset file not found. Please make sure 'your_dataset.json' exists.")
+# Define the GitHub URL for the raw JSON file
+github_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/Streamlit/your_dataset.json'
+
+# Function to fetch JSON data from the URL
+def fetch_data_from_github(url):
+    try:
+        response = requests.get(url)
+        if response.status_code == 200:
+            return json.loads(response.text)
+        else:
+            st.error("Failed to fetch JSON data from GitHub. Status code: " + str(response.status_code))
+            return None
+    except Exception as e:
+        st.error("An error occurred while fetching JSON data: " + str(e))
+        return None
+
+# Fetch JSON data from the GitHub URL
+qa_data = fetch_data_from_github(github_url)
+
+if qa_data:
+    # Data is fetched successfully, you can use 'qa_data' in your app
+    st.write("JSON data fetched successfully.")
+else:
+    # Handle the case where data retrieval failed
+    st.error("Unable to fetch JSON data from GitHub.")
 
 st.title('Question Answering Chatbot')
 
