@@ -4,6 +4,7 @@ import json
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+import requests
 
 # Download NLTK data (only required once)
 nltk.download("punkt")
