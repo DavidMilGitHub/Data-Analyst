@@ -1,6 +1,6 @@
 [
   {
-      "question": "clause 2.2.1 221?",
+      "question": "section 2.2.1 221?",
       "answer": "The purpose of this clause is to establish requirements for determining the exit requirements for a building based on factors such as the type of use or occupancy, occupant load, floor area, travel distance to an exit, and the capacity of exits. It also specifies that every storey of a building must have exit facilities for its occupant load and provides guidelines for vertical exits serving different storeys."
     },
     {
@@ -16,16 +16,16 @@
       "answer": "This clause mentions that basement staircases should not be continuous with exit staircases serving the upper storeys of a building unless otherwise allowed by the SCDF (Singapore Civil Defence Force). There are specific provisions related to this, which must be followed."
     },
     {
-        "question": "Clause 2.1?",
+        "question": "section 2.1?",
         "answer": "The purpose of Clause 2.1 is to express the intentions for determining the design, construction, protection, location, arrangement, and maintenance of exit facilities to provide safe means of escape for occupants from all buildings hereafter erected, altered, or changed in occupancy.",
         "tag": "Purpose of Clause 2.1"
     },
     {
-      "question": "clause 2.2.2 222?",
+      "question": "section 2.2.2 222?",
       "answer": "The purpose of clause 2.2.2 is to address situations where different parts of a building or a storey are designed for different types of occupancies or used for different purposes simultaneously. It provides guidance on how to determine exit requirements in such mixed occupancy scenarios."
     },
     {
-      "question": "How does clause 2.2.2 recommend determining exit requirements in mixed occupancy scenarios?",
+      "question": "How does section 2.2.2 recommend determining exit requirements in mixed occupancy scenarios?",
       "answer": "Clause 2.2.2 suggests that in cases of mixed occupancy, the exit requirements for the entire building or storey should be determined based on the type of occupancy or usage that has the strictest exit requirements. Alternatively, exit requirements can be determined separately for each building section with different occupancies or purposes."
     },      
     {
