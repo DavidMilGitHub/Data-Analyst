@@ -1,8 +1,50 @@
 [
+  {
+      "question": "What is clause 2.2.1 221 about?",
+      "answer": "The purpose of this clause is to establish requirements for determining the exit requirements for a building based on factors such as the type of use or occupancy, occupant load, floor area, travel distance to an exit, and the capacity of exits. It also specifies that every storey of a building must have exit facilities for its occupant load and provides guidelines for vertical exits serving different storeys."
+    },
     {
-        "question": "What is the purpose of Clause 2.1 in the code?",
+      "question": "What factors are considered when determining exit requirements for a building ?",
+      "answer": "This clause considers factors such as the type of use or occupancy of the building, occupant load, floor area, travel distance to an exit, and the capacity of exits when determining exit requirements for a building."
+    },
+    {
+      "question": "What is the purpose of vertical exits in a building?",
+      "answer": "According to this clause, vertical exits are intended to serve multiple storeys of a building. Vertical exits provided from storeys above ground level can serve all storeys above ground level, while those provided from storeys below ground level can serve all storeys below ground level, subject to certain provisions."
+    },
+    {
+      "question": "What does this clause say about basement staircases in relation to exit staircases serving upper storeys?",
+      "answer": "This clause mentions that basement staircases should not be continuous with exit staircases serving the upper storeys of a building unless otherwise allowed by the SCDF (Singapore Civil Defence Force). There are specific provisions related to this, which must be followed."
+    },
+    {
+        "question": "What is Clause 2.1?",
         "answer": "The purpose of Clause 2.1 is to express the intentions for determining the design, construction, protection, location, arrangement, and maintenance of exit facilities to provide safe means of escape for occupants from all buildings hereafter erected, altered, or changed in occupancy.",
         "tag": "Purpose of Clause 2.1"
+    },
+    {
+      "question": "What is the purpose of clause 2.2.2 ('Mixed occupancy')?",
+      "answer": "The purpose of clause 2.2.2 is to address situations where different parts of a building or a storey are designed for different types of occupancies or used for different purposes simultaneously. It provides guidance on how to determine exit requirements in such mixed occupancy scenarios."
+    },
+    {
+      "question": "How does clause 2.2.2 recommend determining exit requirements in mixed occupancy scenarios?",
+      "answer": "Clause 2.2.2 suggests that in cases of mixed occupancy, the exit requirements for the entire building or storey should be determined based on the type of occupancy or usage that has the strictest exit requirements. Alternatively, exit requirements can be determined separately for each building section with different occupancies or purposes."
+    },      
+    {
+      "question": "Why is it important to determine exit requirements based on the strictest criteria in mixed occupancy situations?",
+      "answer": "Determining exit requirements based on the strictest criteria in mixed occupancy situations is crucial to ensure that the building provides adequate safety measures for all occupants, especially in areas with more stringent requirements. This helps enhance overall safety and compliance with building codes."
+    },
+    {
+      "question": "What is the purpose of clause 2.2.4 ('Non-simultaneous occupancy')?",
+      "answer": "The purpose of clause 2.2.4 is to provide an exemption in occupant load calculations for specific areas of a building, such as toilets, locker rooms, lobbies, and corridors, that are not occupied at the same time as other rooms or spaces by building occupants."
+    }
+    ,
+    {
+      "question": "What areas of a building can be omitted from occupant load calculations according to clause 2.2.4?",
+      "answer": "Clause 2.2.4 allows for the omission of floor areas in toilets, locker rooms, lobbies, and corridors from occupant load calculations. These areas are exempted when they are not occupied simultaneously with other rooms or spaces by building occupants."
+    }
+    ,
+    {
+      "question": "What is the effective date mentioned in clause 2.2.4 ('Effective Date: 25 Aug 2023')?",
+      "answer": "The effective date indicates when this particular clause came into effect, which is August 25, 2023. It signifies the date from which this specific provision is applicable in building codes or regulations, and it may have implications for building design and occupancy calculations from that date onwards."
     },
     {
         "question": "What areas are designated as means of escape according to Clause 2.1?",
