@@ -5468,7 +5468,596 @@
         {
         "question": "When is section 6.4 ?",
         "answer": "Section 6.4.1 outlines the provision for the installation of automatic sprinkler systems in buildings. It specifies the situations in which each storey or room of a building must be protected by such a system. This section became effective on September 1, 2021. (Section 6.4.1)"
+        },
+    {
+        "question": "What is section 6.4.1a?",
+        "answer": "Whenever compartmentation requirements under Table 3.2A of Chapter 3 of this Code cannot be complied with."
         }
+        ,
+        {
+        "question": "What is section 6.4.1b?",
+        "answer": "Every storey of buildings of more than 24m in habitable height, except for PG I and II, regardless of whether the compartmentation requirements are complied with."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1c(1)?",
+        "answer": "For PG II mixed occupancy buildings exceeding 24m in habitable height, the non-residential parts shall be protected by an automatic sprinkler system if they comprise more than one storey."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1c(2)?",
+        "answer": "For PG II mixed occupancy buildings regardless of habitable height, the non-residential parts shall be protected by an automatic sprinkler system if they are not compartmented from the basement storeys."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1c(3)?",
+        "answer": "For non-residential parts where sprinkler protection is not required under sub-clauses (1) & (2) above, an automatic fire alarm system shall be provided for the non-residential parts in accordance with Cl.6.3.1b."
+        },
+        
+        {
+        "question": "What is section 6.4.1d(1)?",
+        "answer": "All basement storeys irrespective of compartment size, except for those used as PG I or II, shall be provided with an automatic sprinkler system."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1d(2)(a)?",
+        "answer": "Where the basement storey is effectively cross ventilated to prevent smoke logging, the basement storey can be exempted from providing an automatic sprinkler system."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1d(2)(b)?",
+        "answer": "In the case of residential developments located over basement car parks, relaxation on the provision of these sprinkler system and smoke purging systems to the basement car park can be granted if all of the following conditions are met:"
+        },
+        
+        {
+        "question": "What is section 6.4.1e?",
+        "answer": "A fire sprinkler system shall be provided for an atrium space not exceeding 18m in height. For an atrium with ceiling height exceeding 18m (in whole or in part), water monitor, deluge and/ or extended-throw sprinkler systems shall be provided to cover the entire atrium space."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1f(1)(a)?",
+        "answer": "Areas which are covered with trellises, louvres or perforated panels, which have 50% or more evenly distributed effective free openings. An alarm sounder and visual alarm shall be provided near the exit staircase in accordance with SS 645."
+        },
+        
+        {
+        "question": "What is section 6.4.1f(1)(b)?",
+        "answer": "Each sub-array of PV installation shall not exceed 5m in width, with maintenance aisle of minimum 400mm width in between the sub-arrays. Each sub-array shall be open-sided without any commercial activities or storage within these areas. The maximum dimensions of PV arrays shall be in accordance with Cl.10.2.1d."
+        },
+        
+        {
+        "question": "What is section 6.4.1f(2)(a)(i)?",
+        "answer": "Such areas are to be used solely for the purpose of passengers pick-up and drop-off."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1f(2)(a)(ii)?",
+        "answer": "There shall be no commercial activities or storage within these areas."
+        },
+        
+        {
+        "question": "What is section 6.4.1f(2)(a)(iii)?",
+        "answer": "Cut-off sprinklers and fire-rated walls are not required to be provided to separate the sprinkler-protected and non-sprinkler-protected areas."
+        },
+        
+        {
+        "question": "What is section 6.4.1f(2)(b)?",
+        "answer": "External corridors shall not exceed 4m in width, and there shall be no commercial activities or storage within these areas."
+        },
+        
+        {
+        "question": "What is section 6.4.1f(2)(c)?",
+        "answer": "External/ open-sided linkways shall not exceed 5m in width, and there shall be no commercial activities or storage within these areas."
+        }
+        ,
+        {
+        "question": "What is section 6.4.1f(2)(d)?",
+        "answer": "Open-to-sky roof gardens/ terraces provided there are no covered commercial activities/ spaces at the open-to-sky roof gardens/ terraces and positioned near the exit staircase in accordance with SS 645. section 6.4.1f(2)(d)"
+        },
+        {
+        "question": "What is Section 6.4.1?",
+        "answer": "The purpose of Section 6.4.1 is to specify the conditions under which automatic sprinkler systems must be installed in buildings. Section 6.4.1"
+        }
+        ,
+        {
+        "question": "Under what circumstances are automatic sprinkler systems required according to Section 6.4.1a?",
+        "answer": "Automatic sprinkler systems are required when compartmentation requirements under Table 3.2A of Chapter 3 of the Code cannot be complied with."
+        }
+        ,
+        {
+        "question": "Which types of buildings are exempt from automatic sprinkler systems as per Section 6.4.1b?",
+        "answer": "Buildings of PG I and II are exempt from automatic sprinkler systems, regardless of their height."
+        },
+        
+        {
+        "question": "What are the requirements for PG II mixed occupancy buildings exceeding 24m in habitable height according to Section 6.4.1c(1)?",
+        "answer": "For PG II mixed occupancy buildings exceeding 24m in habitable height, the non-residential parts must be protected by an automatic sprinkler system if they comprise more than one storey or are located above the first storey. Section 6.4.1c(1)"
+        }
+        ,
+        {
+        "question": "In what situations are non-residential parts required to have an automatic fire alarm system instead of sprinkler protection as per Section 6.4.1c(3)?",
+        "answer": "Non-residential parts are required to have an automatic fire alarm system instead of sprinkler protection when they do not meet the requirements specified in sub-clauses (1) and (2) of Section 6.4.1c."
+        },
+        {
+        "question": "What is the requirement for providing an automatic sprinkler system in basement storeys as per Section 6.4.1d(1)?",
+        "answer": "All basement storeys, except for those used as PG I or II, shall be provided with an automatic sprinkler system. Section 6.4.1d(1)"
+        },
+        
+        {
+        "question": "Under what conditions can a basement storey be exempted from providing an automatic sprinkler system according to Section 6.4.1d(2)(a)?",
+        "answer": "A basement storey can be exempted from providing an automatic sprinkler system if it is effectively cross-ventilated to prevent smoke logging."
+        },
+        
+        {
+        "question": "What are the conditions for granting an exemption for basement car parks from sprinkler and smoke purging systems as per Section 6.4.1d(2)(b)?",
+        "answer": "To grant an exemption for basement car parks, the following conditions must be met: (i) The basement car parking shall consist of one level only. (ii) Effective cross ventilation shall be achieved through evenly distributed vertical openings and voids. (iii) The total aggregate area of these voids and vertical openings shall be not less than 20% of the total basement floor area. (iv) An automatic fire alarm system shall be provided for the basement car parks with extension of alarm bells to the common/lobby areas of the upper storeys. Section 6.4.1d(2)(b)"
+        },
+        
+        {
+        "question": "What is the requirement for fire protection in atrium spaces as per Section 6.4.1e?",
+        "answer": "A fire sprinkler system shall be provided for an atrium space not exceeding 18m in height. For an atrium with a ceiling height exceeding 18m, water monitor, deluge, and/or extended-throw sprinkler systems shall be provided to cover the entire atrium space. Section 6.4.1e"
+        },
+        {
+        "question": "What areas are exempted from sprinkler protection in a sprinkler-protected building according to Section 6.4.1f(1)(a)?",
+        "answer": "Areas covered with trellises, louvres, or perforated panels, which have 50% or more evenly distributed effective free openings, are exempted from sprinkler protection.Section 6.4.1f(1)(a)"
+        },
+        
+        {
+        "question": "What additional requirement is there for areas exempted under Section 6.4.1f(1)(a)?",
+        "answer": "An alarm sounder and visual alarm shall be provided near the exit staircase in accordance with SS 645. Section 6.4.1f(1)(a)"
+        }
+        ,
+        {
+        "question": "What are the conditions for areas exempted under Section 6.4.1f(1)(b) (areas under roof-mounted PV installations on non-habitable roof)?",
+        "answer": "Each sub-array of PV installation shall not exceed 5m in width, with a maintenance aisle of minimum 400mm width in between the sub-arrays. Each sub-array shall be open-sided without any commercial activities or storage within these areas. The maximum dimensions of PV arrays shall be in accordance with Cl.10.2.1d. Section 6.4.1f(1)(b)"
+        }
+        ,
+        {
+        "question": "Which types of buildings are areas exempted under Section 6.4.1f(2) (areas not located within PG VI or VIII buildings) applicable to?",
+        "answer": "These exemptions are applicable to areas not located within PG VI or VIII buildings. Section 6.4.1f(2)"
+        }
+        ,
+        {
+        "question": "What are the conditions for areas exempted under Section 6.4.1f(2)(a) (canopies/car porches)?",
+        "answer": "(i) Such areas are to be used solely for the purpose of passengers pick-up and drop-off. (ii) There shall be no commercial activities or storage within these areas. (iii) Cut-off sprinklers and fire-rated walls are not required to be provided to separate the sprinkler-protected and non-sprinkler-protected areas. Section 6.4.1f(2)(a)"
+        },
+        
+        {
+        "question": "What is the maximum width allowed for external corridors to be exempted under Section 6.4.1f(2)(b)?",
+        "answer": "External corridors shall not exceed 4m in width. Section 6.4.1f(2)(b)"
+        }
+        ,
+        {
+        "question": "What is the maximum width allowed for external/open-sided linkways to be exempted under Section 6.4.1f(2)(c)?",
+        "answer": "External/open-sided linkways shall not exceed 5m in width. 6.4.1f(2)(c)"
+        }
+        ,
+        {
+        "question": "Under what conditions are open-to-sky roof gardens/terraces exempted under Section 6.4.1f(2)(d)?",
+        "answer": "Open-to-sky roof gardens/terraces are exempted if there are no covered commercial activities/spaces at the open-to-sky roof gardens/terraces, and they are positioned near the exit staircase in accordance with SS 645."
+        },
+        {
+            "question": "What standard governs the installation of the sprinkler system, its associated water supply, and control and testing requirements as per Section 6.4.2?",
+            "answer": "The installation of the sprinkler system and its associated water supply, as well as control and testing requirements, shall comply with the SS CP 52."
+          },
+          {
+            "question": "What is Section 6.4.2?",
+            "answer": "Installation of the sprinkler system and its associated water supply, and control and testing requirements shall comply with the SS CP 52."
+          },
+          {
+            "question": "What is the requirement for the electric monitoring of the sprinkler system as per Section 6.4.3a?",
+            "answer": "The sprinkler system shall be electrically monitored so that on the operation of any sprinkler head, the fire signal is automatically transmitted to a fire station through an approved alarm monitoring company. (Section 6.4.3a)"
+            },
+            {
+                "question": "How should fire pumps be installed for sprinkler systems in compliance with Section 6.4.3b?",
+                "answer": "Installation of fire pumps for sprinkler systems shall comply with the requirements of SS CP 52. Sprinkler pumps shall be installed within a fire-compartmented fire pump room, whose fire rating shall be in accordance with Table 6.4A. The sprinkler pump room floor level shall not be lower than the main floor level. (Section 6.4.3b)"
+            },
+            {
+                "question": "Where can the sprinkler control valve(s) be located, according to Section 6.4.3c?",
+                "answer": "The sprinkler control valve(s) shall be located in one of the following areas: (1) Facing an external space within a travel distance of 10m from entrance to the FCC. (2) Within a fire lift lobby/smoke-free lobby. (3) Within a sprinkler pump room. (4) Within a 1-hr fire-rated enclosure, located at most 10m travel distance from the entrance to the exit staircase. (Section 6.4.3c)"
+            },
+            {
+                "question": "What is the requirement for displaying the location plan of the sprinkler system components as per Section 6.4.3d?",
+                "answer": "A floor plan showing the locations of the sprinkler tank room, sprinkler pump room, breeching inlets, and control valves shall be prominently displayed within the FCC. In the absence of the FCC, the floor plan shall be located in the following order of priority: (1) within the guard house, or (2) next to the main fire alarm panel. (Section 6.4.3d)"
+            },
+            {
+                "question": "What is section 6.4.3a ?",
+                "answer": "Section 6.4.3a is about the requirement for electrically monitoring the sprinkler system so that when any sprinkler head operates, the fire signal is automatically transmitted to a fire station through an approved alarm monitoring company."
+            },{
+                "question": "What is section 6.4.3b ?",
+                "answer": "Section 6.4.3b specifies that the installation of fire pumps for sprinkler systems should comply with the requirements of SS CP 52. Sprinkler pumps must be installed within a fire-compartmented fire pump room, and the fire rating of this room should be in accordance with Table 6.4A. Additionally, the sprinkler pump room floor level must not be lower than the main floor level."
+            },
+            {
+                "question": "What is section 6.4.3c?",
+                "answer": "Section 6.4.3c provides options for the location of sprinkler control valve(s). They can be located in one of the following areas: (1) Facing an external space within a travel distance of 10m from entrance to the FCC. (2) Within a fire lift lobby/smoke-free lobby. (3) Within a sprinkler pump room. (4) Within a 1-hr fire-rated enclosure, located at most 10m travel distance from the entrance to the exit staircase."
+            },
+            {
+                "question": "What is section 6.4.3d ?",
+                "answer": "Section 6.4.3d requires that a floor plan showing the locations of the sprinkler tank room, sprinkler pump room, breeching inlets, and control valves should be prominently displayed within the FCC (Fire Command Centre). In the absence of the FCC, the floor plan should be located in the following order of priority: (1) within the guard house, or (2) next to the main fire alarm panel."
+            },
+            {
+                "question": "What is required in section 6.4.4a regarding automatic sprinkler systems and building purposes?",
+                "answer": "Section 6.4.4a states that in buildings required to have an automatic sprinkler system under this Code, parts of the building used for purposes stipulated in Table 6.4A should be compartmented in accordance with columns 3(a) and 3(b) of the table."
+            },
+            {
+                "question": "What does section 6.4.4b say about special purpose rooms in buildings not required to have an automatic sprinkler system?",
+                "answer": "Section 6.4.4b specifies that in buildings not required to have an automatic sprinkler system under this Code, special purpose rooms stipulated in Table 6.4A should be compartmented in accordance with columns 2(a) and 2(b) of the table."
+            },
+            {
+                "question": "What does section 6.4.4b say about special purpose rooms in buildings not required to have an automatic sprinkler system?",
+                "answer": "Section 6.4.4b specifies that in buildings not required to have an automatic sprinkler system under this Code, special purpose rooms stipulated in Table 6.4A should be compartmented in accordance with columns 2(a) and 2(b) of the table."
+            },
+            {
+                "question": "What are the requirements for protecting communication nerve centres, data process centres, and process control rooms with high-value equipment, as per section 6.4.4c?",
+                "answer": "Section 6.4.4c outlines the requirements for protecting such areas. It states that if automatic sprinklers are to be replaced by an automatic fire extinguishing system, the enclosure to the hazard or occupancy should have a 1-hour fire resistance rating, be equipped with 1-hour fire doors, not have more than two exits, maintain a direct travel distance to any exit door of the enclosure not exceeding 15m, and use a clean agent fire extinguishing system in accordance with Cl.6.5.2."
+            }
+            ,
+            {
+                "question": "What is the purpose of compartmentation for special purpose rooms in buildings with automatic sprinkler systems, according to section 6.4.4a?",
+                "answer": "Section 6.4.4a specifies that the purpose of compartmentation for special purpose rooms in buildings with automatic sprinkler systems is to comply with the requirements outlined in Table 6.4A columns 3(a) and 3(b) for such rooms."
+            },
+            {
+                "question": "How should special purpose rooms in buildings not required to have automatic sprinkler systems be compartmented, as per section 6.4.4b?",
+                "answer": "Section 6.4.4b states that special purpose rooms in buildings not required to have automatic sprinkler systems should be compartmented in accordance with the requirements specified in Table 6.4A columns 2(a) and 2(b) for such rooms."
+            },
+            {
+                "question": "What type of fire extinguishing system can be used as a replacement for automatic sprinklers in certain high-value equipment areas, according to section 6.4.4c?",
+                "answer": "Section 6.4.4c mentions that an automatic fire extinguishing system using a clean agent can be used as a replacement for automatic sprinklers in areas with communication nerve centres, data process centres, and process control rooms composed of high-value computers or telecommunication equipment."
+            },
+            {
+                "question": "What is the maximum allowable direct travel distance to an exit door within the enclosure for high-value equipment rooms as specified in section 6.4.4c?",
+                "answer": "Section 6.4.4c states that the maximum allowable direct travel distance to an exit door within the enclosure for high-value equipment rooms should not exceed 15 meters."
+            },
+            {
+                "question": "What type of fire doors are required for enclosures in high-value equipment areas, according to section 6.4.4c?",
+                "answer": "Section 6.4.4c requires that enclosures in high-value equipment areas should be equipped with 1-hour fire doors."
+            },
+            {
+                "question": "What is section 6.4.4a?",
+                "answer": "Where a building is required to be provided with an automatic sprinkler system under this Code, parts of the building which are used for purposes stipulated in Table 6.4A shall be compartmented in accordance with columns 3(a) and 3(b) of the table."
+            },
+            
+            {
+                "question": "What is section 6.4.4b?",
+                "answer": "Where a building is not required to be provided with an automatic sprinkler system under this Code, special purpose rooms stipulated in Table 6.4A shall be compartmented in accordance with columns 2(a) and 2(b)."
+            }
+            ,
+            {
+                "question": "What is section 6.4.4c ?",
+                "answer": "For the protection of communication nerve centres, data process centres, and process control rooms composed of high-value computers or telecommunication equipment, if automatic sprinklers are to be replaced by an automatic fire extinguishing system, the enclosure to the hazard or occupancy shall comply with the following: (1) it shall be constructed to have a 1-hour fire resistance rating; (2) any door opening shall be protected with a 1-hour fire door; (3) it shall not be provided with more than two exits; (4) the direct travel distance to any exit door of the enclosure shall not exceed 15m; and (5) the fire extinguishing system shall use clean agent and shall conform to Cl.6.5.2."
+            },
+            {
+                "question": "What is section 6.4.5 ?",
+                "answer": "In multi-storey buildings under PG II to VIII with an aboveground car park, the provision of fire protection and smoke control systems for the car park shall be in accordance with Table 6.4B."
+            },
+            {
+                "question": "What is section 6.4.6a ?",
+                "answer": "The water mist system shall be of a propriety design that has been tested to meet the performance requirements of a standard acceptable to the SCDF."
+            },
+            {
+                "question": "What is section 6.4.6b ?",
+                "answer": "The design and installation of water mist system shall conform to NFPA 750 or AS 4587."
+            },
+            {
+                "question": "What is section 6.4.6c ?",
+                "answer": "The components of the water mist system shall be listed by a recognised testing laboratory."
+            },
+            {
+                "question": "What is the purpose of section 6.4.6 regarding water mist systems?",
+                "answer": "Section 6.4.6 outlines the conditions under which water mist systems can be used as a substitute for automatic sprinklers in sprinkler-protected buildings. (section 6.4.6)"
+            },
+            
+            {
+                "question": "What is the requirement for the design of a water mist system according to section 6.4.6?",
+                "answer": "The design and installation of the water mist system shall conform to NFPA 750 or AS 4587. (section 6.4.6b)"
+            }
+            ,
+            {
+                "question": "What standards must a proprietary design water mist system meet to be acceptable according to section 6.4.6?",
+                "answer": "The water mist system shall be of a proprietary design that has been tested to meet the performance requirements of a standard acceptable to the SCDF. (section 6.4.6a)"
+            },
+            
+            {
+                "question": "What is the significance of the components of the water mist system being listed by a recognized testing laboratory, as mentioned in section 6.4.6c?",
+                "answer": "The components of the water mist system must be listed by a recognized testing laboratory to ensure their reliability and compliance with safety standards. (section 6.4.6c)"
+            }
+            ,
+            {
+                "question": "Under what circumstances can water mist systems be used instead of automatic sprinklers, as per section 6.4.6?",
+                "answer": "Water mist systems can be permitted as a substitute for automatic sprinklers in sprinkler-protected buildings if the specified requirements are met. (section 6.4.6)"
+            }
+            ,
+            {
+                "question": "What are the standards that a water mist system must conform to in section 6.4.6?",
+                "answer": "The design and installation of the water mist system shall conform to NFPA 750 or AS 4587. (section 6.4.6b)"
+            }
+            ,
+            {
+                "question": "What is meant by a 'proprietary design' water mist system in section 6.4.6?",
+                "answer": "A 'proprietary design' water mist system refers to a system that is not a standard off-the-shelf product but has a unique design that meets specific performance requirements. (section 6.4.6a)"
+            }
+            ,
+            {
+                "question": "What role does the SCDF play in determining the acceptability of water mist systems in section 6.4.6?",
+                "answer": "The SCDF determines the acceptability of water mist systems based on whether they meet the performance requirements of a standard that the SCDF finds acceptable. (section 6.4.6a)"
+            },
+            {
+                "question": "What type of buildings is the reduced water storage for automatic fire sprinkler systems applicable to according to section 6.4.7?",
+                "answer": "The reduced water storage is applicable to existing buildings of habitable height not exceeding 60m, with a hazard classification of Ordinary Hazard Group I, II, or III under SS CP 52. It does not apply to new buildings, buildings housing storage risks, and chemical processes. (section 6.4.7)"
+            },
+            
+            {
+                "question": "What is the minimum water storage capacity required for the sprinkler tank as per section 6.4.7a.(1)?",
+                "answer": "The minimum water storage capacity of the sprinkler tank shall be capable of providing adequate water supply for 30 minutes of the sprinkler pump operation. (section 6.4.7a.(1))"
+            }
+            ,
+            {
+                "question": "What is the effective tank storage capacity for sprinkler systems with a reliable inflow, as per section 6.4.7a.(2)?",
+                "answer": "For sprinkler systems with a constant reliable inflow from the town mains and a water inlet point at a reduced level of 125m or below, the effective tank storage capacity varies based on occupancy groups and system demand. (section 6.4.7a.(2))"
+            }
+            ,
+            {
+                "question": "What is the effective tank storage capacity for sprinkler systems with an unreliable inflow, according to section 6.4.7a.(3)?",
+                "answer": "For sprinkler systems with an unreliable inflow from the town mains or a water inlet point at a reduced level greater than 125m, the effective tank storage capacity varies based on occupancy groups and system demand. (section 6.4.7a.(3))"
+            }
+            ,
+            {
+                "question": "What design method should be used for the sprinkler system pipework according to section 6.4.7a.(4)?",
+                "answer": "Full hydraulic calculation methods shall be adopted for the design of the sprinkler system pipework. (section 6.4.7a.(4))"
+            }
+            ,
+            {
+                "question": "What is the minimum pipe size for the replenishing water mains to the sprinkler storage tank, as specified in section 6.4.7b.(1)?",
+                "answer": "The pipe size of the replenishing water mains to the sprinkler storage tank shall not be less than 150mm in diameter. (section 6.4.7b.(1))"
+            }
+            ,
+            {
+                "question": "What should be fitted at the inlets to the storage tank according to section 6.4.7b.(2)?",
+                "answer": "The inlets to the storage tank shall be fitted with a non-modulating type of pilot float valve listed by the authority having jurisdiction. (section 6.4.7b.(2))"
+            }
+            ,
+            {
+                "question": "What is the effective date mentioned in section 6.4.7 for its implementation?",
+                "answer": "The effective date for the implementation of section 6.4.7 is 'Immediate.' (section 6.4.7)"
+            },
+            {
+                "question": "What is section 6.4.7?",
+                "answer": "Section 6.4.7 discusses reduced water storage requirements for automatic fire sprinkler systems. It applies to existing buildings of habitable height not exceeding 60m with specific hazard classifications. (section 6.4.7)"
+            },
+            {
+                "question": "What is section 6.4.7a?",
+                "answer": "(1) The minimum water storage capacity of the sprinkler tank shall be capable of providing adequate water supply for 30 mins of the sprinkler pump operation. Pipe sizing Full hydraulic calculation methods shall be adopted for the design of the sprinkler system pipework. The sprinkler design must ensure that the flow does not exceed the system demand as stipulated in Table 6.4.7a.(2) and Table 6.4.7a.(3), throughout the installation. The flow and pressure limitations can be overcome by employing constant flow pressure reducing valves or by including orifice plates at connections to main distribution pipes."
+            },
+            {
+                "question": "What is section 6.4.7b?",
+                "answer": "Water supply (1) Size of incoming mains The pipe size of the replenishing water mains to the sprinkler storage tank shall not be less than 150mm in diameter. Hydrants, hose reels and external drenchers shall not be connected to the sprinkler system or draw from the sprinkler water supply. (2) Inlets to storage tank The inlets to the storage tank shall be fitted with a non-modulating type of pilot float valve listed by the authority having jurisdiction.Effective Date: Immediate"
+            },
+            {
+                "question": "What is section 6.4.6?",
+                "answer": "section, 6.4.6, is about the use of water mist systems as an alternative to automatic sprinkler systems in sprinkler-protected buildings. It outlines specific requirements that must be met for the use of water mist systems, including design standards and component listings."
+            },
+            {
+                "question": "What is section 6.4.8a?",
+                "answer": "Combining firefighting water tank for sprinkler and wet riser systems is permitted for buildings of ordinary hazard category classification provided their designs comply with the provisions stipulated in SS CP 52 and SS 575, respectively."
+            },
+            {
+                "question": "What is section 6.4.8b?",
+                "answer": "The water storage shall be based on the larger water storage demand of the systems."
+            },
+            {
+                "question": "What is section 6.4.8c?",
+                "answer": "Separate pump sets shall be provided to allow for the simultaneous operation of the sprinkler and wet riser systems."
+            },
+            {
+                "question": "What is section 6.4.8d?",
+                "answer": "The combined systems’ sprinkler riser and wet riser stacks shall not be interconnected by sprinkler system piping or a single riser that serves both systems."
+            },
+            {
+                "question": "What is section 6.4.8?",
+                "answer": "Section 6.4.8 discusses the combining of firefighting water tanks for sprinkler and wet riser systems in buildings of ordinary hazard category classification (Section 6.4.8)."
+              },
+              {
+                "question": "Under what conditions is combining firefighting water tanks for sprinkler and wet riser systems permitted?",
+                "answer": "Combining firefighting water tanks for sprinkler and wet riser systems is permitted for buildings of ordinary hazard category classification if their designs comply with the provisions stipulated in SS CP 52 and SS 575 (Section 6.4.8a)."
+              },
+              {
+                "question": "How should the water storage be determined for combined systems?",
+                "answer": "The water storage should be based on the larger water storage demand of the systems (Section 6.4.8b)."
+              },
+              {
+                "question": "What is the requirement for pump sets in combined systems?",
+                "answer": "Separate pump sets shall be provided to allow for the simultaneous operation of the sprinkler and wet riser systems (Section 6.4.8c)."
+              },
+              {
+                "question": "Are the sprinkler riser and wet riser stacks interconnected in combined systems?",
+                "answer": "No, the combined systems’ sprinkler riser and wet riser stacks shall not be interconnected by sprinkler system piping or a single riser that serves both systems (Section 6.4.8d)."
+              },
+              {
+                "question": "effective date Section 6.4.8?",
+                "answer": "This section came into effect on 15 Sep 2020 (Section 6.4.8)."
+              },
+              {
+                "question": "What is the purpose of SS CP 52 and SS 575 in this context?",
+                "answer": "SS CP 52 and SS 575 are referenced standards that provide guidelines and specifications for firefighting water systems in buildings (Section 6.4.8a)."
+              },
+              {
+                "question": "Why is it important to have separate pump sets for combined systems?",
+                "answer": "Separate pump sets are necessary to ensure that both the sprinkler and wet riser systems can operate simultaneously when needed for firefighting (Section 6.4.8c)."
+              },
+              {
+                "question": "What is section 6.5.1?",
+                "answer": "Section 6.5.1 deals with the installation of fixed automatic fire extinguishing systems that are not explicitly required by the code."
+              },
+              {
+                "question": "Under what circumstances can such systems be accepted as a substitute for provisions in the code?",
+                "answer": "Fixed automatic fire extinguishing systems not required by the code can only be accepted as a substitute for code provisions if approved by the SCDF (Section 6.5.1)."
+              },
+              {
+                "question": "What is the primary purpose of installing such additional fire extinguishing systems?",
+                "answer": "The primary purpose of installing additional fire extinguishing systems not required by the code is to provide additional protection for property safety (Section 6.5.1)."
+              },
+              {
+                "question": "What requirement must be met regarding the performance of stipulated systems when installing additional systems?",
+                "answer": "The installation of additional fire extinguishing systems shall not adversely affect the performance of the stipulated systems (Section 6.5.1)."
+              },
+              {
+                "question": "What is section 6.5?",
+                "answer": "6.5.1 Installation of any fixed automatic fire extinguishing systems which are not deemed to be required by this Code shall not be accepted as substitute of any provision stipulated in this Code unless otherwise approved by the SCDF. Such systems will be considered additional protection for property safety and their installation shall not adversely affect the performance of the stipulated systems. 6.5.2 Design standard The design and installation of such automatic fire extinguishing systems shall comply with corresponding Codes of Practice acceptable to the SCDF."
+            },
+              {
+                "question": "What is section 6.5.2?",
+                "answer": "Section 6.5.2 specifies that the design and installation of automatic fire extinguishing systems must comply with corresponding Codes of Practice acceptable to the SCDF."
+            },
+            {
+                "question": "What is the primary requirement for the design and installation of these systems?",
+                "answer": "The primary requirement is compliance with corresponding Codes of Practice acceptable to the SCDF (Section 6.5.2)."
+            },
+            {
+                "question": "Who determines the acceptability of the Codes of Practice for these systems?",
+                "answer": "The acceptability of the Codes of Practice for these systems is determined by the SCDF (Section 6.5.2)."
+            },
+            {
+                "question": "What standard must be followed when designing and installing automatic fire extinguishing systems?",
+                "answer": "Design and installation must follow the corresponding Codes of Practice acceptable to the SCDF (Section 6.5.2)."
+            },
+            {
+                "question": "What is section 6.6.1?",
+                "answer": "All lift installations and operations shall comply with SS 550."
+            },
+            {
+                "question": "What is section 6.6.2?",
+                "answer": "Lift well shall be vented in accordance with SS 550."
+            },
+            {
+                "question": "What is section 6.6.3a?",
+                "answer": "Emergency power supply for lighting, ventilation and alarm systems for all lifts shall comply with the requirements in SS 550."
+            },
+            {
+                "question": "What is section 6.6.3b?",
+                "answer": "A standby generating plant shall be provided for: (1) homing of lifts during an emergency for: (1) homing of lifts during an emergency for: (a) PG II buildings with private lifts or that which exceed the habitable height of 60m; (b) mixed-use residential buildings where the lifts serve the residential and/or non-residential floor(s); (c) PG III to VIII buildings exceeding four storeys; and Effective Date: 01 Mar 2019 (d) all basement occupancies (excluding PG I buildings or basements within single household dwelling houses classified as cluster housing within PG II developments). Effective Date: 1 Mar 2023 (2) operating of the following lifts during an emergency: (a) fire lifts; (b) PWD evacuation lifts for buildings exceeding four storeys and buildings which require the provision of such lifts; and (c) fire escape bed lifts."
+            },
+            {
+                "question": "What is section 6.6.3c?",
+                "answer": "The power supply to the lift shall be connected to a sub-main circuit exclusive to the lift and be independent of any other main or sub-main circuits. The power cables serving the lift installation shall be routed through an area of negligible fire risk."
+            },
+            {
+                "question": "What is section 6.6.3?",
+                "answer": "Section 6.6.3 of the code is about Emergency Power Supply for Lifts. It specifies requirements and conditions related to the provision of emergency power supply for lighting, ventilation, and alarm systems in lifts. This section outlines when a standby generating plant is required for homing and operating lifts during emergencies, as well as the design and safety considerations for the power supply to lifts. It is aimed at ensuring the safe operation of lifts in various building types and occupancy scenarios during emergency situations."
+            },
+            {
+                "question": "What does section 6.6.3a of the code specify?",
+                "answer": "Section 6.6.3a specifies that the emergency power supply for lighting, ventilation, and alarm systems for all lifts must comply with the requirements in SS 550."
+              },
+              {
+                "question": "Under what circumstances is a standby generating plant required for homing of lifts during an emergency?",
+                "answer": "A standby generating plant is required for homing of lifts during an emergency in PG II buildings with private lifts or those that exceed the habitable height of 60m, mixed-use residential buildings where the lifts serve both residential and non-residential floors, PG III to VIII buildings exceeding four storeys, and all basement occupancies except PG I buildings or basements within single household dwelling houses classified as cluster housing within PG II developments."
+              },
+              {
+                "question": "What types of lifts are permitted to operate during an emergency under section 6.6.3b?",
+                "answer": "Under section 6.6.3b, fire lifts, PWD evacuation lifts for buildings exceeding four storeys and those requiring such lifts, and fire escape bed lifts are permitted to operate during an emergency."
+              },
+              {
+                "question": "What is the requirement for the power supply to the lift under section 6.6.3c?",
+                "answer": "The power supply to the lift must be connected to a sub-main circuit that is exclusive to the lift and independent of any other main or sub-main circuits. The power cables serving the lift installation must be routed through an area of negligible fire risk."
+              },
+              {
+                "question": "What is the effective date for section 6.6.3a?",
+                "answer": "The effective date for section 6.6.3a is 01 Mar 2019."
+              },
+              {
+                "question": "What is the effective date for section 6.6.3b(1)?",
+                "answer": "The effective date for section 6.6.3b(1) is 1 Mar 2023."
+              },
+              {
+                "question": "What is the effective date for section 6.6.3b(2)?",
+                "answer": "The effective date for section 6.6.3b(2) is 01 Mar 2019."
+              },
+              {
+                "question": "What are the specific conditions under which a standby generating plant is required for homing of lifts during an emergency?",
+                "answer": "A standby generating plant is required for homing of lifts during an emergency in PG II buildings with private lifts or those that exceed the habitable height of 60m, mixed-use residential buildings where the lifts serve both residential and non-residential floors, PG III to VIII buildings exceeding four storeys, and all basement occupancies except PG I buildings or basements within single household dwelling houses classified as cluster housing within PG II developments."
+              },
+              {
+                "question": "What is the primary purpose of the emergency power supply for lifts?",
+                "answer": "The primary purpose of the emergency power supply for lifts is to ensure safe operation during emergencies, including homing of lifts and operation of specific types of lifts."
+              },
+              {
+                "question": "What are the general requirements for the installation of a fire lift?",
+                "answer": "The installation of the fire lift shall comply with SS 550 (section 6.6.4a.(1))."
+              },
+              {
+                "question": "Is it permissible to have a fire lift within a common protected shaft containing other lifts?",
+                "answer": "Yes, fire lifts can be contained within a common protected shaft (section 6.6.4a.(2))."
+              },
+              {
+                "question": "Where should the fire lift shaft be continuous throughout the building?",
+                "answer": "The fire lift shaft should serve every storey except a non-habitable roof (section 6.6.4a.(3))."
+              }
+,
+            {
+                "question": "Can a lift mainly intended for the transport of goods be designated as a fire lift?",
+                "answer": "No, a lift mainly intended for the transport of goods shall not be designated as a fire lift (section 6.6.4a.(4))."
+  },
+  {
+    "question": "Are cargo lifts allowed to open into a fire lift lobby?",
+    "answer": "No, cargo lifts shall not open into a fire lift lobby (section 6.6.4a.(5))."
+  },
+  {
+    "question": "What is section 6.6.4a?",
+    "answer": "Section 6.6.4 of the code you provided is about Fire Lifts. It outlines the general requirements and regulations for the installation and operation of fire lifts in buildings, including specifications for their shafts, location, and designation. These requirements are essential to ensure the safety and functionality of fire lifts in emergency situations."
+  },
+  {
+    "question": "What is the minimum requirement for fire lifts in buildings with a habitable height exceeding 24m?",
+    "answer": "With the exception of PG I and II buildings, all other buildings shall be provided with at least two fire lifts (6.6.4b(1))."
+  },
+  {
+    "question": "How many fire lifts should be provided in PG II buildings with a habitable height exceeding 24m?",
+    "answer": "At least one fire lift shall be provided. In super high-rise residential buildings above 40 storeys, at least two fire lifts are required (6.6.4b(2))."
+  },
+  {
+    "question": "When are buildings required to have at least two fire lifts if their depth of basement exceeds 9m below the average grade level?",
+    "answer": "All buildings, except PG I, shall have at least two fire lifts if the depth of the basement exceeds 9m below the average grade level (6.6.4b(3))."
+  },
+  {
+    "question": "Which types of buildings are exceptions to the requirement of having at least two fire lifts if the habitable height exceeds 24m?",
+    "answer": "PG I and II buildings are exceptions; they do not need to have at least two fire lifts in this case (6.6.4b(1))."
+  },
+  {
+    "question": "What is the additional requirement for super high-rise residential buildings above 40 storeys in terms of fire lifts?",
+    "answer": "In super high-rise residential buildings above 40 storeys, at least two fire lifts are required, even for PG II buildings (6.6.4b(2))."
+  },
+  {
+    "question": "What is section 6.6.4b?",
+    "answer": "Section 6.6.4 of the code pertains to Fire Lifts. This section provides regulations and guidelines related to the installation and requirements for fire lifts in buildings. It covers various aspects, including the number of fire lifts required based on building characteristics, the installation of fire lifts within separate protected shafts, and specific requirements for motor-room-less fire lifts, among other topics. Essentially, it outlines the standards and specifications for ensuring the availability and functionality of fire lifts in different types of buildings to enhance fire safety and evacuation procedures."
+  },
+  {
+    "question": "What is the travel distance limit for the fire lift landing door to the exit staircase door in most cases according to 6.6.4c?",
+    "answer": "The travel distance between the nearest edges of the lift landing door and exit staircase door is not more than 5m. (6.6.4c)",
+    "section": ""
+    },
+    {
+    "question": "Are there exceptions to the travel distance limit between the fire lift landing door and exit staircase door according to 6.6.4c?",
+    "answer": "Yes, for the final discharge of exit staircase at ground level for PG II buildings, the travel distance between the nearest edge of the fire lift landing door and exit staircase door can be extended to at most 10m. However, additional signage is required to indicate the location of the exit staircase door. This exception is not applicable to PG II mixed occupancy buildings. (6.6.4c)",
+    "section": ""
+    },
+    {
+    "question": "What accessibility requirement must be met for firefighters regarding the fire lift according to 6.6.4c?",
+    "answer": "The fire lift shall be located such that any part of every storey shall be accessible by firefighters from the fire lift. (6.6.4c)",
+    "section": ""
+    },
+    {
+    "question": "What is the coverage requirement for the fire lift concerning the distance to any part of a storey according to 6.6.4c?",
+    "answer": "Regardless of whether the building is installed with an automatic sprinkler system, the number of fire lifts required shall be such that any part of a storey of the building is within 60m coverage from the fire lift door, subject to the provision of at least two fire lifts in accordance with Cl.6.6.4b.(1) & (3). (6.6.4c)",
+    "section": ""
+    },
+    {
+    "question": "What operational features must be provided for the fire lift according to 6.6.4d?",
+    "answer": "The operational features of the fire lift shall be provided in accordance with SS 550, including the provision of a fire lift switch. (6.6.4d)",
+    "section": ""
+    },
+    {
+        "question": "What is section 6.6.4c?",
+        "answer": "Section 6.6.4 of the code pertains to the regulations and requirements for fire lifts in buildings. It covers various aspects such as the number of fire lifts required, their accessibility and coverage, and operational features, including the provision of a fire lift switch. This section aims to ensure that fire lifts are appropriately designed and located to facilitate safe evacuation and firefighting in the event of a fire."
+      }
+  
+
 ]
 
-     
