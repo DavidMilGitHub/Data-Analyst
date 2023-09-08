@@ -2938,7 +2938,7 @@
       "answer": "The purpose of encasing gas pipes in this manner is to enhance safety by providing a means for venting gas to an external space, reducing the potential risks associated with gas leaks in internal corridors/lobbies (Clause 3.9.8)."
   },
   {
-    "question": "What  Section 3.10.1?",
+    "question": "What is Section 3.10.1?",
     "answer": "Section 3.10.1 pertains to the construction requirements for exit staircases, specifying that they must be constructed of non-combustible materials, with exceptions for buildings under PG I where only certain structural components need to be non-combustible (Section 3.10.1)."
 },
 {
@@ -3970,7 +3970,1505 @@
     {
     "question": "What are the potential benefits of having clear regulations for space around buildings in the context of firefighting?",
     "answer": "Clear regulations can enhance the safety and efficiency of firefighting operations, reduce response times, and minimize damage to property and lives during fire incidents. (Chapter 4)"
-    }
+    },
+    {
+        "question": "What is section 4.2.1?",
+        "answer": "Section 4.2.1 outlines regulations related to fire engine accessways and fire engine access roads, focusing on ensuring site accessibility for firefighting appliances. (Section 4.2.1)"
+        }
+        ,
+        {
+        "question": "Why are fire engine accessways and access roads important in firefighting?",
+        "answer": "Fire engine accessways and access roads are crucial for firefighting because they provide the necessary routes for firefighting appliances to reach the site and deploy effectively. (Section 4.2.1a)"
+        }
+        ,
+        {
+        "question": "What determines the clear width required for fire engine accessways?",
+        "answer": "The clear width required for fire engine accessways is determined based on the habitable height and the type of building, as specified in Table 4.2A, Table 4.2B, and Table 4.2C. (Section 4.2.1b)"
+        }
+        ,
+        {
+        "question": "What is the minimum clear width for fire engine access roads?",
+        "answer": "The minimum clear width for fire engine access roads is at least 4 meters. (Section 4.2.1c)"
+        }
+        ,
+        {
+        "question": "What is the purpose of fire access openings along external walls?",
+        "answer": "Fire access openings are provided to allow firefighting and rescue operations to access the building from the exterior, facilitating rapid response and intervention. (Section 4.2.1d)"
+        }
+        ,
+        {
+        "question": "What are firefighting appliances, and why are they mentioned in this section?",
+        "answer": "Firefighting appliances are vehicles and equipment used by firefighters to combat fires. They are mentioned in this section because fire engine accessways need to accommodate these appliances for effective firefighting. (Section 4.2.1a)"
+        }
+        ,
+        {
+        "question": "How do habitable height and building type affect the required clear width of fire engine accessways?",
+        "answer": "The clear width of fire engine accessways depends on habitable height and building type because taller buildings and different types of structures may require wider accessways to accommodate firefighting appliances. Specific requirements can be found in Tables 4.2A, 4.2B, and 4.2C. (Section 4.2.1b)"
+        }
+        ,
+        {
+        "question": "What is the significance of stipulating a clear width of at least 4 meters for fire engine access roads?",
+        "answer": "Requiring a minimum clear width of 4 meters for fire engine access roads ensures that these routes are wide enough to allow firefighting vehicles to pass and operate effectively during emergencies. (Section 4.2.1c)"
+        }
+        ,
+        {
+        "question": "What types of buildings might require different clear widths for fire engine accessways?",
+        "answer": "Different types of buildings, such as residential, commercial, or industrial, may have varying requirements for clear widths of fire engine accessways, depending on their specific firefighting needs. (Section 4.2.1b)"
+        }
+        ,
+        {
+        "question": "What is the objective of providing fire access openings along external walls?",
+        "answer": "The objective of providing fire access openings is to create access points for firefighting and rescue personnel to enter the building from the exterior, ensuring swift response and efficient firefighting operations. (Section 4.2.1d)"
+        },
+        {
+        "question": "What is section 4.2.2?",
+        "answer": "Section 4.2.2 discusses the provisions and requirements for fire engine accessways and fire engine access roads, specifying when they are necessary and their dimensions based on building types and heights. (Section 4.2.2)"
+        },
+        
+        {
+        "question": "What types of buildings are exempt from requiring a fire engine accessway but still need a fire engine access road?",
+        "answer": "PG I buildings, PG II buildings of habitable height not exceeding 10m, and cluster housing are exempt from requiring a fire engine accessway but still need a fire engine access road to be provided within a travel distance of 60m from every point on the projected plan area. (Section 4.2.2a.(1))"
+        }
+        ,
+        {
+        "question": "What kind of buildings within PG II development must comply with specific clauses depending on their habitable heights and usage?",
+        "answer": "Non-residential standalone buildings within PG II development, excluding guardhouses and substations, must comply with specific clauses in Cl.4.2.2a.(4), Cl.4.2.2a.(5), Cl.4.2.2a.(6), or Cl.4.2.2a.(7) depending on their habitable heights and usage. (Section 4.2.2a.(2))"
+        }
+        ,
+        {
+        "question": "What are the requirements for buildings under PG II that exceed a habitable height of 10m?",
+        "answer": "Buildings under PG II that exceed a habitable height of 10m must provide a fire engine accessway or fire engine access road within a travel distance of 18m to the entrance of all exit staircases with landing valves. Additionally, a fire engine accessway of at least ¼ length of perimeter (minimum 15m) must be provided to access at least one façade of each block. (Section 4.2.2a.(3))"
+        }
+        ,
+        {
+        "question": "How is the extent of perimeter for a fire engine accessway computed?",
+        "answer": "The extent of perimeter for a fire engine accessway is computed by considering only the external facade perimeters of residential units. Common areas such as corridors, lobbies, lift shafts, exit staircases, and landscape areas can be omitted from the computation. (Section 4.2.2a.(3)(b))"
+        }
+        ,
+        {
+        "question": "What specifications must the fire engine accessway meet?",
+        "answer": "The fire engine accessway must meet the specifications stipulated in Table 4.2A, Table 4.2D, and Table 4.2E. (Section 4.2.2a.(3)(c))"
+        }
+        ,
+        {
+        "question": "Do buildings under PG III, IV, V, and VII not exceeding 10m habitable height require a fire engine accessway?",
+        "answer": "No, buildings under PG III, IV, V, and VII not exceeding 10m habitable height do not require a fire engine accessway but must provide a fire engine access road within a travel distance of 45m from every point on the projected plan area of the building. (Section 4.2.2a.(4))"
+        },
+        
+        {
+        "question": "What is the requirement for fire engine accessways in basements?",
+        "answer": "In the case of a basement, the fire engine accessway or fire engine access road must be provided within a travel distance of 18m to the entrance of all exit staircases where landing valves (dry or wet riser) are provided. The measurement of 18m is between the accessway/road and the entrance of the exit staircase. (Section 4.2.2a.(5))"
+        },
+        
+        {
+        "question": "What is the requirement for buildings under PG III, IV, V, and VII exceeding 10m habitable height?",
+        "answer": "For buildings under PG III, IV, V, and VII exceeding 10m habitable height, a fire engine accessway must be located directly below the fire access openings to provide direct reach to the designated fire access panels. The required length of the accessway is computed based on the largest Accessible Floor Area (AFA) of any aboveground floors. (Section 4.2.2a.(6))"
+        }
+        ,
+        {
+        "question": "What factors are considered when calculating the required length of a fire engine accessway for buildings exceeding 10m habitable height?",
+        "answer": "The required length of a fire engine accessway for buildings exceeding 10m habitable height is computed based on the largest Accessible Floor Area (AFA) among interconnected floors, including basements connected to aboveground floors, or among groups of interconnected floors. (Section 4.2.2a.(6))"
+        },
+        {
+        "question": "How is the measurement of habitable height determined for mixed-use buildings with non-residential components?",
+        "answer": "For mixed-use buildings where the non-residential component occupies only the lower portion of the building, the measurement of habitable height for determining the provisions of a fire engine accessway or fire engine access road shall be based on the non-residential component of the building. (Section 4.2.2a.(8)(a))"
+        }
+        ,
+        {
+        "question": "What is the basis for calculating the length of a fire engine accessway for mixed-use buildings without PG II usage?",
+        "answer": "For mixed-use buildings without PG II usage, the length of the fire engine accessway shall be computed based on the larger of the gross cubical extent of the PG VI or VIII usages or the larger compartmented floor area for purpose groups other than PG VI and VIII. (Section 4.2.2a.(8)(b))"
+        }
+        ,
+        {
+        "question": "What is the basis for calculating the length of a fire engine accessway for mixed-use buildings with PG II usage?",
+        "answer": "For mixed-use buildings with PG II usage, the length of the fire engine accessway shall be computed based on Cl.4.2.2a.(6) which considers factors related to habitable height. In addition, Cl.4.2.2a.(3) shall also be complied with. (Section 4.2.2a.(8)(c))"
+        },
+        {
+        "question": "What is the requirement for the width of a fire engine accessway?",
+        "answer": "The width of a fire engine accessway shall be as specified in Table 4.2A, Table 4.2B, and Table 4.2C. It must accommodate the entry and manoeuvring of firefighting appliances, including extended ladder firefighting appliances with turntable and/or hydraulic platforms. (Section 4.2.2b)"
+        }
+        ,
+        {
+        "question": "How should the fire engine accessway be positioned in relation to the fire access opening?",
+        "answer": "The fire engine accessway shall be positioned so that the nearer edge is at least 2 meters and at most 10 meters from the center position of the fire access opening, measured horizontally. (Section 4.2.2c)"
+        }
+        ,
+        {
+        "question": "What are the maximum gradients allowed for a fire engine accessway and a fire engine access road?",
+        "answer": "The fire engine accessway shall be laid on a level platform, and if on an incline, the gradient shall not exceed 1:15. A fire engine access road shall be laid on an incline not exceeding a gradient of 1:8.3. (Section 4.2.2d)"
+        }
+        ,
+        {
+        "question": "What is the maximum length allowed for a dead-end fire engine accessway, and what facility must be provided if it exceeds this length?",
+        "answer": "A dead-end fire engine accessway shall not exceed 46 meters in length. If it exceeds 46 meters, it must be provided with a cul-de-sac turning facility as shown in Diagram 4.2.2e. (Section 4.2.2e(1))"
+        }
+        ,
+        {
+        "question": "What are the requirements for overhead clearance over a fire engine accessway or fire engine access road?",
+        "answer": "An overhead structure is permitted over a fire engine accessway or fire engine access road, provided that: (1) the overhead clearance for the passage of firefighting appliances is at least 4.5 meters, (2) the width of the overhead structure does not exceed 10 meters, (3) the separation distance between two adjacent overhead structures is at least 20 meters, (4) the length of the end-stretch of the fire engine accessway or fire engine access road is at least 20 meters with no overhead structure, and (5) the length of the fire engine accessway required for the building excludes the stretch of fire engine accessway with the overhead structure. (Section 4.2.2f)"
+        },
+        {
+        "question": "What is section 4.2.2j(1) ?",
+        "answer": "Section 4.2.2j(1) specifies the minimum width, length, and turning radii requirements for a fire engine accessway, as outlined in Table 4.2A, Table 4.2B, and Table 4.2C. Diagrams 4.2.2j(1) - 1 to 3 illustrate the relationship between the fire engine accessway and parked firefighting appliances with their front and rear jacks extended."
+        }
+        ,
+        {
+        "question": "What are the design requirements for fire engine accessways and fire engine access roads in terms of load capacity?",
+        "answer": "Fire engine accessways and fire engine access roads, regardless of their construction type (e.g., suspended slabs, metalled/non-metalled roads, paved/non-paved surfaces, or ground laid with strengthened perforated slabs), must be designed to withstand both stationary and axle loading capacity of firefighting appliances. The loading and turning radius of fire engine access roads used for linking fire engine accessways should also comply with the specifications for fire engine accessways. (Section 4.2.2j(2))"
+        },
+        {
+        "question": "What is section 4.2.2k ?",
+        "answer": "Section 4.2.2k specifies that fire engine accessways and fire engine access roads must not be repurposed for other uses such as ponds, water features, car parking lots (including loading & unloading), etc. Turfing of fire engine accessway/fire engine access road is only permitted on the straight stretch of the fire engine accessway/ fire engine access road with a gradient not exceeding 1:15."
+        }
+        ,
+        {
+        "question": "What is the requirement for bi-directional fire engine accessways/ fire engine access roads?",
+        "answer": "For buildings with vehicular entries/exits that provide bi-directional access, both directions of the fire engine accessway/fire engine access road must be designed with sufficient turning radius and width to allow firefighting appliances to maneuver along the fire engine accessway/fire engine access road in the intended traffic direction, as shown in Diagram 4.2.2l. (Section 4.2.2l)"
+        }
+        ,
+        {
+        "question": "effective date in section 4.2.2l?",
+        "answer": "The effective date mentioned in section 4.2.2l is 1 Sep 2021."
+        },
+        {
+        "question": "What is the purpose of fire access openings in section 4.2.3a?",
+        "answer": "The purpose of fire access openings, as mentioned in section 4.2.3a, is to provide access on the external wall for external firefighting and rescue operations. These openings can include unobstructed external wall openings, windows, balcony doors, glazed wall panels, and access panels."
+        }
+        ,
+        {
+        "question": "What are the minimum clearance requirements for fire access openings?",
+        "answer": "The minimum clearance requirements for fire access openings are as follows: a clearance area of 3.5 meters in width and 2.5 meters in height around the fire access opening, with a minimum clearance distance of 1.1 meters measured below the lower edge of the fire access opening and 400mm measured above the upper edge of the fire access opening."
+        },
+        
+        {
+        "question": "How should windows, doors, wall panels, or access panels related to fire access openings function?",
+        "answer": "Windows, doors, wall panels, or access panels related to fire access openings should be readily openable from both the inside and outside. Additionally, the inside and outside of fire access openings must remain unobstructed at all times during the occupancy of the building. There should be no furniture or any other obstruction within 1 meter from the fire access openings at the landing inside the building."
+        },
+        {
+        "question": "What is the requirement regarding the location of fire access openings as mentioned in section 4.2.3b?",
+        "answer": "According to section 4.2.3b, fire access openings shall be placed against an occupied space. They should not be placed in areas such as plant/store rooms, common corridors, exit staircases, smoke-free approach to exit staircases, or spaces that lead only to a dead end.(section 4.2.3b)"
+        },
+        {
+        "question": "What is the requirement regarding the signage for fire access openings in section 4.2.3c?",
+        "answer": "According to section 4.2.3c, panels to fire access openings shall be indicated with either a red or orange triangle of equal sides (minimum 150mm on each side), which can be upright or inverted, on the external side of the wall and with the wordings 'Firefighting Access - Do Not Obstruct' of at least 25mm height on the internal side.(section 4.2.3c)"
+        }
+        ,
+        {
+        "question": "What is the minimum size requirement for fire access openings in section 4.2.3d?",
+        "answer": "According to section 4.2.3d, fire access openings shall be not less than 850mm wide by 1m high with a sill height of not more than 1.1m, and head height not less than 1.8m above the inside floor level.(section 4.2.3d)"
+        },
+        {
+        "question": "What are the size requirements for fire access openings according to section 4.2.3d?",
+        "answer": "According to section 4.2.3d, fire access openings shall be not less than 850mm wide by 1m high with a sill height of not more than 1.1m, and head height not less than 1.8m above the inside floor level."
+        },
+        
+        {
+        "question": "How is the number of fire access openings determined for buildings under PG III to VIII in section 4.2.3e(1)?",
+        "answer": "In section 4.2.3e(1), the number of fire access openings for buildings under PG III to VIII is based on the length of the fire engine accessway. Every 20m of fire engine accessway or part thereof shall be provided with an access panel."
+        }
+        ,
+        {
+        "question": "What is the maximum spacing allowed between fire access openings as per section 4.2.3e(2)?",
+        "answer": "According to section 4.2.3e(2), fire access openings shall be spaced at most 20m apart measured along the external wall from centre to centre of the fire access openings."
+        }
+        ,
+        {
+        "question": "When are fire access openings required at every storey level for buildings under PG III, IV, V, and VII according to section 4.2.3e(3)(a)?",
+        "answer": "In section 4.2.3e(3)(a), fire access openings are required at every storey level, other than the 1st storey, for buildings under PG III, IV, V, and VII that exceed the habitable height of 10m, and up to 90m. These openings shall face the fire engine accessway directly."
+        }
+        ,
+        {
+        "question": "Where should fire engine access openings be provided for buildings under PG VI and VIII as per section 4.2.3e(3)(b)?",
+        "answer": "In section 4.2.3e(3)(b), fire engine access openings located over a fire engine accessway shall be provided along the external walls, up to a habitable height of 90m."
+        }
+        ,
+        {
+        "question": "What are the requirements for additional high-level ventilation openings in buildings under PG III to VIII, as per section 4.2.3e(4)?",
+        "answer": "According to section 4.2.3e(4), for buildings under PG III to VIII where an area or space has a ceiling height greater than 10m, additional high-level ventilation openings for smoke venting and firefighting purposes shall be provided and located in the external walls opening into the area or space, except for an area or space that is provided with an engineered smoke control system and/or smoke purging system. The ventilation opening shall meet specific criteria regarding number, dimensions, and labeling."
+        },
+        
+        {
+        "question": "What is the labeling requirement for the high-level ventilation openings mentioned in section 4.2.3e(4)?",
+        "answer": "In section 4.2.3e(4), the high-level ventilation openings should be labeled with red wording, 'DO NOT ENTER – FOR SMOKE VENTING ONLY,' of height not less than 50mm and visible from the building exterior."
+        },
+        
+        {
+        "question": "What is the minimum clearance area required around fire access openings according to section 4.2.3a?",
+        "answer": "As per section 4.2.3a, there shall be a minimum clearance area of 3.5m in width and 2.5m in height around the fire access opening, with a minimum clearance distance of 1.1m measured below the lower edge of the fire access opening and 400mm measured above the upper edge of the fire access opening."
+        }
+        ,{
+        "question": "What are the exemptions for the provision of fire access openings in section 4.2.3f?",
+        "answer": "Section 4.2.3f provides exemptions for the provision of fire access openings. These exemptions apply to buildings under PG I and II, including buildings of non-residential ancillary usage within residential occupancy, and aboveground multi-storey car parks where parapet walls are provided to comply with ventilation requirements."
+        },{
+        "question": "What is section 4.2?",
+        "answer": "Section (Section 4.2) is about the provisions and requirements for external access to buildings for firefighting purposes and ensuring the accessibility of sites to firefighting appliances. It covers various aspects, including the design and specifications of fire engine accessways, fire engine access roads, fire access openings, their sizes, locations, markings, and exemptions."
+        }
+        ,{
+        "question": "What is the requirement for buildings fitted with rising mains and automatic sprinkler systems regarding fire engine accessways or fire engine access roads?",
+        "answer": "Buildings fitted with rising mains and automatic sprinkler systems must have a fire engine accessway or fire engine access road located within 18 meters of the breeching inlets. These breeching inlets should also be visible from the fire engine accessways or fire engine access road.(Clause 4.3)"
+        }
+        ,{
+        "question": "What is section 4.3?",
+        "answer": "Buildings fitted with rising mains and automatic sprinkler systems must have a fire engine accessway or fire engine access road located within 18 meters of the breeching inlets. These breeching inlets should also be visible from the fire engine accessways or fire engine access road.(Clause 4.3)"
+        },
+        {
+        "question": "What is section 4.4.1?",
+        "answer": "Section 4.4.1 is about the provision and requirements for private fire hydrants in relation to fire engine accessways and fire engine access roads (section 4.4.1)."
+        },
+        
+        {
+        "question": "What is the general requirement for the distance between a fire engine accessway or road and a fire hydrant?",
+        "answer": "Every part of a fire engine accessway and/or fire engine access road must be within an unobstructed distance of 50 meters from a fire hydrant (section 4.4.1a)."
+        },
+        
+        {
+        "question": "What should be done if a public fire hydrant meeting the 50-meter requirement is not available?",
+        "answer": "If a public fire hydrant meeting the requirement is not available, private fire hydrants shall be provided (section 4.4.1a)."
+        }
+        ,
+        {
+        "question": "Are there restrictions on using existing public fire hydrants across a public road?",
+        "answer": "Existing public fire hydrants along one side of a public road should not be designated to serve developments sited on the other side of the public road, except for a road having at most two lanes, regardless of traffic direction (section 4.4.1b)."
+        }
+        ,
+        {
+        "question": "How should multiple private fire hydrants be located along a fire engine accessway or road?",
+        "answer": "When multiple private fire hydrants are required, they should be located along the fire engine accessway/fire engine access road so that every part of it is within an unobstructed distance of 50 meters from any fire hydrant (section 4.4.1c)."
+        }
+        ,
+        {
+        "question": "What standards should be followed for the siting and types of fire hydrants?",
+        "answer": "The siting and types of fire hydrants should comply with the requirements stated in SS 575 (section 4.4.1d)."
+        }
+        ,
+        {
+        "question": "What type of fire hydrant pipe is required for buildings with an island site fire engine accessway?",
+        "answer": "For buildings that require an island site fire engine accessway, the fire hydrant pipe shall be a ring system (section 4.4.1e)."
+        },
+        
+        {
+        "question": "Is there a requirement for a locking device for fire hydrant valves?",
+        "answer": "Yes, a locking device shall be provided to lock the valves in the open position during normal operation. Underground valves shall be kept in an open position at all times (section 4.4.1f)."
+        },
+        {
+        "question": "What is section 4.4.2",
+        "answer": "Section 4.4.2 is about the requirements for providing water supply to private fire hydrant systems when required by the Code, specifically focusing on private fire hydrants at or below reduced level 125m (section 4.4.2a)."
+        }
+        ,
+        {
+        "question": "Under what conditions can private fire hydrants installed at or below reduced level 125m receive a direct supply from public water mains?",
+        "answer": "Private fire hydrants installed at reduced level 125m and below can receive a direct supply from public water mains if the flow and pressure from the public water mains meet the fire hydrant requirements as shown in Table 4.4A or if certain conditions are met (section 4.4.2a(1))."
+        }
+        ,
+        {
+        "question": "What are the conditions for private fire hydrants to receive a direct supply from public water mains?",
+        "answer": "To receive a direct supply from public water mains, private fire hydrants must meet the AFA (Accessible Floor Area) limits for different building types, have a fire hydrant pipe and bulk water meter with a nominal bore not less than 150mm in diameter, and comply with specific running pressure and flow rate requirements (section 4.4.2a(1))."
+        }
+        ,
+        {
+        "question": "What is the AFA limit for the largest compartment of private fire hydrants in PG III, IV, V & VII buildings?",
+        "answer": "The AFA of the largest compartment of private fire hydrants in PG III, IV, V & VII buildings must not exceed 1000m2 (section 4.4.2a(1)(a))."
+        },
+        
+        {
+        "question": "What is the AFA limit for the largest compartment of private fire hydrants in PG VI & VIII buildings?",
+        "answer": "The AFA of the largest compartment of private fire hydrants in PG VI & VIII buildings must not exceed 500m2 (section 4.4.2a(1)(a))."
+        },
+        
+        {
+        "question": "What are the requirements for the nominal bore of the fire hydrant pipe and bulk water meter for private fire hydrants?",
+        "answer": "The nominal bore of the fire hydrant pipe and bulk water meter for private fire hydrants must not be less than 150mm in diameter (section 4.4.2a(1)(b))."
+        }
+        ,
+        {
+        "question": "What are the requirements for the running pressure and flow rate at the hydraulically most unfavourable fire hydrant of the private fire hydrant system?",
+        "answer": "The running pressure must be greater than or equal to 0.9 times the running pressure of the nearest public fire hydrant minus the pressure drop across the bulk water meter. The flow rate must be greater than or equal to 0.9 times the water flow of the nearest public fire hydrant or greater than or equal to the total flow demand as required in Table 4.4A, provided the running pressure at the most remote private fire hydrant is greater than 2 bars (section 4.4.2a(1)(c)(i) and (ii))."
+        },
+        
+        {
+        "question": "What should be done if the requirements for direct supply from public water mains cannot be met?",
+        "answer": "If the requirements for direct supply from public water mains cannot be met, a storage tank of sufficient capacity meeting the flow rate and duration specified in Table 4.4A with the requisite pumping facilities shall be provided (section 4.4.2a(2))."
+        },
+        {
+        "question": "What is section 4.4.2b?",
+        "answer": "Section 4.4.2 pertains to the water supply requirements for private fire hydrant systems, focusing on situations where private fire hydrants are located above reduced level 125m (section 4.4.2b)."
+        },
+        
+        {
+        "question": "Under what conditions can a private fire hydrant be in the form of a dry fire hydrant?",
+        "answer": "A private fire hydrant can be in the form of a dry fire hydrant if it is not the sole fire hydrant within 50m from any breeching inlet(s) feeding firefighting systems for the building(s) within the plot of land. These firefighting systems can include automatic fire sprinkler systems, dry riser systems, or wet riser systems (section 4.4.2b(2))."
+        },
+        
+        {
+        "question": "What are the requirements for a private dry fire hydrant?",
+        "answer": "A private dry fire hydrant must be connected to a 150mm diameter dry pipe, which is in turn connected to a four-way breeching inlet. The breeching inlet should be within 18m from any fire engine accessway/fire engine access road with a minimum width of 4m and within 50m from any wet fire hydrant, whether private or public. The private dry pillar should be painted in 'yellow' and labeled as 'dry' on the fire hydrant pillar. Additionally, a signage indicating the location of the breeching inlet should be positioned next to the dry private fire hydrant (section 4.4.2b(3)(a)-(d))."
+        }
+        ,
+        {
+        "question": "What are the requirements for water supply and storage when multiple private fire hydrants are located above reduced level 125m within the same plot?",
+        "answer": "When multiple private fire hydrants are located above reduced level 125m within the same plot, the water supply and storage arrangements must comply with the requirements for wet rising mains as stipulated in SS 575 and Table 4.4A, which specifies water supply and storage requirements for private fire hydrants (section 4.4.2c)."
+        }
+        ,
+        {
+        "question": "What is the purpose of the four-way breeching inlet mentioned in the requirements for private dry fire hydrants?",
+        "answer": "The four-way breeching inlet is used to connect the private dry fire hydrant to the firefighting system. It serves as a crucial point for the distribution of water to various firefighting systems and hydrants within the vicinity (section 4.4.2b(3)(a))."
+        }
+        ,
+        {
+        "question": "What color should the private dry pillar of a dry fire hydrant be painted, and what label should it have?",
+        "answer": "The private dry pillar of a dry fire hydrant should be painted in 'yellow' and labeled as 'dry' on the fire hydrant pillar (section 4.4.2b(3)(c))."
+        }
+        ,
+        {
+        "question": "Why is it important to indicate the location of the breeching inlet next to the dry private fire hydrant?",
+        "answer": "Indicating the location of the breeching inlet next to the dry private fire hydrant helps firefighting personnel quickly locate and access the necessary connections and equipment for firefighting operations, ensuring an efficient response in case of a fire emergency (section 4.4.2b(3)(d))."
+        }
+        ,
+        {
+        "question": "What are the types of firefighting systems mentioned that a dry fire hydrant can serve when not the sole hydrant within 50m?",
+        "answer": "A dry fire hydrant can serve firefighting systems such as automatic fire sprinkler systems, dry riser systems, or wet riser systems when it is not the sole hydrant within 50m from any breeching inlet(s) feeding these systems for the buildings within the plot of land (section 4.4.2b(2))."
+        }
+        ,{
+        "question": "What is section 4.4.3?",
+        "answer": "Section 4.4.3 addresses the protection of fire hydrant mains that pass through buildings. It outlines requirements for ensuring the fire resistance and protection of these mains within the building's structure (section 4.4.3)."
+        }
+        ,
+        {
+        "question": "Where should fire hydrant mains be located within a building to meet the specified requirements?",
+        "answer": "Fire hydrant mains should be located in common circulation areas, such as car parking spaces (except spaces used for mechanical car parking) and driveways, and they should not pass through private or confined spaces (section 4.4.3a)."
+        }
+        ,
+        {
+        "question": "What types of services are allowed to be located above or crossing over fire hydrant mains within a building?",
+        "answer": "Only sprinkler pipe(s) are allowed to be located above or crossing over the fire hydrant mains within a building (section 4.4.3b)."
+        }
+        ,
+        {
+        "question": "Under what conditions can services cross over fire hydrant mains within a building?",
+        "answer": "If services need to cross over the fire hydrant mains within a building, they should do so perpendicularly. The tensile stress of the supports for the services should not exceed 10N/mm2, and the services should be adequately protected by the building's sprinkler system (section 4.4.3b(1)-(3))."
+        }
+        ,
+        {
+        "question": "What is the requirement for the location of fire hydrant mains in relation to explosion risk areas?",
+        "answer": "Fire hydrant mains should be located away from explosion risk areas within a building (section 4.4.3c)."
+        }
+        ,
+        {
+        "question": "What labeling requirement applies to the protective enclosure of fire hydrant mains within a building?",
+        "answer": "The protective enclosure of the fire hydrant mains should be labeled with the words 'FIRE HYDRANT MAIN' of a minimum 50mm height at suitable intervals (section 4.4.3d)."
+        }
+        ,
+        {
+        "question": "What is the significance of ensuring fire resistance and protection of fire hydrant mains within a building?",
+        "answer": "Ensuring the fire resistance and protection of fire hydrant mains within a building is crucial to prevent damage or compromise of the mains during a fire emergency, ensuring that they remain functional for firefighting purposes (section 4.4.3)."
+        },
+        
+        {
+        "question": "Why is it important to limit the types of services allowed to cross over fire hydrant mains within a building?",
+        "answer": "Limiting the types of services to only sprinkler pipe(s) helps prevent potential damage or interference with the fire hydrant mains, ensuring their reliability and effectiveness during firefighting operations (section 4.4.3b)."
+        },
+        
+        {
+        "question": "What is section 4.4",
+        "answer": "This clause, Section 4.4 in its entirety, is about regulations and requirements related to fire hydrants, their provision, water supply, protection within buildings, and various associated guidelines and standards."
+        },
+        {
+        "question": "What is section 5.1",
+        "answer": "This clause, Clause 5.1, pertains to the installation, control, and distribution of electrical wiring and equipment in buildings, and it specifies that these activities should adhere to the standards outlined in SS 638 and SS 551."
+        },{
+            "question": "What is section 5.2.1 ?",
+            "answer": "Clause 5.2.1 pertains to installations requiring primary and secondary power supplies. It specifies the standards and requirements for various electrical installations in buildings as mandated by this code or other regulations. (Section 5.2.1)"
+          },
+          {
+            "question": "What does point (a) address in Clause 5.2.1?",
+            "answer": "Point (a) in Clause 5.2.1 deals with electrical lifts. It requires compliance with SS 550 for electrical passenger or goods lifts, including their electrical installations and secondary power supplies. If a fire lift is required, it must also adhere to SS 550. (Section 5.2.1)"
+          },
+          {
+            "question": "What does point (b) in Clause 5.2.1 focus on?",
+            "answer": "Point (b) in Clause 5.2.1 concerns electrical fire alarm systems. When an electrical fire alarm system is necessary, it mandates compliance with SS 645 for the primary power supply and the type and capacity of the battery. (Section 5.2.1)"
+          },
+          {
+            "question": "What is the significance of point (c) in Clause 5.2.1?",
+            "answer": "Point (c) in Clause 5.2.1 addresses exit and emergency lighting systems. It requires that when exit or emergency lighting systems are required, their electrical wiring, type, and capacity of battery or secondary power supply must conform to SS 563. (Section 5.2.1)"
+          },
+          {
+            "question": "What does point (d) in Clause 5.2.1 cover?",
+            "answer": "Point (d) in Clause 5.2.1 deals with emergency voice communication systems. When an emergency voice communication system is needed, it mandates that the electrical wiring should be fire-rated or otherwise fire-protected in accordance with SS 546. Additionally, the appropriate type and capacity of the secondary power supply must be provided. (Section 5.2.1)"
+          },
+          {
+            "question": "What is the requirement outlined in point (e) of Clause 5.2.1?",
+            "answer": "Point (e) in Clause 5.2.1 focuses on wet rising main systems. It specifies that when a wet rising main system is required, the relevant electrical supply should be installed in accordance with SS 575. Furthermore, a secondary source of power supply, meeting the capacity stipulated in SS 575, must be provided for the wet rising main pumps. (Section 5.2.1)"
+          },
+          {
+            "question": "What does point (f) in Clause 5.2.1 address?",
+            "answer": "Point (f) in Clause 5.2.1 discusses the installation of electrical supply for sprinkler systems. It mandates compliance with SS CP 52 for the installation. Additionally, the capacity of the secondary power supply, when required, must meet the operational requirements under the respective hazard category. (Section 5.2.1)"
+          },
+        {
+        "question": "Why are primary and secondary power supplies important for these installations?",
+        "answer": "Primary and secondary power supplies are important for these installations to ensure their continued operation in the event of power failures or emergencies. The secondary power supply serves as a backup, ensuring that critical systems like lifts, fire alarms, emergency lighting, and communication systems remain functional when the primary power source is compromised (section 5.2.1)."
+        },
+        {
+        "question": "What are the specific installations mentioned in this section?",
+        "answer": "The specific installations mentioned in this section include electrical lifts, electrical fire alarm systems, exit lights and emergency lighting systems, emergency voice communication systems, wet rising main systems, and fire sprinkler systems (section 5.2.1)."
+        },
+        {
+        "question": "How should electrical lifts comply with the code?",
+        "answer": "Electrical lifts must comply with SS 550 for their electrical installations, including batteries and other forms of secondary power supply. If a fire lift is required, the installation of primary and secondary power supplies must also adhere to SS 550 (section 5.2.1)."
+        },
+        {
+        "question": "What is the requirement for electrical fire alarm systems in terms of power supply?",
+        "answer": "For electrical fire alarm systems, both the primary power supply and the type and capacity of batteries must comply with SS 645 (section 5.2.1)."
+        },
+        {
+        "question": "What are the requirements for exit lights and emergency lighting systems?",
+        "answer": "Exit lights and emergency lighting systems must comply with SS 563. This includes compliance with electrical wiring and the type and capacity of batteries or other secondary power supplies (section 5.2.1)."
+        },
+        {
+        "question": "How should the electrical wiring for an emergency voice communication system be installed?",
+        "answer": "For an emergency voice communication system, the electrical wiring must be fire-rated or otherwise fire-protected in accordance with SS 546. Additionally, the appropriate type and capacity of secondary power supply must be provided (section 5.2.1)."
+        },
+        {
+        "question": "What is the requirement for the wet rising main system's electrical supply?",
+        "answer": "The electrical supply for a wet rising main system should be installed in accordance with SS 575. Furthermore, a secondary source of power supply with the capacity stipulated in SS 575 must be provided for the wet rising main pumps (section 5.2.1)."
+        },
+        {
+        "question": "How should the electrical supply for fire sprinkler systems be installed?",
+        "answer": "The installation of electrical supply for fire sprinkler systems should comply with SS CP 52. If a secondary source of supply is required, its capacity must meet the operational requirements under the respective hazard category (section 5.2.1)."
+        },{
+        "question": "What installations are covered in the subsection regarding mechanical ventilation/pressurization systems?",
+        "answer": "The subsection regarding mechanical ventilation/pressurization systems covers installations related to mechanical ventilation systems and pressurization systems for various rooms, spaces, and areas, as well as smoke control/purging systems (section 5.2.1, subsection 'g')."
+        },
+        {
+        "question": "Which areas or spaces require a secondary source of power supply for mechanical ventilation systems?",
+        "answer": "The following areas or spaces require a secondary source of power supply for mechanical ventilation systems: exit staircases, exit passageways, smoke-free/fire lift lobbies, areas of refuge within the same building, basement car parks, fire command centers, emergency power generator rooms, engine-driven fire pump rooms, rooms involving the use and/or storage of flammable liquids/gases and explosive substances, and any other areas where such systems are installed for fire precautionary measures (section 5.2.1, subsection 'g(1)')."
+        },
+        {
+        "question": "Which areas or spaces require a secondary source of power supply for pressurization systems?",
+        "answer": "The following areas require a secondary source of power supply for pressurization systems: smoke-free/fire lift lobbies, internal exit staircases, hotel corridors, hostel corridors, healthcare corridors, and any other areas where such systems are installed (section 5.2.1, subsection 'g(2)')."
+        },
+        {
+        "question": "What is the requirement for smoke control/purging systems?",
+        "answer": "All smoke control/purging systems, including associated equipment forming part of the systems, require a secondary source of power supply (section 5.2.1, subsection 'g(3)')."
+        },
+        {
+        "question": "Why is a secondary source of power supply required for the mechanical ventilation system in the context of air supply for generators and fire pumps?",
+        "answer": "A secondary source of power supply is required for the mechanical ventilation system that provides air for the operation of emergency generators and engine-driven fire pumps to ensure that these critical systems continue to function in the event of a power failure (section 5.2.1, subsection 'h')."
+        },
+        {
+            "question": "What is section 5.2.1",
+            "answer": "The whole section 5.2.1 is about installations that require primary and secondary power supplies to ensure their reliable operation, especially in the context of fire safety and emergency situations. It outlines specific types of installations and systems that must have backup power sources in compliance with the corresponding Codes of Practice. These installations include electrical lifts, electrical fire alarm systems, exit lights and emergency lighting systems, emergency voice communication systems, wet rising main systems, fire sprinkler systems, mechanical ventilation/pressurization systems, and air supply systems for generators and fire pumps. The section details the requirements for each of these installations to guarantee their functionality during power failures or emergencies."
+            },
+        {
+        "question": "What is section 5.2",
+        "answer": "The whole section 5.2 is about installations that require primary and secondary power supplies to ensure their reliable operation, especially in the context of fire safety and emergency situations. It outlines specific types of installations and systems that must have backup power sources in compliance with the corresponding Codes of Practice. These installations include electrical lifts, electrical fire alarm systems, exit lights and emergency lighting systems, emergency voice communication systems, wet rising main systems, fire sprinkler systems, mechanical ventilation/pressurization systems, and air supply systems for generators and fire pumps. The section details the requirements for each of these installations to guarantee their functionality during power failures or emergencies."
+        },{
+        "question": "What is section 5.2.2?",
+        "answer": "Section 5.2.2 pertains to the installation of power supply cables for equipment that are required to operate during a fire emergency."
+        },
+        {
+        "question": "What is the requirement for power supply cables in the context of fire emergencies?",
+        "answer": "Power supply cables for equipment that need to operate during a fire emergency must be of the fire-resistant type."
+        },
+        {
+        "question": "What standard or specification should fire-resistant cables comply with?",
+        "answer": "Fire-resistant cables must comply with SS 299."
+        },{
+        "question": "What is section 5.2.3?",
+        "answer": "Section 5.2.3 deals with electric motors and their control equipment, as well as associated wiring and accessories, specifying requirements for their installation and operation in various applications and environments."
+        },
+        {
+        "question": "What are the key requirements for High Rupturing Capacity Fuses (HRC) or Moulded Case Circuit Breakers (MCCB) in motor installations?",
+        "answer": "In motor installations, HRC fuses or MCCBs with magnetic release must be installed. These protective devices should be capable of safeguarding the cable connections to the motor and carrying the stalled current of the motor for a period not less than 75% of the time it would take for such a current to cause the motor windings to fail."
+        },
+        {
+        "question": "What type of no-volt release mechanism is required, and why?",
+        "answer": "The no-volt release mechanism must be of the automatic resetting type. This ensures that when the power supply is restored, the motor can start automatically, which is crucial for maintaining the operation of the motor-driven equipment."
+        },
+        {
+        "question": "What is the rule regarding thermal overload trips in this section?",
+        "answer": "Thermal overload trips are not permitted for use in electric motor installations as specified in this section."
+        },
+        {
+        "question": "Under what circumstances are magnetic (short circuit) trips allowed in motor circuits?",
+        "answer": "Magnetic (short circuit) trips are permitted for use in motor circuits of mechanical ventilation systems that serve essential services."
+        },{
+        "question": "What is section 5.2.4?",
+        "answer": "Section 5.2.4 pertains to the requirements for emergency generators when they are provided as a secondary source of power supply."
+        }
+        ,
+        {
+        "question": "What standard or specification should emergency generators comply with?",
+        "answer": "Emergency generators provided as a secondary source of supply must comply with SS 535."
+        }
+        ,
+        {
+        "question": "What are the specific requirements for outdoor emergency generators?",
+        "answer": "For outdoor emergency generators, the following requirements must be complied with:\n(1) The day tank incorporated within the body of the emergency generator must be constructed of steel and have double skin construction to contain any diesel leakage from the day tank.\n(2) Alternatively, an internal bund wall must be built within the outdoor emergency generator's day tank, and it should be large enough to contain 100% of the diesel content within the day tank.\n(3) The maximum quantity of diesel permitted in the day tank is 1000 litres."
+        }
+        ,
+        {
+        "question": "When was the effective date of these requirements, and was there any update?",
+        "answer": "The effective date for these requirements was 01 Mar 2019, and there was an update on 25 Aug 2023."
+        },
+        {
+        "question": "What is section 6.1.1 ?",
+        "answer": "Section 6.1.1 is about the requirements related to portable fire extinguishers, including their construction and maintenance."
+        },
+        {
+        "question": "What construction standards must portable fire extinguishers adhere to?",
+        "answer": "Portable fire extinguishers, where required, must be constructed in accordance with SS EN 3 (section 6.1.1, subsection 'a')."
+        },
+        {
+        "question": "What are the requirements for charging, testing, and maintenance of portable fire extinguishers?",
+        "answer": "All portable fire extinguishers, where required to be provided, must be charged, tested, maintained, and properly tagged in accordance with SS 578 (section 6.1.1, subsection 'b')."
+        },
+        {
+        "question": "Is there any specific standard mentioned for the construction of portable fire extinguishers?",
+        "answer": "Yes, the construction of portable fire extinguishers should adhere to SS EN 3 as specified in subsection 'a' of section 6.1.1."
+        },
+        {
+        "question": "What is section 6.1.2?",
+        "answer": "Section 6.1.2 is about the provision of fire extinguishers in buildings and specifies where fire extinguishers must be provided and where they are exempted."
+        },
+        {
+        "question": "In which types of buildings are fire extinguishers not required according to subsection 'a' of this section?",
+        "answer": "According to subsection 'a' of this section, fire extinguishers are not required in the following types of buildings:\n(1) PG I buildings\n(2) Residential floors of PG II buildings\n(3) Car parking areas in standalone car parks or mixed-use residential buildings\n(4) Roof level of single-storey buildings with a roof height not more than 12m or inaccessible pitched roof up to 24m from grade level used solely for roof-mounted PV installations\n(5) Roof level of an external/open-sided overhead bridge/shed/linkway/walkway with clear width less than 6m, roof height not more than 12m, and used solely for roof-mounted PV installations."
+        },
+        {
+        "question": "What specific condition allows the exemption of fire extinguishers on certain roof levels according to subsection 'a' of this section?",
+        "answer": "Fire extinguishers may be exempted on certain roof levels if the roof is used solely for roof-mounted PV installations in accordance with Cl.10.2.1b.(1) and meets the specified height and width criteria."
+        },
+        {
+        "question": "What is the effective date of the requirements in this section?",
+        "answer": "The effective date of the requirements in this section is 01 Mar 2019."
+        },
+        {
+        "question": "In non-habitable floor areas, what specific requirement exists for the provision of fire extinguishers according to subsection 'b' of this section?",
+        "answer": "In non-habitable floor areas, fire extinguishers shall be provided to cover the M&E plants/equipment as specified in subsection 'b' of this section."
+        },
+        {
+        "question": "What is section 6.1.3?",
+        "answer": "Section 6.1.3 is about the classification, size, quantity, and siting of portable fire extinguishers, specifying that these factors should comply with the requirements outlined in SS 578 under the respective class of occupancy hazard."
+        },
+        {
+        "question": "How should the classification of portable fire extinguishers be determined?",
+        "answer": "The classification of portable fire extinguishers should be selected in accordance with SS 578, taking into consideration the nature of processes and contents within the building to effectively protect against fire hazards."
+        },
+        {
+        "question": "What aspects of portable fire extinguishers are covered in subsection '6.1.4 Installation and marking'?",
+        "answer": "Subsection '6.1.4 Installation and marking' covers the installation and conspicuous marking of portable fire extinguishers in accordance with the requirements specified in SS 578."
+        },
+        {
+        "question": "What is the effective date of the requirements in subsection '6.1.4 Installation and marking'?",
+        "answer": "The requirements in subsection '6.1.4 Installation and marking' were updated on 25 Aug 2022."
+        },
+        {
+        "question": "What should be considered when selecting the classification of portable fire extinguishers according to section 6.1.3?",
+        "answer": "When selecting the classification of portable fire extinguishers, consideration should be given to the nature of processes and contents within the building to ensure effective protection."
+        },
+        {
+        "question": "What standards or guidelines should be followed for determining the size, quantity, and siting of portable fire extinguishers?",
+        "answer": "For determining the size, quantity, and siting of portable fire extinguishers, the requirements in SS 578 under the respective class of occupancy hazard should be followed."
+        },
+        {
+        "question": "What is the primary purpose of marking portable fire extinguishers conspicuously?",
+        "answer": "The primary purpose of conspicuously marking portable fire extinguishers is to ensure they are easily identifiable and accessible in case of fire emergencies, enhancing safety and rapid response."
+        },
+        {
+        "question": "What was the latest update to the requirements in subsection '6.1.4 Installation and marking'?",
+        "answer": "The latest update to the requirements in subsection '6.1.4 Installation and marking' occurred on 25 Aug 2022."
+        },
+        {
+        "question": "What is section 6.1?",
+        "answer": "Clause 6.1, titled PORTABLE EXTINGUISHERS, encompasses requirements and guidelines related to portable fire extinguishers within buildings. It addresses various aspects of portable fire extinguishers, including their construction, provision, type, size, siting, installation, maintenance, and marking. "
+        },
+    {
+        "question": "What is section 6.2.1?",
+        "answer": "Section 6.2.1 provides guidelines regarding the type of rising mains systems that should be installed in buildings based on their habitable height. It specifies the appropriate type of rising mains for different building categories and conditions."
+        },
+        {
+        "question": "What are the types of rising main systems mentioned in section 6.2.1 subsection 'a'?",
+        "answer": "Subsection 'a' mentions two types of rising main systems: dry rising mains and wet rising mains."
+        },
+        {
+        "question": "In which types of buildings should dry rising mains be installed according to in section 6.2.1 subsection 'a'?",
+        "answer": "According to subsection 'a', dry rising mains should be installed in PG II to VIII buildings with a habitable height more than 10m but not more than 60m."
+        },
+        {
+        "question": "In which types of buildings should wet rising mains be installed according to in section 6.2.1 subsection 'a'?",
+        "answer": "According to subsection 'a', wet rising mains should be installed in buildings with a habitable height exceeding 60m."
+        },
+        {
+        "question": "Are separate dry and wet rising main systems permitted in a building, and under what conditions?",
+        "answer": "Yes, subsection 'a' permits the installation of separate dry and wet rising main systems in a building."
+        },
+        {
+        "question": "Under what circumstances should dry rising mains conforming to SS 575 be provided?",
+        "answer": "Subsection 'b' specifies that dry rising mains conforming to SS 575 should be provided to supply any part of a single or multiple level basement, irrespective of the building's habitable height."
+        },
+        {
+        "question": "How should the height measurements for determining the appropriate rising main system be taken if the building has access from more than one ground level or road level?",
+        "answer": "If the building has access from more than one ground level or road level, the height measurements for determining the appropriate rising main system should be taken from the level of the fire engine accessway. In the absence of a fire engine accessway, the height measurements should be based on the fire engine access road."
+        },
+        {
+        "question": "What is section 6.2.2?",
+        "answer": "Section 6.2.2 provides requirements and guidelines regarding the number, location, size, and installation of rising mains, as well as the locations of landing valves and provisions for landing valves and standby fire hoses."
+        }
+        ,
+        {
+        "question": "What standards or requirements should be followed for the number, distribution, size, and installation of rising mains?",
+        "answer": "For the number, distribution, size, and installation of rising mains, compliance with the requirements stipulated in SS 575 is necessary."
+        }
+        ,
+        {
+        "question": "What are the specified locations where rising mains and associated landing valves should be located?",
+        "answer": "Rising mains and the associated landing valves should be located either within a fire lift lobby, smoke-free lobby, or external corridor immediately outside the door of the exit staircase, or inside an exit staircase, or in the common area and within a protected shaft immediately outside the door of the exit staircase. If there are provisions of fire lift lobby and smoke-free lobby within the building, the position of rising mains and landing valves should first be located inside the fire lift lobby."
+        }
+        ,
+        {
+        "question": "Under what conditions should an additional landing valve be provided on the 1st storey of a building?",
+        "answer": "An additional landing valve on the 1st storey of a building should be provided if any part of the 1st storey of a building, except for PG II buildings, is more than 38m (30m hose line length and a jet throw of 8m) from the breeching inlet."
+        }
+        ,
+        {
+        "question": "In what situations should an additional standby fire hose be provided at the landing valve nearest to a floor space?",
+        "answer": "An additional standby fire hose should be provided at the landing valve nearest to a floor space if all the exit staircases in a building under PG III to VIII are installed with rising mains and standby fire hoses, yet part of a floor space is beyond the 38m (30m hose line length and a jet throw of 8m) coverage of any landing valve."
+        }
+        ,
+        {
+        "question": "What is the purpose of keeping rising mains and landing valves free of physical and visual obstruction?",
+        "answer": "Keeping rising mains and landing valves free of physical and visual obstruction ensures easy accessibility and usability in case of fire emergencies, enabling quick response and firefighting."
+        }
+        ,
+        {
+        "question": "What is the primary reference standard for determining the requirements related to the number, distribution, size, and installation of rising mains?",
+        "answer": "The primary reference standard for determining the requirements related to the number, distribution, size, and installation of rising mains is SS 575."
+        }
+        ,
+        {
+        "question": "What specific criteria are used to determine the need for an additional landing valve on the 1st storey?",
+        "answer": "The need for an additional landing valve on the 1st storey is determined by the distance between the 1st storey and the breeching inlet, with a threshold of more than 38m (30m hose line length and a jet throw of 8m)."
+        }
+        ,
+        {
+        "question": "What building types are exempt from the requirement for an additional landing valve on the 1st storey?",
+        "answer": "The requirement for an additional landing valve on the 1st storey does not apply to PG II buildings."
+        }
+        ,
+        {
+        "question": "In which situations is an additional standby fire hose provided for a floor space?",
+        "answer": "An additional standby fire hose is provided for a floor space when part of the floor space is beyond the 38m (30m hose line length and a jet throw of 8m) coverage of any landing valve, and all exit staircases in the building under PG III to VIII have rising mains and standby fire hoses."
+        }
+        ,
+        {
+        "question": "What is the purpose of providing additional standby fire hoses in certain situations?",
+        "answer": "The provision of additional standby fire hoses ensures adequate firefighting coverage for floor spaces that are beyond the specified distance from a landing valve, enhancing fire safety."
+        },{
+        "question": "What is section 6.2.3?",
+        "answer": "Section 6.2.3 addresses the requirements related to breeching inlets and the fire engine accessway/fire engine access road in buildings fitted with rising mains. It specifies the proximity of the fire engine accessway/fire engine access road to the breeching inlet and the compliance with standards outlined in SS 575."
+        },
+        {
+        "question": "What is the required distance between the fire engine accessway/fire engine access road and the breeching inlet in buildings fitted with rising mains?",
+        "answer": "In buildings fitted with rising mains, there should be a fire engine accessway/fire engine access road for firefighting appliances within 18 meters of the breeching inlet."
+        },
+        {
+        "question": "What additional requirement exists regarding the visibility of breeching inlets from the fire engine accessway/fire engine access road?",
+        "answer": "The breeching inlets for the rising main system should be visible from the fire engine accessway/fire engine access road."
+        },
+        {
+        "question": "What reference standard should be followed for the requirements and provisions related to breeching inlets for the rising main system?",
+        "answer": "The requirements and provisions for breeching inlets for the rising main system should be in accordance with SS 575."
+        },
+        {
+        "question": "Is there any guidance provided regarding the length of connecting pipes between the breeching inlets and the vertical run of the rising mains?",
+        "answer": "Yes, it is specified that connecting pipes between the breeching inlets and the vertical run of the rising mains, where applicable, should be kept as short as possible."
+        },
+        {
+        "question": "Why is it important for the breeching inlets to be visible from the fire engine accessway/fire engine access road?",
+        "answer": "Ensuring that the breeching inlets are visible from the fire engine accessway/fire engine access road facilitates quick identification and access for firefighting personnel and appliances during emergency response."
+        },
+        {
+        "question": "What is the purpose of the fire engine accessway/fire engine access road within 18 meters of the breeching inlet?",
+        "answer": "The fire engine accessway/fire engine access road within 18 meters of the breeching inlet is essential for providing a suitable and accessible location for firefighting appliances to connect to the rising mains and effectively combat fires in the building."
+        },
+        {
+        "question": "What is the primary objective of keeping connecting pipes between the breeching inlets and the vertical run of the rising mains as short as possible?",
+        "answer": "The primary objective of keeping connecting pipes short is to minimize pressure losses and ensure efficient water supply to the rising mains, enhancing the firefighting capabilities of the system."
+        },
+        {
+        "question": "What is section 6.2.4?",
+        "answer": "Section 6.2.4 focuses on the requirements and standards related to wet rising mains systems. It covers aspects such as water supply capacity, flow requirements, running pressure, static pressure, storage tanks, and the installation of fire pumps for wet rising mains."
+        },
+        {
+        "question": "What standards or requirements should be followed for the capacity of the water supply from the public mains and the storage capacity of a wet rising main system?",
+        "answer": "The capacity of the water supply from the public mains and the storage capacity of a wet rising main system should comply with the requirements outlined in SS 575."
+        },
+        {
+        "question": "Are there specific flow requirements that must be met for a wet rising main system?",
+        "answer": "Yes, the flow requirements for a wet rising main system must comply with those stipulated in SS 575."
+        },
+        {
+        "question": "What is the acceptable range for the running pressure at each discharging landing valve on a wet rising main system?",
+        "answer": "The running pressure at each discharging landing valve on a wet rising main system should be maintained between the minimum and maximum values as specified in SS 575."
+        },
+        {
+        "question": "Is there a specified limit for the static pressure in any line of hose connected to a landing valve in a wet rising main system?",
+        "answer": "Yes, the static pressure in any line of hose connected to a landing valve in a wet rising main system should not exceed the specified value as outlined in SS 575."
+        },
+        {
+        "question": "What are the requirements concerning the location and capacity of storage tanks for wet rising mains, where required?",
+        "answer": "The location of storage tanks and the capacity of break tanks, where required, should comply with the requirements specified in SS 575."
+        },
+        {
+        "question": "What are the installation requirements for fire pumps associated with wet rising main systems?",
+        "answer": "The installation of fire pumps for wet rising main systems should comply with the requirements of SS 575. Wet riser pumps should be installed within a fire-compartmented fire pump room, and the fire pump room's fire rating should adhere to Table 6.4A. Additionally, the fire pump room floor level should not be lower than the main floor level."
+        },
+        {
+        "question": "Why is it important to maintain the running pressure within the specified range for discharging landing valves on a wet rising main system?",
+        "answer": "Maintaining the running pressure within the specified range ensures that the wet rising main system can deliver water effectively and efficiently to firefighting personnel and appliances when needed, optimizing its firefighting capabilities."
+        },
+        {
+        "question": "What is the significance of not exceeding the specified static pressure in hose lines connected to landing valves in a wet rising main system?",
+        "answer": "Not exceeding the specified static pressure in hose lines helps prevent damage to the hose and ensures that it can be safely and effectively used during firefighting operations without risking bursting or failure."
+        },
+        {
+        "question": "Why are specific requirements provided for the location and capacity of storage tanks for wet rising mains?",
+        "answer": "The requirements for storage tank location and capacity ensure that an adequate and readily available water supply is maintained for the wet rising main system, enhancing its ability to combat fires effectively."
+        },
+        {
+        "question": "What is the rationale behind installing wet riser pumps within a fire-compartmented fire pump room, and why should the fire pump room floor level not be lower than the main floor level?",
+        "answer": "Installing wet riser pumps within a fire-compartmented fire pump room enhances fire safety by providing protection to the pumps. Additionally, the requirement for the fire pump room floor level not to be lower than the main floor level helps prevent flooding of the pump room, ensuring the pumps' operational reliability during a fire emergency."
+        },
+        {
+        "question": "What is section 6.2.5?",
+        "answer": "Section 6.2.5 pertains to the requirements for standby fire hoses for rising mains. It specifies the type, size, folding method, positioning, mounting, and general guidelines for the installation of standby fire hoses, which are required for every rising main except those in buildings under PG II."
+        },
+        {
+        "question": "What is the required nominal internal diameter for the standby fire hose, and why is this diameter important?",
+        "answer": "The standby fire hose should have a nominal internal diameter of 63.5mm to ensure compatibility with existing coupling tail pieces. This diameter is important for proper hose coupling and functionality (section 6.2.5a.(1))."
+        },
+        {
+        "question": "What is the specified type of fire hose as per BS 6391, and why is it important?",
+        "answer": "The specified type of fire hose as per BS 6391 is Type 3. It is important because it ensures that the fire hose meets the technical requirements and quality acceptance standards necessary for firefighting purposes (section 6.2.5a.(1))."
+        },
+        {
+        "question": "What are the requirements for the fire hose couplings, including material, size, and release mechanism?",
+        "answer": "The fire hose couplings should be manufactured to BS specifications or equivalent, made of light alloy or gunmetal, have a diameter of 63.5mm, and feature an instantaneous type with a standard (double-pull) release mechanism. They should also be able to withstand a minimum working pressure of 15 bars (section 6.2.5a.(2))."
+        },
+        {
+        "question": "What is the standard length of each fire hose, and how should they be stowed and housed?",
+        "answer": "Each fire hose should have a standard length of 30m and should be kept stowed in a Dutch Roll, housed in a glass-fronted cabinet (section 6.2.5a.(3))"
+        },
+        {
+        "question": "What is the required positioning of the fire hose in relation to the landing valve?",
+        "answer": "The fire hose should be installed just next to, but not more than 2m from the landing valve (section 6.2.5b.(1))"
+        },
+        {
+        "question": "What are the mounting requirements for the wall-mounted fire hose cabinet?",
+        "answer": "The wall-mounted fire hose cabinet should be firmly mounted on the wall, constructed of non-combustible material, maintenance-free, and equipped with a lock that can be operated manually from the inside without a key when the front tempered glass is broken. Additionally, the cabinet should have a swing door that does not obstruct the retrieval of the fire hose, and its depth should not exceed 250mm for one fire hose or 350mm for two fire hoses. (section 6.2.5c)"
+        },
+        {
+        "question": "Why is it necessary for the cabinet to be painted in a contrasting color, and what wording should be displayed on the front panel?",
+        "answer": "Painting the cabinet in a contrasting color ensures that it is conspicuous and easily identified. The wording 'FIRE HOSE' with a letter height of at least 50mm and in a contrasting color should be painted directly on the front panel. (section 6.2.5c)"
+        },
+        {
+        "question": "What is section 6.2.6?",
+        "answer": "Section 6.2.6 addresses the requirements for rising mains in buildings under construction. It stipulates that when a building is required to have rising mains, these rising mains must be installed progressively as the building reaches different heights during construction. It also emphasizes the proper installation of outlets, landing valves, inlets, water tanks, pumps, and hydrants to ensure their readiness for firefighting purposes (section 6.2.6)."
+        },
+        {
+        "question": "Why is it important to install rising mains progressively during the construction of a building?",
+        "answer": "Installing rising mains progressively during construction ensures that firefighting equipment and systems are available and functional at different stages of building development. This enhances fire safety measures during the construction process, reducing the risk of fire-related incidents (section 6.2.6)."
+        },
+        {
+        "question": "What specific components of the rising mains need to be properly installed during construction?",
+        "answer": "During construction, all outlets, landing valves, inlets, water tanks, pumps, and hydrants associated with the rising mains must be properly installed to ensure their operational readiness for firefighting in case of a fire emergency (section 6.2.6)."
+        },
+        {
+        "question": "effective date of section 6.2.6?",
+        "answer": "The effective date of section 6.2.6 is 1 Sep 2021."
+        },
+        {
+        "question": "What is the primary objective of requiring rising mains during the construction of a building?",
+        "answer": "The primary objective of requiring rising mains during construction is to enhance fire safety measures at different stages of building development and to ensure that firefighting equipment and systems are readily available and operational in case of a fire emergency (section 6.2.6)."
+        },
+        {
+        "question": "What types of buildings are subject to the requirements of this section?",
+        "answer": "Buildings that are required to be equipped with rising mains in accordance with Cl.6.2.1 are subject to the requirements of this section. The specific types and conditions of buildings are likely outlined in Cl.6.2.1 (section 6.2.6)."
+        },
+        {
+        "question": "Why is it important to have readily operational firefighting equipment during the construction of a building?",
+        "answer": "Having readily operational firefighting equipment during construction is crucial because fires can occur during the construction phase, and quick response is essential to minimize damage and protect lives and property (section 6.2.6)."
+        },
+        {
+        "question": "What is the significance of the effective date mentioned in this section (1 Sep 2021)?",
+        "answer": "The effective date of 1 Sep 2021 indicates when this particular provision or requirement became applicable or effective, suggesting that it is part of a regulatory update or revision to the code (section 6.2.6)."
+        },
+        {
+        "question": "What is section 6.2.7?",
+        "answer": "Section 6.2.7 focuses on the requirements for foam inlets in situations where there are boiler rooms or storage rooms containing highly combustible materials, especially when these rooms are located in basements or are not easily accessible for firefighting. It outlines the provision of foam inlets and the installation of a two-way breeching inlet with specific pipe requirements (section 6.2.7)."
+        },
+        {
+        "question": "Under what circumstances are foam inlets required to be provided?",
+        "answer": "Foam inlets are required to be provided when boiler rooms or storage rooms containing highly combustible materials are located in a basement or are not easily accessible for firefighting. These foam inlets are intended to deliver foam solution to an area close to the concerned room (section 6.2.7a.(1))."
+        },
+        {
+        "question": "Are foam solution inlets and outlets required in situations where access openings along a fire engine accessway exist?",
+        "answer": "No, in situations where rooms with highly combustible materials have access openings along a fire engine accessway, the provision of foam solution inlets and outlets is not required (section 6.2.7a.(2))."
+        },
+        {
+        "question": "What is the purpose of a two-way breeching inlet, and where should it be installed?",
+        "answer": "A two-way breeching inlet is intended for delivering foam solution. It should be installed at ground level with a pipe run of a minimum 100mm bore, terminating with a landing valve just outside the high fire risk room (section 6.2.7b)."
+        },
+        {
+        "question": "What standards or clauses must be adhered to when providing the breeching inlet?",
+        "answer": "The provision of the breeching inlet must comply with the relevant clauses of SS 575 (section 6.2.7b)."
+        },
+        {
+        "question": "Why is it important to provide foam inlets and a breeching inlet in areas with highly combustible materials?",
+        "answer": "Providing foam inlets and a breeching inlet in such areas is essential to ensure that firefighting foam solution can be delivered quickly to address fires involving highly combustible materials, enhancing the fire safety measures for these specific locations (section 6.2.7)."
+        },
+        {
+        "question": "What is the significance of specifying a minimum 100mm bore for the pipe run of the breeching inlet?",
+        "answer": "Specifying a minimum 100mm bore ensures that an adequate volume of foam solution can be delivered efficiently to combat fires involving highly combustible materials (section 6.2.7b)."
+        },
+        {
+        "question": "What type of room locations trigger the requirement for foam inlets and a breeching inlet?",
+        "answer": "Rooms containing highly combustible materials located in basements or areas that are not easily accessible for firefighting trigger the requirement for foam inlets and a breeching inlet (section 6.2.7a.(1))."
+        },
+        {
+        "question": "What is section 6.2.8?",
+        "answer": "Section 6.2.8 addresses the provision of hydraulic hose reels in buildings for fire protection purposes. It specifies the requirements for installing hose reels on various building storeys and provides exemptions for specific building types and situations (section 6.2.8)."
+        },
+        {
+        "question": "Are hose reels required for every storey of every building?",
+        "answer": "Yes, hydraulic hose reel(s) conforming to the requirements in SS 575 are required for every storey of every building, regardless of the building's height (section 6.2.8a.(1))."
+        },
+        {
+        "question": "In what situations are exemptions provided for the installation of hose reels?",
+        "answer": "Exemptions from hose reel installation are provided for several building types and situations, including PG I buildings, certain non-residential units in mixed commercial-cum-residential buildings, standalone buildings like guard houses and bin centres, and specific roof levels (section 6.2.8(3))."
+        },
+        {
+        "question": "What are the conditions for exempting non-residential units in mixed commercial-cum-residential buildings from hose reel installation?",
+        "answer": "Non-residential units in mixed commercial-cum-residential buildings are exempt from hose reel installation if they meet the following conditions: (i) AFA of the non-residential unit does not exceed 150m², (ii) Individually compartmented except for the parts of the unit fronting and within 3m from the external space, (iii) Not used as an eating establishment or for storage of flammable materials, (iv) Not used as a public entertainment outlet, (v) Not belonging to PG VI or VIII buildings, and (vi) Not used as a dormitory, hostel, etc., where sleeping risk is involved (section 6.2.8(3)(b))."
+        },
+        {
+        "question": "Which standalone buildings are exempt from hose reel installation?",
+        "answer": "Standalone buildings that are exempt from hose reel installation include single-storey guard houses, bin centres, 22kV (and lower) electrical substations, open-sided sheds with specific criteria, domestic water supply, rainwater, wastewater, sewage pumping stations with specific criteria, and roof levels of single-storey buildings or overhead bridge/ shed/ linkway/ walkway with certain characteristics related to roof-mounted PV installations (section 6.2.8(3)(c))."
+        },
+        {
+        "question": "Under what conditions is a mezzanine floor of a factory unit exempt from hose reel installation?",
+        "answer": "A mezzanine floor of a factory unit is exempt from hose reel installation if it complies with Cl.9.6.1a.(2) and the coverage distance of the nearest hose reel at the main floor to the most remote point of the mezzanine floor does not exceed 36m (30m hose path and 6m throw) (section 6.2.8(3)(d))."
+        },
+        {
+        "question": "What is the purpose of providing exemptions for certain building types and situations?",
+        "answer": "The exemptions are provided to tailor fire protection requirements to specific building types and scenarios, ensuring that resources are allocated effectively while maintaining adequate fire safety standards (section 6.2.8)."
+        },
+        {
+        "question": "Why is it necessary to provide hose reels on roof levels that are non-habitable floors?",
+        "answer": "Hose reels are required on roof levels that are non-habitable floors to provide fire protection coverage for M&E plants and equipment located on these levels (section 6.2.8a.(2))."
+        },
+        {
+        "question": "What is section 6.2.8?",
+        "answer": "Section 6.2.8 provides specifications and requirements for hose reels in buildings, including details about their size, type, water supply, siting, installation, and piping (section 6.2.8)."
+        },
+        {
+        "question": "What is the permitted nominal diameters for the hose?",
+        "answer": "The hose shall have a nominal diameter of either 20mm or 25mm, as specified, and it must conform to EN 694. The hose length should not exceed 30m (section 6.2.8b)."
+        },
+        {
+        "question": "What are the requirements for the hose nozzles?",
+        "answer": "The hose should terminate in 'shut-off' branches with either 4mm or 6mm nozzles (section 6.2.8b)."
+        },
+        {
+        "question": "What water supply requirements must be met for hose reels?",
+        "answer": "The water supply for hose reels, including flow rate and minimum running pressure, must comply with the requirements specified in SS 575 (section 6.2.8c)."
+        },
+        {
+        "question": "What are the siting and installation requirements for hose reels?",
+        "answer": "Hose reels should be sited in prominent and accessible locations within a distance of 5m from the exit door, but they should not be installed inside exit staircases. Additional hose reels should be provided for parts of the floor space that are beyond the 36m coverage (30m hose path and 6m throw) of the hose reel. Hose reels located within a room should not be used for covering areas outside the room (section 6.2.8d)."
+        },
+        {
+        "question": "What types of piping are permissible for connecting hose reels to the PUB mains?",
+        "answer": "Copper or stainless steel piping is permissible for connecting hose reels to the PUB mains (section 6.2.8e)."
+        },
+        {
+        "question": "Why is it important for hose reels to be sited in prominent and accessible locations?",
+        "answer": "Siting hose reels in prominent and accessible locations ensures that they are readily available for firefighting purposes and can be easily accessed in case of an emergency (section 6.2.8d)."
+        },
+        {
+        "question": "What is the significance of the 36m coverage mentioned in relation to hose reels?",
+        "answer": "The 36m coverage refers to the maximum distance that the hose reel can effectively cover, including the 30m hose path and a 6m throw. If there are areas beyond this coverage, additional hose reels should be provided (section 6.2.8d(2))."
+        }
+        ,{
+        "question": "What is section 6.3.1a ?",
+        "answer": "Section 6.3.1a outlines the requirements for the installation of fire alarm systems in buildings, specifically focusing on PG III to VIII occupancies. It specifies the conditions under which a fire alarm system must be installed, the types of systems (automatic or manual), and the standards the system must comply with (section 6.3.1)."
+        },
+        {
+        "question": "What types of buildings or parts of buildings are covered by this section?",
+        "answer": "This section applies to every building or part of a building, except PG I or II residential floors, with a total floor area exceeding the specified thresholds in Table 6.3A. It applies based on the purpose group of the building or part of the building (section 6.3.1a(1))."
+        },
+        {
+        "question": "What are the requirements for the type of fire alarm system?",
+        "answer": "The fire alarm system must be either automatic or manual, and it should be an electrically supervised system complying with the requirements of SS 645 (section 6.3.1a(1))."
+        },
+        {
+        "question": "Under what circumstances must a fire alarm system be connected to the SCDF’s Operations Centre through an approved alarm monitoring company?",
+        "answer": "A fire alarm system must be connected to the SCDF’s Operations Centre through an approved alarm monitoring company if required under Cl.6.3.8 (section 6.3.1a(1))."
+        },
+        {
+        "question": "Are there any exceptions to the requirement for a fire alarm system in PG III to VIII occupancies?",
+        "answer": "Yes, there is an exception for 2 to 4 storey buildings in PG III to VIII occupancies. If the total floor area per storey of such a building exceeds the sizes stipulated in Table 3.2A, it must be provided with an automatic fire alarm system (section 6.3.1a(2))."
+        },
+        {
+        "question": "What is the significance of the Effective Date mentioned in this section?",
+        "answer": "The Effective Date indicates when this section came into effect and when these requirements became applicable (section 6.3.1)."
+        },
+        {
+        "question": "What standards must the fire alarm system comply with?",
+        "answer": "The fire alarm system must comply with the requirements of SS 645 (section 6.3.1a(1))."
+        },
+        {
+        "question": "What is the purpose of connecting a fire alarm system to the SCDF’s Operations Centre through an approved alarm monitoring company?",
+        "answer": "Connecting the fire alarm system to the SCDF’s Operations Centre allows for real-time monitoring and immediate response in case of fire emergencies, enhancing safety and coordination (section 6.3.1a(1))."
+        },
+        {
+        "question": "What is section 6.3.1b?",
+        "answer": "Section 6.3.1b pertains to PG II mixed occupancy buildings where there's a provision of an automatic sprinkler system and/or electrical fire alarm system for the non-residential part of the building. It specifies requirements related to alarm sounders, sound levels, and the connection of the fire alarm system to an approved alarm monitoring company."
+        },
+        {
+        "question": "What are the sound level requirements for alarm sounders in PG II mixed occupancy buildings?",
+        "answer": "The alarm sounders in PG II mixed occupancy buildings must be capable of producing a minimum sound level of 65dBA or 5dBA above the ambient noise level, whichever is greater, but not more than 120dBA. This sound level requirement applies to specific areas, including the non-residential units, common areas of the non-residential floors, and common areas of the immediate two residential floors above the non-residential floor (section 6.3.1b(1))."
+        },
+        {
+        "question": "Under what conditions is the connection of the fire alarm system to an approved alarm monitoring company not required in PG II mixed occupancy buildings?",
+        "answer": "In PG II mixed occupancy buildings, the connection of the fire alarm system to an approved alarm monitoring company is not required if the number of non-residential floors is not more than one storey (section 6.3.1b(2))."
+        },
+        {
+        "question": "What is the significance of the Effective Date mentioned in this section?",
+        "answer": "The Effective Date indicates when this section and its requirements came into effect and when they became applicable (section 6.3.1b)."
+        },
+        {
+        "question": "Why are there specific sound level requirements for alarm sounders in PG II mixed occupancy buildings?",
+        "answer": "The sound level requirements for alarm sounders ensure that the alarm can be heard and recognized in areas where mixed occupancy buildings have non-residential units, common areas, and nearby residential floors. This is crucial for fire safety and emergency response (section 6.3.1b(1))."
+        },
+        {
+        "question": "What is section 6.3.1c?",
+        "answer": "Section 6.3.1c addresses the requirements for providing electrical fire alarm systems in dormitories, including workers' dormitories. It specifies when manual or automatic and manual fire alarm systems should be installed based on the type and height of the dormitory building."
+        },
+        {
+        "question": "What type of fire alarm system is required for single-storey dormitory buildings?",
+        "answer": "For single-storey dormitory buildings, a manual fire alarm system is required to comply with SS 645 (section 6.3.1c(1))."
+        },
+        {
+        "question": "What type of fire alarm systems are required for dormitories exceeding one storey?",
+        "answer": "For dormitories exceeding one storey, both automatic and manual fire alarm systems are required to comply with SS 645 (section 6.3.1c(2))."
+        },
+        {
+        "question": "What types of roof-level structures are exempt from the requirement for an electrical fire alarm system?",
+        "answer": "Roof levels of single-storey buildings with a roof height not exceeding 12m or inaccessible pitched roofs up to 24m from grade level used solely for roof-mounted PV installations in accordance with Cl.10.2.1b.(1) and roof levels of external/open-sided overhead bridges, sheds, linkways, walkways with clear width less than 6m, and roof height not exceeding 12m used solely for roof-mounted PV installations in accordance with Cl.10.2.1b.(1) are exempt from the requirement for an electrical fire alarm system (section 6.3.1d(1) and (2))."
+        },
+        {
+        "question": "What is the significance of the Effective Date mentioned in this section?",
+        "answer": "The Effective Date indicates when this section and its requirements came into effect and when they became applicable (section 6.3.1c and d)."
+        },
+        {
+        "question": "Why are there different requirements for fire alarm systems based on the number of storeys in dormitory buildings?",
+        "answer": "Different requirements for fire alarm systems in dormitories are based on the number of storeys to ensure appropriate fire safety measures are in place. Multi-storey dormitories have a greater need for automatic and manual fire alarm systems to quickly detect and alert occupants to potential fires (section 6.3.1c)."
+        },
+        {
+        "question": "What is section 6.3.1?",
+        "answer": "This section (6.3.1) outlines requirements for fire alarm systems in different types of buildings based on their purpose and size. It specifies when automatic or manual fire alarm systems are needed and when they should be connected to a monitoring center. Additionally, it covers specific sound level requirements for alarm sounders and exceptions for certain types of buildings, like single-storey structures and open-sided structures used for roof-mounted PV installations."
+        },
+        {
+        "question": "What is section 6.3.2?",
+        "answer": "This section (section 6.3.2) is about the requirements for fire alarm panels in buildings with electrical fire alarm systems. It covers the type of alarm systems, their accuracy, associated equipment, wiring, and their specific locations within buildings, including sub fire alarm panels. The section also references compliance with SS 645 for these systems."
+        }
 
+        ,
+        {
+        "question": "What is section 6.3.2a?",
+        "answer": "An electrical fire alarm system of the automatic or manual type shall be provided with a fire alarm panel to indicate the location of the alarm which has been actuated or operated. Such an alarm panel shall be accurate to the maximum allowed alarm group area limitations specified in SS 645."
+        },
+        {
+        "question": "What is section 6.3.2b?",
+        "answer": "The associated control and supervisory equipment, indicating equipment, wiring and arrangement of power supplies for the fire alarm panel shall comply with the requirements in SS 645."
+        },
+        {
+        "question": "What is section 6.3.2c?",
+        "answer": "All automatic systems which are activated via the general building alarm shall be connected directly to the fire alarm panel"
+        },
+        {
+        "question": "What is section 6.3.2d?",
+        "answer": "The fire alarm panel shall be located near the main entrance of the building, in the Fire Command Centre (FCC), in the guardhouse or in the fire lift lobby."
+        },
+        {
+        "question": "What is section 6.3.2e?",
+        "answer": "Sub fire alarm panel, where provided, shall comply with the requirements in SS 645 be located at the fire lift lobby, smoke-free lobby, or protected staircase, in that order of priority, or at the main point of entry into the area covered by the alarm zone."
+        },
+        {
+            "question": "What is the purpose of an electrical fire alarm system's fire alarm panel?",
+            "answer": "The purpose of the fire alarm panel is to indicate the location of the alarm that has been actuated or operated within the building (section 6.3.2a)."
+        },
+        {
+            "question": "What standards must the associated control and supervisory equipment, indicating equipment, wiring, and power supplies for the fire alarm panel comply with?",
+            "answer": "All associated equipment for the fire alarm panel must comply with the requirements specified in SS 645 (section 6.3.2b)."
+        },
+        {
+            "question": "Which systems are required to be connected directly to the fire alarm panel?",
+            "answer": "All automatic systems activated via the general building alarm must be connected directly to the fire alarm panel (section 6.3.2c)."
+        },
+        {
+            "question": "Where should the fire alarm panel be located within a building?",
+            "answer": "The fire alarm panel should be located near the main entrance of the building, in the Fire Command Centre (FCC), in the guardhouse, or in the fire lift lobby (section 6.3.2d)."
+        },
+        {
+            "question": "What is the purpose of manual alarm call points in an electrical fire alarm system?",
+            "answer": "The purpose of manual alarm call points is to allow individuals to activate the fire alarm system manually when needed (section 6.3.3a)."
+        },
+        {
+            "question": "How are manual call points distributed throughout a building?",
+            "answer": "Manual call points should be provided on every storey of the building or part of the building, and they should be located so that no person needs to travel more than 30m to activate the alarm (section 6.3.3a)."
+        },
+        {
+            "question": "Where should manual call points be located, especially in relation to exit routes?",
+            "answer": "Manual call points should be located on exit routes, preferably next to hose reels, and specifically on the floor landings of exit staircases and at exits to the street (section 6.3.3b)."
+        },
+        {
+            "question": "What are the height requirements for the installation of manual call points?",
+            "answer": "Manual call points should be located between 800mm and 1.2m above the finished floor level (section 6.3.3c)."
+        },
+        {
+            "question": "What is the purpose of grouping manual call points when an automatic fire alarm system is provided?",
+            "answer": "When an automatic fire alarm system is provided, grouping of manual call points is required to indicate their location, and this grouping must comply with the requirements in SS 645 (section 6.3.3b)."
+        },
+        {
+            "question": "what is section 6.3.3?",
+            "answer": "outlines regulations for the placement and requirements of manual alarm call points in buildings, ensuring they are easily accessible and strategically located for fire safety. It also provides exemptions for certain types of areas like car parks, open-to-sky roof gardens/terraces, and mezzanine floors in factory units, while specifying that manual call points are required for buildings protected by automatic fire sprinkler or fire alarm systems."
+        },
+        {
+            "question": "What is 6.3.3a?",
+            "answer": "In a manual alarm system, 6.3.3a requires manual call points to be provided on every storey of the building or part of the building and located so that no person needs to travel more than 30m from any position within the building to activate the alarm."
+          }
+          ,
+          {
+            "question": "What is 6.3.3b?",
+            "answer": "6.3.3b states that manual call points should be located on exit routes, preferably next to hose reels, on the floor landings of exit staircases, and at exits to the street. In cases with an automatic fire alarm system, grouping for indication of the location of manual call points must comply with the requirements in SS 645."
+          }
+          ,
+          {
+            "question": "What is 6.3.3c?",
+            "answer": "6.3.3c specifies that manual call points should be located between 800mm and 1.2m above the finished floor level. They should also be placed in easily accessible and conspicuous positions free from obstructions. The installation of the sounding device should follow the guidelines in SS 645."
+          }
+          ,
+          {
+            "question": "What is 6.3.3d?",
+            "answer": "6.3.3d outlines exemptions for omitting manual call points. These exemptions apply to car parks, open-to-sky roof gardens/terraces (with conditions), and mezzanine floors of factory units (subject to specific compliance requirements)."
+          }
+          ,
+          {
+            "question": "What is 6.3.3e?",
+            "answer": "6.3.3e states that manual call points shall be provided for buildings protected with an automatic fire sprinkler system or automatic fire alarm system."
+          },
+          {
+            "question": "What is section 6.3.4?",
+            "answer": "Section 6.3.4 pertains to the requirements for automatic fire alarm systems as mandated by the Code. It specifies that when an automatic fire alarm system is required, the type, location, spacing, and installation of detectors must comply with the requirements outlined in SS 645 (section 6.3.4)."
+          }
+          ,
+          {
+            "question": "What does this section specify regarding the installation of detectors for automatic fire alarm systems?",
+            "answer": "This section states that the installation of detectors for automatic fire alarm systems should adhere to the requirements outlined in SS 645 (section 6.3.4)."
+          },
+          
+          {
+            "question": "What code or standard is referenced for detailed requirements related to automatic fire alarm systems?",
+            "answer": "For detailed requirements regarding the type, location, spacing, and installation of detectors in automatic fire alarm systems, this section references SS 645 (section 6.3.4)."
+          },
+          {
+            "question": "What is section 6.3.5?",
+            "answer": "Section 6.3.5 outlines the requirements for alarm devices in fire protection systems. It covers the activation, type, number, location, and specifications of audible and visible alarm devices, along with their interconnection with other systems. These requirements are essential for fire safety in buildings. (Section 6.3.5)"
+          }
+          ,
+          {
+            "question": "What is the general requirement for the activation of alarm devices in an electrical fire alarm system?",
+            "answer": "The general requirement is that alarm devices, usually issuing an audible or visible signal, shall be actuated when the electrical fire alarm system is activated or operated. The type, number, and location of alarm devices must comply with the requirements in SS 645. (Section 6.3.5a(1))"
+          }
+          ,
+          {
+            "question": "How should sounders and visual alarm signals be activated in the event of an activation?",
+            "answer": "All sounders and visual alarm signals in the building should be actuated simultaneously in the event of an activation. However, there are exceptions permitted or required by the SCDF where alarm sounders may be grouped or activated in stages, provided they comply with the requirements in SS 645. (Section 6.3.5a(2))"
+          }
+          ,
+          {
+            "question": "What requirement is there for the sound of the fire alarm sounder?",
+            "answer": "The fire alarm sounder should have a sound that is readily distinguishable from any other alarm systems. (Section 6.3.5b)"
+          }
+          ,
+          {
+            "question": "In what situations should sound systems in places of entertainment or areas with special effects lighting systems be interlocked with the fire alarm system?",
+            "answer": "In places of entertainment or areas with sound and/or special effects lighting systems, including KTV kiosks/booths within building premises, sound systems should be electronically interlocked with the fire alarm system to automatically cut off when the fire alarm system is activated. (Section 6.3.5b)"
+          },
+          
+          {
+            "question": "When are visual alarms required in addition to audible alarms?",
+            "answer": "Visual alarms should be provided in addition to audible alarms for buildings protected by fire alarm systems. Separate visual alarms should be provided in specific locations, including toilets, car park floors, lift lobbies, and places of entertainment. (Section 6.3.5c(1))"
+          },
+          
+          {
+            "question": "Can visual alarms be used instead of audible alarms?",
+            "answer": "Visual alarms should not be used in place of audible alarms. (Section 6.3.5c(2))"
+          },
+          
+          {
+            "question": "What are the requirements for the siting of visual alarms?",
+            "answer": "Visual alarms should be located together with fire alarm sounders. If they are not readily visible from areas accessible to persons with hearing impairment who may be in isolation, additional visual alarms should be provided. The height of visual alarms should be between 2m to 3m above the finished floor level. (Section 6.3.5c(3))"
+          }
+          ,
+          {
+            "question": "What are the technical specifications for visual alarms?",
+            "answer": "Visual alarms must comply with several technical requirements, including taking the form of a flashing beacon or strobe light, being distinguishable from other visual indicators, having 'Fire' labeled with letters of at least 15mm in height, flashing within a specific rate, using white or red for the alarm signal, synchronizing flashing in the same space/room, and having sufficient intensity to draw attention. (Section 6.3.5c(4))"
+          },
+          {
+            "question": "What is 6.3.5a(1) ?",
+            "answer": "6.3.5a(1) states that the alarm device, which normally issues an audible or visible signal, should be actuated when the electrical fire alarm system is activated or operated. The type, number, and location of the alarm device must comply with the requirements in SS 645. (Section 6.3.5a(1))"
+          }
+          ,
+          {
+            "question": "What is 6.3.5a(2) ?",
+            "answer": "6.3.5a(2) specifies that all sounders and visual alarm signals in the building must be actuated simultaneously in the event of an activation. However, there are cases permitted or required by the SCDF where the operation of alarm sounders can be grouped or activated in stages, provided they comply with the requirements in SS 645. (Section 6.3.5a(2))"
+          },
+          
+          {
+            "question": "What is section 6.3.5b ?",
+            "answer": "6.3.5b requires the fire alarm sounder to have a sound that is readily distinguishable from any other alarm systems. In places of entertainment or areas with sound and/or special effects lighting systems, the sound systems should be electronically interlocked with the fire alarm system to enable automatic cutoff when the fire alarm system is activated. (Section 6.3.5b)"
+          },
+          
+          {
+            "question": "What is section 6.3.5c?",
+            "answer": "According to 6.3.5c(1), visual alarms should be provided in addition to audible alarms for buildings protected by fire alarm systems. Separate visual alarms should be provided in specific locations, including toilets, car park floors, lift lobbies, and places of entertainment. (Section 6.3.5c(1))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.5c(4)?",
+            "answer": "6.3.5c(4) outlines technical specifications for visual alarms, including that they should take the form of a flashing beacon or strobe light, be distinguishable from other visual indicators, have 'Fire' labeled with letters of at least 15mm in height, flash within a specific rate, use white or red for the alarm signal, synchronize flashing in the same space/room, and have sufficient intensity to draw attention. (Section 6.3.5c(4))"
+          },
+          {
+            "question": "What is section 6.3.6?",
+            "answer": "Section 6.3.6 focuses on the requirements for Home Fire Alarm Devices (HFAD) in individual residential units under PG I or II. It outlines the features, compliance requirements, and installation specifications for HFADs, ensuring they operate effectively for fire detection and notification. (Section 6.3.6)"
+          }
+          ,
+          {
+            "question": "What are the key features that HFADs must possess according to 6.3.6a(1)?",
+            "answer": "According to 6.3.6a(1), HFADs must operate on smoke detection technology alone or have a multi-sensor detector with smoke detection capability. (Section 6.3.6a(1))"
+          }
+          ,
+          {
+            "question": "What are the indicator lights on HFADs used for according to 6.3.6a(2)?",
+            "answer": "Indicator lights on HFADs are meant to inform users about the status or condition of the device(s). (Section 6.3.6a(2))"
+          }
+          ,
+          {
+            "question": "What is the purpose of the temporary silence/reset feature mentioned in 6.3.6a(3)?",
+            "answer": "The temporary silence/reset feature is included in HFADs to address false alarms. (Section 6.3.6a(3))"
+          },
+          
+          {
+            "question": "What are the requirements for the sound level of the alarm sounder in HFADs according to 6.3.6a(4)?",
+            "answer": "The alarm sounder in HFADs must have a sound level compliant with any standard listed in item (7). (Section 6.3.6a(4))"
+          }
+          ,
+          {
+            "question": "Why is there a test button requirement for HFADs as stated in 6.3.6a(5)?",
+            "answer": "The test button is provided in HFADs to allow users to periodically test or check the device(s) for proper functionality. (Section 6.3.6a(5))"
+          }
+          ,
+          {
+            "question": "What are the power source options for HFADs as outlined in 6.3.6a(6)?",
+            "answer": "HFADs can either be powered by a long-life built-in battery (lasting at least 10 years) with low battery alert capability or be wired to household electrical supply. (Section 6.3.6a(6))"
+          }
+          ,
+          {
+            "question": "What standards should the detector design of HFADs comply with according to 6.3.6a(7)?",
+            "answer": "The detector design of HFADs must comply with one of the following standards: EN 14604, AS 3786, or UL 217. (Section 6.3.6a(7))"
+          }
+          ,
+          {
+            "question": "How should multiple HFADs be interconnected according to 6.3.6a(8)?",
+            "answer": "When two or more HFADs are installed, they should be interconnected, either wired or wirelessly. When one of the HFADs is triggered, all connected HFADs must sound an alarm simultaneously. (Section 6.3.6a(8))"
+          }
+          ,
+          {
+            "question": "What are the acceptable certifications or listings for HFADs according to 6.3.6a(9)?",
+            "answer": "HFADs should be either listed by any accredited certification body accepted by the SCDF, listed by Underwriters Laboratories (UL), listed under the ActivFire Scheme, CE marked with certification from approved 3rd party Notified Bodies, or listed under BSI Product Directory. (Section 6.3.6a(9))"
+          }
+          ,
+          {
+            "question": "What additional functions can be included as optional features in HFADs according to 6.3.6b?",
+            "answer": "Additional independent functions, such as connection to smart home systems, remote controls, visual alarms, vibrating pads, etc., may be included as optional features of HFADs as long as they meet the requirements outlined in Cl.6.3.6a. (Section 6.3.6b)"
+          },
+          {
+            "question": "What is 6.3.6a(1) ?",
+            "answer": "6.3.6a(1) specifies that HFADs in individual residential units under PG I or II should either operate on smoke detection technology alone or have a multi-sensor detector with smoke detection capability. (Section 6.3.6a(1))"
+          }
+          ,
+          {
+            "question": "What are the requirements outlined in 6.3.6a(2) regarding indicator lights on HFADs?",
+            "answer": "6.3.6a(2) states that HFADs must have indicator lights to inform users about the status or condition of the device(s). (Section 6.3.6a(2))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6a(3)?",
+            "answer": "The temporary silence/reset feature is included in HFADs to address false alarms. (Section 6.3.6a(3))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6a(4)?",
+            "answer": "According to 6.3.6a(4), the alarm sounder in HFADs must have a sound level compliant with any standard listed in item (7). (Section 6.3.6a(4))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6a(6)?",
+            "answer": "HFADs can be powered by a long-life built-in battery (lasting at least 10 years) with low battery alert capability or wired to household electrical supply. (Section 6.3.6a(6))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6a(7)?",
+            "answer": "The detector design of HFADs must comply with one of the following standards: EN 14604, AS 3786, or UL 217. (Section 6.3.6a(7))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6a(8)?",
+            "answer": "When two or more HFADs are installed, they should be interconnected, either wired or wirelessly. When one of the HFADs is triggered, all connected HFADs must sound an alarm simultaneously. (Section 6.3.6a(8))"
+          },
+          
+          {
+            "question": "What is section 6.3.6a(9)?",
+            "answer": "HFADs should be either listed by any accredited certification body accepted by the SCDF, listed by Underwriters Laboratories (UL), listed under the ActivFire Scheme, CE marked with certification from approved 3rd party Notified Bodies, or listed under BSI Product Directory. (Section 6.3.6a(9))"
+          }
+          ,
+          {
+            "question": "What is section 6.3.6b?",
+            "answer": "Additional independent functions, such as connection to smart home systems, remote controls, visual alarms, vibrating pads, etc., may be included as optional features of HFADs as long as they meet the requirements outlined in Cl.6.3.6a. (Section 6.3.6b)"
+          },
+          {
+            "question": "What is section 6.3.7?",
+            "answer": "Section 6.3.7 focuses on the requirements for the alarm system in theatres or cinemas. It outlines the installation and connection of a manual fire alarm system, along with the provision of visual and audible indicators to ensure audience safety in the event of a fire. Additionally, it specifies that the fire protection system in cinemas should be similar to that of the building. (Section 6.3.7)"
+          }
+          ,
+          {
+            "question": "Where should the manual alarm system be installed according to 6.3.7a?",
+            "answer": "According to 6.3.7a, the manual alarm system should be installed in the lobbies and other areas adjoining the hall of the theatre or cinema. It should also be connected to the SCDF Operations Centre through an approved alarm monitoring company. (Section 6.3.7a)"
+          }
+          ,
+          {
+            "question": "What additional safety measures are required in the projection room and another designated room as per 6.3.7b?",
+            "answer": "6.3.7b specifies that visual indicators and audible sounders must be installed in the projection room and another room where a designated staff member can alert the audience in case of a fire. (Section 6.3.7b)"
+          }
+          ,
+          {
+            "question": "What does 6.3.7c indicate regarding the fire protection system in cinemas?",
+            "answer": "6.3.7c states that the provision of the fire protection system in cinemas, which are part of a building, should be similar to that of the building itself. (Section 6.3.7c)"
+          },
+          
+          {
+            "question": "What type of fire alarm system is required for theatres or cinemas according to 6.3.7?",
+            "answer": "Theatres or cinemas should be provided with an electrical fire alarm system of the manual type, as specified in section 6.3.7. (Section 6.3.7)"
+          },
+          
+          {
+            "question": "How should the manual alarm system in theatres or cinemas be connected to the SCDF Operations Centre as per 6.3.7a?",
+            "answer": "According to 6.3.7a, the manual alarm system should be connected to the SCDF Operations Centre through an approved alarm monitoring company. (Section 6.3.7a)"
+          },
+          
+          {
+            "question": "What specific locations within theatres or cinemas should have visual indicators and audible sounders as mentioned in 6.3.7b?",
+            "answer": "Visual indicators and audible sounders should be installed in the projection room and another room where a designated staff member can alert the audience in case of a fire, as outlined in 6.3.7b. (Section 6.3.7b)"
+          }
+          ,
+          {
+            "question": "What principle should be followed in providing fire protection systems for cinemas as per 6.3.7c?",
+            "answer": "According to 6.3.7c, the principle to follow is that the fire protection system in cinemas, when they are part of a building, should be similar to that of the building itself. (Section 6.3.7c)"
+          },
+          {
+            "question": "What is 6.3.7a ?",
+            "answer": "6.3.7a requires the installation of a manual fire alarm system in theatres or cinemas. This system should be placed in the lobbies and other areas adjoining the hall and connected to the SCDF Operations Centre through an approved alarm monitoring company. (Section 6.3.7a)"
+          },
+          
+          {
+            "question": "What is section 6.3.7b ?",
+            "answer": "6.3.7b mandates the installation of visual indicators and audible sounders in the projection room and in another room where a designated staff member can alert the audience in case of a fire. (Section 6.3.7b)"
+          }
+          ,
+          {
+            "question": "What is section 6.3.7c ?",
+            "answer": "6.3.7c states that the provision of the fire protection system in cinemas, which are part of a building, should be similar to that of the building itself. (Section 6.3.7c)"
+          },
+          {
+            "question": "What is section 6.3.8?",
+            "answer": "Section 6.3.8 addresses the requirement for connecting electrical fire alarm systems in buildings or premises to the SCDF Operations Centre through an approved alarm monitoring company. This requirement is applicable to specific types of buildings and premises with various occupancies and hazards, as outlined in the section. (Section 6.3.8)"
+          },
+          
+          {
+            "question": "When is it mandatory to connect the electrical fire alarm system to the SCDF Operations Centre as per 6.3.8?",
+            "answer": "According to 6.3.8, the electrical fire alarm system must be connected to the SCDF Operations Centre through an approved alarm monitoring company under the following conditions: a) for health care occupancies, hotels, or similar occupancies; b) for high hazard factories, oil refineries, oil depots, chemical plants, or general warehouses; c) for theatres, cinemas, or concert halls as specified in Cl.6.3.7; or d) for buildings required under the provisions of this Code to be protected by an automatic fire alarm or fire extinguishing system, except those exempted under Cl.6.3.1b. (Section 6.3.8)"
+          }
+          ,
+          {
+            "question": "What types of occupancies fall under the requirement of connecting the electrical fire alarm system to the SCDF Operations Centre according to 6.3.8a?",
+            "answer": "6.3.8a specifies that health care occupancies, hotels, or similar occupancies are among those that require the connection of the electrical fire alarm system to the SCDF Operations Centre. (Section 6.3.8a)"
+          }
+          ,
+          {
+            "question": "Which types of factories or premises are covered by the requirement in 6.3.8b to connect the electrical fire alarm system to the SCDF Operations Centre?",
+            "answer": "6.3.8b mandates the connection of the electrical fire alarm system to the SCDF Operations Centre for high hazard factories, oil refineries, oil depots, chemical plants, or general warehouses. (Section 6.3.8b)"
+          },
+          
+          {
+            "question": "In what situations does the requirement of connecting the electrical fire alarm system to the SCDF Operations Centre apply to theatres, cinemas, or concert halls as per 6.3.8c?",
+            "answer": "6.3.8c specifies that the requirement applies to theatres, cinemas, or concert halls as specified in Cl.6.3.7. (Section 6.3.8c)"
+          },
+          
+          {
+            "question": "Under what conditions are buildings required under the provisions of this Code to be protected by an automatic fire alarm or fire extinguishing system, as mentioned in 6.3.8d?",
+            "answer": "6.3.8d states that the requirement applies to buildings required under the provisions of this Code to be protected by an automatic fire alarm or fire extinguishing system, except those exempted under Cl.6.3.1b. (Section 6.3.8d)"
+          },
+          
+          {
+            "question": "What is the purpose of connecting the electrical fire alarm system to the SCDF Operations Centre?",
+            "answer": "The purpose of connecting the electrical fire alarm system to the SCDF Operations Centre is to ensure timely monitoring and response to fire alarms, especially in buildings or premises with specific occupancies and hazards. This connection enhances fire safety and helps coordinate emergency responses effectively. (Section 6.3.8)"
+          },
+          {
+            "question": "What is section 6.3.8a ?",
+            "answer": "6.3.8a requires the connection of the electrical fire alarm system to the SCDF Operations Centre through an approved alarm monitoring company for specific occupancies, including health care occupancy, hotels, or similar occupancies. (Section 6.3.8a)"
+            },
+
+            {
+            "question": "What is section 6.3.8b ?",
+            "answer": "6.3.8b mandates the connection of the electrical fire alarm system to the SCDF Operations Centre for high hazard factories, oil refineries, oil depots, chemical plants, or general warehouses. (Section 6.3.8b)"
+            },
+
+            {
+            "question": "What is section 6.3.8c?",
+            "answer": "6.3.8c specifies that the requirement applies to theatres, cinemas, or concert halls as specified in Cl.6.3.7. (Section 6.3.8c)"
+            },
+
+            {
+            "question": "What is section 6.3.8d?",
+            "answer": "6.3.8d states that the requirement applies to buildings required under the provisions of this Code to be protected by an automatic fire alarm or fire extinguishing system, except those exempted under Cl.6.3.1b. (Section 6.3.8d)"
+            },
+            {
+            "question": "What is section Section 6.3.9?",
+            "answer": "Section 6.3.9, titled Sprinkler-protected building, addresses the exemption of automatic thermal/smoke detectors in sprinkler-protected premises as long as they are not required to activate/operate the sprinkler system, engineered smoke control system, or other systems. The section is effective from September 1, 2021."
+            },
+
+            {
+            "question": "What does section 6.3.9 of the Code specify regarding the installation of automatic thermal/smoke detectors in sprinkler-protected premises?",
+            "answer": "Section 6.3.9 of the Code exempts the provision of automatic thermal/smoke detectors in sprinkler-protected premises, unless such detectors are required to activate/operate the sprinkler system, engineered smoke control system, or other systems."
+            },
+            {
+            "question": "What is section 6.3.10?",
+            "answer": "Section 6.3.10 discusses exemptions from automatic fire alarm protection in an automatic fire alarm building. It outlines specific areas and conditions under which such exemptions are applicable. The section became effective on March 1, 2022. (Section 6.3.10)"
+            },
+            
+            {
+            "question": "What does the code says external open-sided linkways?",
+            "answer": "Section 6.3.10a states that external open-sided linkways not exceeding 5 meters in width (measured from eave to eave) are exempted from automatic fire alarm protection, provided these areas are not used for commercial activities or storage."
+            }
+            ,
+            {
+            "question": "Under what conditions are areas covered with trellises, louvres, or perforated panels exempted from automatic fire alarm protection according to 6.3.10b?",
+            "answer": "According to 6.3.10b, areas covered with trellises, louvres, or perforated panels having 50% or more evenly distributed effective free openings are exempted from automatic fire alarm protection. However, they must have an alarm sounder and visual alarm near the exit staircase in accordance with SS 645."
+            },
+            
+            {
+            "question": "What types of areas are open-to-sky roof gardens/terraces exempted from automatic fire alarm protection as per 6.3.10c?",
+            "answer": "6.3.10c exempts open-to-sky roof gardens/terraces located within PG II buildings or mixed-use residential buildings from automatic fire alarm protection, provided there are no covered commercial activities/spaces at these areas."
+            },
+            
+            {
+            "question": "In what situation should alarm sounders and visual alarms be extended to open-to-sky roof gardens/terraces according to 6.3.10c?",
+            "answer": "When there is other non-residential occupancy other than the open-to-sky roof gardens/terraces located within the same PG II building, alarm sounders and visual alarms should be extended to the open-to-sky roof gardens/terraces and positioned near the exit staircase in accordance with SS 645."
+            },
+            
+            {
+            "question": "What is the effective date of section 6.3.10?",
+            "answer": "The effective date of section 6.3.10 is March 1, 2022."
+            },
+            
+            {
+            "question": "What is 6.3.10a?",
+            "answer": "External open-sided linkways not exceeding 5m in width measured from eave to eave, provided these areas are not for commercial activities or storage."
+            },
+            
+            {
+            "question": "What is section 6.3.10b?",
+            "answer": "Areas which are covered with trellises, louvres or perforated panels having 50% or more evenly distributed effective free openings. An alarm sounder and visual alarm shall be provided near the exit staircase in accordance with SS 645."
+            },
+            
+            {
+            "question": "What is section 6.3.10c?",
+            "answer": "Open-to-sky roof gardens/ terraces located within PG II buildings or mixed-use residential buildings, provided there are no covered commercial activities/ spaces at the open-to-sky roof gardens/ terraces.  When there is other non-residential occupancy other than the open-to-sky roof gardens/ terraces located within the same PG II building, the alarm sounder and visual alarm shall be extended to the open-to-sky roof gardens/ terraces and positioned near the exit staircase in accordance with SS 645."
+            },
+            
+            {
+            "question": "What is section 6.3.11a?",
+            "answer": "VIFDS shall be installed in addition to the electrical fire alarm system for buildings which meet all of the following conditions:(1) It is an unmanned buildings belonging to PG III to VIII.(2) It has an internal open space of more than 2000m2 or a ceiling height of more than 12m.(3) It requires the provision of automatic fire alarm system in accordance with Table 6.3A ."
+            },
+            
+            {
+            "question": "What is section 6.3.11b?",
+            "answer": "VIFDS shall comply with SS 645 and can be used to complement smoke, heat and flame detectors in an electrical fire alarm system."
+            },{
+            "question": "What is section 6.3.11c?",
+            "answer": "It shall be connected to the SCDF Operations Centre through an approved alarm monitoring company. Alarm signals and live video images of fire and/or smoke captured shall be transmitted to the approved alarm monitoring company upon activation of the building fire alarm system."
+            },
+            {
+        "question": "What is section 6.3.11?",
+        "answer": "Section 6.3.11, titled 'Video Image Fire Detection System (VIFDS),' outlines the requirements for installing VIFDS in addition to the electrical fire alarm system in specific types of buildings meeting certain conditions. The section also specifies the compliance standards and connectivity requirements for VIFDS. It became effective on March 1, 2019. (Section 6.3.11)"
+        }
+        ,
+        {
+        "question": "Under what conditions is the installation of VIFDS required according to 6.3.11a?",
+        "answer": "According to 6.3.11a, VIFDS is required to be installed in buildings that meet the following conditions: (1) The building is unmanned and belongs to PG III to VIII. (2) It has an internal open space of more than 2000m2 or a ceiling height of more than 12m. (3) It requires the provision of an automatic fire alarm system in accordance with Table 6.3A. (Section 6.3.11a)"
+        },
+        
+        {
+        "question": "What standards must VIFDS comply with as per 6.3.11b?",
+        "answer": "6.3.11b states that VIFDS must comply with SS 645 and can be used to complement smoke, heat, and flame detectors in an electrical fire alarm system. (Section 6.3.11b)"
+        },
+        
+        {
+        "question": "What is the requirement for connecting VIFDS to the SCDF Operations Centre according to 6.3.11c?",
+        "answer": "6.3.11c specifies that VIFDS shall be connected to the SCDF Operations Centre through an approved alarm monitoring company. Alarm signals and live video images of fire and/or smoke captured by VIFDS shall be transmitted to the approved alarm monitoring company upon activation of the building fire alarm system. (Section 6.3.11c)"
+        },
+        
+        {
+        "question": "What types of buildings are exempted from the requirement of installing VIFDS according to this section?",
+        "answer": "Buildings that do not meet the conditions outlined in 6.3.11a are exempted from the requirement of installing VIFDS. (Section 6.3.11a)"
+        },
+        
+        {
+        "question": "What are the conditions related to building size and occupancy that trigger the requirement for VIFDS installation?",
+        "answer": "The conditions that trigger the requirement for VIFDS installation are: (1) The building is unmanned and belongs to PG III to VIII. (2) It has an internal open space of more than 2000m2 or a ceiling height of more than 12m. (3) It requires the provision of an automatic fire alarm system in accordance with Table 6.3A. (Section 6.3.11a)"
+        }
+        ,
+        {
+        "question": "What does 'complement smoke, heat, and flame detectors' mean in 6.3.11b?",
+        "answer": "In 6.3.11b, 'complement smoke, heat, and flame detectors' means that VIFDS can be used alongside traditional smoke, heat, and flame detectors as part of the overall fire detection and alarm system. It provides additional surveillance and detection capabilities. (Section 6.3.11b)"
+        }
+        ,
+        {
+        "question": "What is the significance of connecting VIFDS to the SCDF Operations Centre?",
+        "answer": "Connecting VIFDS to the SCDF Operations Centre ensures that in the event of a fire or smoke detection, alarm signals and live video images are transmitted to the Operations Centre, enabling a swift and coordinated response to the incident. (Section 6.3.11c)"
+        }
+        ,
+        {
+        "question": "When did section 6.3.11 become effective?",
+        "answer": "Section 6.3.11 became effective on March 1, 2019."
+        },
+        {
+        "question": "When is section 6.4 ?",
+        "answer": "Section 6.4.1 outlines the provision for the installation of automatic sprinkler systems in buildings. It specifies the situations in which each storey or room of a building must be protected by such a system. This section became effective on September 1, 2021. (Section 6.4.1)"
+        }
 ]
 
+     
