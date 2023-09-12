@@ -6056,8 +6056,376 @@
     {
         "question": "What is section 6.6.4c?",
         "answer": "Section 6.6.4 of the code pertains to the regulations and requirements for fire lifts in buildings. It covers various aspects such as the number of fire lifts required, their accessibility and coverage, and operational features, including the provision of a fire lift switch. This section aims to ensure that fire lifts are appropriately designed and located to facilitate safe evacuation and firefighting in the event of a fire."
-      }
-  
+      },
+      {
+        "question": "Why are evacuation lifts required?",
+        "answer": "Evacuation lifts are required to facilitate the safe evacuation of occupants who require assistance during an emergency."
+      },
+      {
+        "question": "Which buildings are exempt from the evacuation lift requirements?",
+        "answer": "Buildings in PG I and II categories are exempt from the evacuation lift requirements. The requirements apply to buildings exceeding 24 meters in habitable height or accessible to Persons With Disabilities (PWDs), with an exception noted in Cl.2.4.1a."
+      },
+      {
+        "question": "What is section 6.6.5a?",
+        "answer": "Evacuation lifts shall be provided for evacuation of occupants requiring assistance during an emergency. The requirements stipulated herein shall be applicable to all, except PG I and II, buildings:(1) exceeding 24m in habitable height, or (2) accessible to PWDs, except those stipulated under Cl.2.4.1a. 6.6.5a"
+      },
+      {
+        "question": "What is Section 6.6.5b ?",
+        "answer": "Subsection b of Section 6.6.5 addresses provisions related to the use of fire lifts and passenger lifts for the evacuation of occupants, including Persons With Disabilities (PWDs), in buildings during emergencies."
+      },
+      {
+        "question": "Under what conditions can one of the fire lifts be used for evacuation purposes?",
+        "answer": "One of the fire lifts in a building can be used for the evacuation of occupants, including PWDs, if the building is provided with at least two fire lifts. (Section 6.6.5b)"
+      },
+      {
+        "question": "What are the size requirements for a fire lift serving as an evacuation lift for PWDs?",
+        "answer": "A fire lift serving as an evacuation lift for PWDs should have a clear car platform area of at least 1.2m by 1.4m, except for PG II buildings with more than 40 storeys, where the minimum clear car platform size should be at least 1.7m by 1.5m.(Section 6.6.5b)"
+      },
+      {
+        "question": "What is the requirement for buildings without a fire lift?",
+        "answer": "For buildings without a fire lift, at least one of the passenger lifts shall be designated as a PWD evacuation lift.(Section 6.6.5b)"
+      },
+      {
+        "question": "What is the purpose of designing passenger lifts for use together with fire lifts in tall buildings?",
+        "answer": "In buildings exceeding 24 meters in habitable height, all passenger lifts shall be designed for use together with the fire lifts to speed up occupant evacuation during emergencies.(Section 6.6.5b)"
+      },
+      {
+        "question": "What is Section 6.6.5c?",
+        "answer": "Subsection c of Section 6.6.5 focuses on communication requirements related to evacuation lifts and building safety during emergencies."
+      },
+      {
+        "question": "What is the purpose of the lift monitoring system?",
+        "answer": "The lift monitoring system is designed to monitor various aspects of the lift's status, including its location, direction of travel, occupation status, power supplies, and fire alarm activation. It also provides a manual override option for use by firefighters or CERT personnel if necessary. (Section 6.6.5c)"
+      },
+      {
+        "question": "What communication systems are required in the building?",
+        "answer": "The building is required to have a voice communication system, an intercom system in the lift car, and CCTV cameras at lift lobbies for situational awareness. Alternatively, means of communication like a distress button or voice communication can be provided between protected lobbies and the Fire Command Centre (FCC) or any 24-hourly manned station.(Section 6.6.5c)"
+      },
+      {
+        "question": "What are the specific requirements for the location of communication means?",
+        "answer": "The means of communication should be located between 800mm and 1200mm above ground level, appropriately labeled, provided with clear instruction signage on operation, and generate a clear visual indication when activated to signal that the distress signal has been relayed.(Section 6.6.5c)"
+      },
+      {
+        "question": "What is Section 6.6.5d?",
+        "answer": "Subsection d of Section 6.6.5 deals with the installation and operation of an evacuation switch, which is a device used to activate the evacuation mode of the lift for authorized personnel or firefighters.(Section 6.6.5d)"
+      },
+      {
+        "question": "Who is authorized to use the evacuation switch?",
+        "answer": "The evacuation switch can be activated by persons authorized by the building owner or firefighters to activate the evacuation mode of the lift."
+      },
+      {
+        "question": "How should the lift operate under the evacuation mode?",
+        "answer": "Under the evacuation mode, the lift operation should be similar to the firefighter service operation as stipulated in the SS 550.(Section 6.6.5d)"
+      },
+      {
+        "question": "What should the housing of the switching device look like?",
+        "answer": "The switching device should be housed in a breakable glass-fronted box that is marked as 'Evacuation Switch.'(Section 6.6.5d)"
+      },
+      {
+        "question": "What is Section 6.6.5e ?",
+        "answer": "Subsection e of Section 6.6.5 addresses signage requirements for buildings with a PWD evacuation lift. It specifies the placement and size of signage labeled 'Evacuation Lift' adjacent to the lift door at each landing of the evacuation lift. (Section 6.6.5)"
+      },
+      {
+        "question": "Where should the 'Evacuation Lift' sign be affixed in buildings with a PWD evacuation lift?",
+        "answer": "In buildings with a PWD evacuation lift, the 'Evacuation Lift' sign should be prominently affixed onto the wall adjacent to the lift door at every landing of the evacuation lift. (Section 6.6.5)"
+      },
+      {
+        "question": "What is the minimum size requirement for the letters on the 'Evacuation Lift' sign?",
+        "answer": "The size of the letters on the 'Evacuation Lift' sign should not be less than 25mm in height. (Section 6.6.5)"
+      },
+      {
+        "question": "What is Section 6.6.5f?",
+        "answer": "Subsection f of Section 6.6.5 pertains to the requirement for the location of evacuation lifts within a protected lobby, such as a smoke-free lobby, external exit passageway, or external corridor. It also provides exceptions for buildings not exceeding 4 storeys. (Section 6.6.5)"
+      },
+      {
+        "question": "In what types of locations should evacuation lifts be situated as per this subsection?",
+        "answer": "According to this subsection, evacuation lifts should be located within a protected lobby, which can be a smoke-free lobby, external exit passageway, or external corridor. (Section 6.6.5)"
+      },
+      {
+        "question": "Are there any exceptions regarding the provision of a protected lobby for PWD evacuation lifts?",
+        "answer": "Yes, for buildings not exceeding 4 storeys, the provision of a protected lobby for PWD evacuation lifts is not required. However, if passenger lifts are installed in such buildings, these lifts should be provided with a lift evacuation switch for use by emergency responders. If there is no protected lift lobby provided, the PWD Holding Point shall be located inside a protected exit staircase or along the external corridor. (Section 6.6.5)"
+      },
+      {
+        "question": "What is Section 6.6.5g?",
+        "answer": "Subsection g of Section 6.6.5 focuses on the requirements for secondary evacuation lifts in buildings exceeding 24 meters in habitable height. It outlines specific requirements for passenger lifts, including the provision of secondary evacuation switches, power cable routing, and CCTV installations. (Section 6.6.5)"
+      },
+      {
+        "question": "What are the requirements for secondary evacuation switches for passenger lifts?",
+        "answer": "Each passenger lift in buildings exceeding 24 meters in habitable height shall have a secondary evacuation switch labeled accordingly, and these switches shall be provided at the Fire Command Centre (FCC). (Section 6.6.5)"
+      },
+      {
+        "question": "How should power cables for these lifts be routed?",
+        "answer": "Power cables for these lifts should be routed through an area of negligible fire risk. (Section 6.6.5)"
+      },
+      {
+        "question": "What additional requirement is there regarding close circuit television (CCTV) installations?",
+        "answer": "Close circuit television (CCTV) shall be provided at all lift lobbies as part of these requirements. (Section 6.6.5)"
+      },
+      {
+        "question": "Do passenger lifts with secondary evacuation switches need a backup power source for evacuation operation?",
+        "answer": "No, passenger lifts provided with a secondary evacuation switch need not be backed up by a secondary source of supply for evacuation operation. (Section 6.6.5)"
+      },
+      {
+        "question": "What is section 6.6.5?",
+        "answer": " Section 6.6.5, which is related to Evacuation Lifts in building safety regulations. Each subsection addresses specific requirements and provisions concerning evacuation lifts, their operation, communication systems, signage, and other related aspects. In summary, this section is about the rules and guidelines that govern the design, installation, and operation of evacuation lifts to ensure the safe evacuation of occupants, including those with disabilities, during emergencies in buildings."
+      },
+      {
+        "question": "What is Section 6.6.6a?",
+        "answer": "Subsection a of Section 6.6.6 addresses the homing of lifts in buildings equipped with a fire alarm system during a fire emergency. It outlines the procedures for bringing lifts to designated floors or alternate designated floors, depending on various conditions. (Section 6.6.6)"
+      },
+      {
+        "question": "What should happen to all types of lifts when a fire alarm or fire detection device is activated?",
+        "answer": "When any one of the fire detection devices or fire alarm systems is activated during a fire emergency, all types of lifts, including passenger, service, designated fire, and designated evacuation lifts, shall be brought to the designated floor (usually the 1st storey). If the designated floor is a fire floor, lifts shall home to an alternate designated floor and park with the lift landing doors remaining opened. (Section 6.6.6)"
+      },
+      {
+        "question": "How should goods lifts with automatic doors be homed during a fire emergency?",
+        "answer": "Goods lifts with automatic doors should be similarly homed to the designated floor when a fire alarm or fire detection device is activated during a fire emergency. (Section 6.6.6)"
+      },
+      {
+        "question": "Under what conditions should goods lifts with manual doors be homed during a fire emergency?",
+        "answer": "Goods lifts with manual doors should be homed during a fire emergency if the doors are closed. (Section 6.6.6)"
+      },
+      {
+        "question": "What is Section 6.6.6b?",
+        "answer": "Subsection b of Section 6.6.6 deals with the behavior of lifts in buildings equipped with standby generating plants in the event of a power failure or power interruption. It outlines the procedures for switching the lifts to emergency power, bringing them to a designated floor, and resuming operation after a power failure. (Section 6.6.6)"
+      },
+      {
+        "question": "What happens to the lift supply during a power failure or interruption?",
+        "answer": "During a power failure or interruption in the building, the lift supply shall be automatically switched over to the emergency power supply from the generating plant. (Section 6.6.6)"
+      },
+      {
+        "question": "What should be done with the lifts after switching to emergency power?",
+        "answer": "After switching to emergency power, the lifts shall be brought to the designated floor and parked with the lift landing doors remaining open until all the lifts have been brought down to the designated floor. (Section 6.6.6)"
+      },
+      {
+        "question": "When can one or more lifts resume operation after a power failure?",
+        "answer": "After all lifts have been brought down to the designated floor, one or more lifts can resume operation depending on the capacity of the emergency generating plant, in addition to the fire lift. (Section 6.6.6)"
+      },
+      {
+        "question": "What happens to the normal operation of the lift when normal power supply is restored?",
+        "answer": "The normal operation of the lift shall be automatically reset on the return of normal power supply. (Section 6.6.6)"
+      },
+      {
+        "question": "What is Section 6.6.6c?",
+        "answer": "Subsection c of Section 6.6.6 addresses the behavior and requirements for lifts in buildings that do not require standby generating plants or do not have automatic fire alarm or sprinkler systems. It outlines procedures for smoke/heat detectors, Automatic Rescue Devices (ARD), and lift homing under various conditions. (Section 6.6.6)"
+      },
+      {
+        "question": "What are the requirements for smoke/heat detectors in buildings without standby generating plants?",
+        "answer": "In buildings without standby generating plants, smoke/heat detectors shall be part of the lift system and connected to the lift control panel to home the lift under normal power upon activation. All lifts, including hydraulic lifts, shall be provided with an Automatic Rescue Device (ARD) to move and park at the nearest lift landing floor with the lift/landing doors open in the event of a power failure. Homing any of the lifts to a basement storey is not permitted. (Section 6.6.6)"
+      },
+      {
+        "question": "Where should smoke/heat detectors be placed at lift lobbies?",
+        "answer": "Smoke/heat detectors shall be placed at all lift lobbies so that all lifts serving the same lobby shall be brought to the designated floor or alternate designated floor upon activation of the detectors. For buildings without a fire alarm system, the detectors shall be part of the lift system and connected to the lift control panel. (Section 6.6.6)"
+      },
+      {
+        "question": "Are there any exceptions to these lift homing requirements?",
+        "answer": "Yes, the above requirements on homing of lifts need not be applied to residential buildings under PG I or lifts serving within single household dwelling houses classified as cluster housing within PG II developments. (Section 6.6.6)"
+      },
+      {
+        "question": "What is Section 6.6.6d?",
+        "answer": "Subsection d of Section 6.6.6 addresses the requirements and procedures for lifts in mixed developments comprising both residential and non-residential components. It specifies how lifts serving these areas should behave in the event of power failure and/or fire emergencies, including the use of secondary power supply from standby generating plants and Automatic Rescue Devices (ARD). (Section 6.6.6)"
+      },
+      {
+        "question": "What is required for lifts serving both residential and non-residential floors in such developments during power failure and fire emergencies?",
+        "answer": "In mixed developments comprising residential and non-residential components, lifts serving both types of floors shall be required to home to the designated or alternate designated floor (if the designated floor is a fire floor) in the event of power failure and/or fire. These lifts shall also be provided with a secondary power supply from a standby generating plant of sufficient capacity. (Section 6.6.6)"
+      },
+      {
+        "question": "Under what conditions should passenger lifts serving only residential floors have Automatic Rescue Devices (ARD) installed?",
+        "answer": "Passenger lifts serving only residential floors and bypassing non-residential floors in a protected shaft should be equipped with an Automatic Rescue Device (ARD) if the habitable height of the highest floor does not exceed 60 meters. (Section 6.6.6)"
+      },
+      {
+        "question": "What provisions are made for lifts serving upper residential floors and basement non-residential floors in terms of emergency power supply during power failure and fire emergencies?",
+        "answer": "For lifts serving upper residential floors and basement non-residential floors, including car parks, emergency power supply from a standby generating plant is required for homing to the designated floor during power failure. In a fire emergency, these lifts shall be brought to the designated floor or alternate designated floor (if the designated floor is a fire floor) when any of the fire alarm systems in the basement non-residential floor(s) is activated. (Section 6.6.6)"
+      },
+      {
+        "question": "What is Section 6.6.6e?",
+        "answer": "Subsection e of Section 6.6.6 specifies the requirements for identifying and using an alternate designated floor in the event of a fire at the designated floor. It ensures that there is a predefined floor to which lifts should be brought in case of a fire emergency. (Section 6.6.6)"
+      },
+      {
+        "question": "What is the requirement for identifying an alternate designated floor?",
+        "answer": "The requirement is to identify an alternate designated floor (e.g., 2nd storey) in the building. (Section 6.6.6)"
+      },
+      {
+        "question": "Under what circumstances should the lifts be brought to the alternate designated floor?",
+        "answer": "In the event of a fire at the designated floor, the lifts should be brought to the alternate designated floor as specified in this subsection. (Section 6.6.6)"
+      },
+      {
+        "question": "What are the requirements for localized detectors?",
+        "answer": "Subsection (3) of Section 6.6.6 specifies the requirements for localized detectors to cover the lift landing space at the designated floor. These detectors should cover an area within at least 3 meters surrounding the lift landing door opening. In cases where the lift landing is protected by a fire-rated enclosure, only the space within the enclosure needs to be covered by localized detectors. The activation of these detectors or other detectors or sprinklers covering the designated floor will cause all lifts to be redirected to home to the alternate designated floor. (Section 6.6.6)"
+      },
+      {
+        "question": "What are the criteria for selecting the alternative alternate floor?",
+        "answer": "In subsection (4) of Section 6.6.6, the alternative alternate floor should have a minimum fire hazard and be pre-selected for homing passenger lifts. It should also be a location where people can escape to safety, such as an exit staircase or another exit from the lift landing door. (Section 6.6.6)"
+      },
+      {
+        "question": "What provisions are made for buildings under Cl.6.6.6c. without sprinklers or an automatic fire alarm system ?",
+        "answer": "In subsection (5) of Section 6.6.6, for buildings under Cl.6.6.6c. that are not provided with sprinklers or an automatic fire alarm system, suitable sensors at the ceiling level should be provided to cover the lift landing space. The activation of any sensor will cause the lifts to be redirected to home to the alternate floor. (Section 6.6.6)"
+      },
+      {
+        "question": "Are there any exceptions to the requirements on homing lifts to an alternate designated floor?",
+        "answer": "Yes, the above requirements on homing of lifts to an alternate designated floor need not be applied to standalone open-sided car parks and residential buildings under PG I. (Section 6.6.6)"
+      },
+      {
+        "question": "What is section 6.6.6?",
+        "answer": "This section deals with the homing of lifts in various situations, particularly in the context of emergency situations such as fires or power failures. It outlines specific requirements and procedures for different types of buildings and scenarios."
+      },
+      {
+        "question": "What is Section 6.6.7a?",
+        "answer": "Subsection a of Section 6.6.7 outlines the general requirements for lift rescue in buildings with blind lift hoist ways that exceed 11 meters in height. These requirements apply to buildings except for PG I buildings and should be read in conjunction with SS 550. (Section 6.6.7)"
+      },
+      {
+        "question": "What types of buildings does general requirements for lift rescue apply to?",
+        "answer": "Subsection a applies to buildings with blind lift hoist ways that exceed 11 meters in height, except for PG I buildings. (Section 6.6.7)"
+      },
+      {
+        "question": "What is the reference standard?",
+        "answer": "Subsection a mentions that these requirements should be read in conjunction with SS 550, which likely provides additional details and specifications related to lift rescue in such buildings. (Section 6.6.7)"
+      },
+      {
+        "question": "What is Section 6.6.7b?",
+        "answer": "Subsection b of Section 6.6.7 deals with the installation and design requirements for rescue hooks in buildings with blind lift hoist ways where the distance between consecutive lift landing doorsills is more than 11m but less than 18m. These hooks are used for lift rescue operations. (Section 6.6.7b)"
+      },
+      {
+        "question": "Where should rescue hooks be provided ?",
+        "answer": "According to subsection (1), rescue hooks should be provided at the underside of the upper lift landing door head when the distance between consecutive lift landing doorsills is more than 11m but less than 18m. (Section 6.6.7b)"
+      },
+      {
+        "question": "What is the alternative location for installing rescue hooks ?",
+        "answer": "In subsection (2), it is mentioned that rescue hooks can alternatively be installed in the ceiling space directly above the upper lift landing door. These hooks should not be more than 3m above the finished floor level of that upper lift landing and should be approximately 1m away from the lift shaft wall. A sign indicating the locations of the rescue hooks should also be provided. (Section 6.6.7b)"
+      },
+      {
+        "question": "What are the design requirements for rescue hooks ?",
+        "answer": "Subsection (3) specifies the design requirements for rescue hooks. Each rescue hook should have a pull-out strength of at least 1000kg (10kN) and a thickness of at most 14mm in diameter. The clear space between the hook and the emergency door frame should not be less than 100mm, and the spacing between the two hooks should be between 500 to 700mm. (Section 6.6.7b)"
+      },
+      {
+        "question": "What Section 6.6.7c?",
+        "answer": "Subsection c of Section 6.6.7 pertains to the requirements for landing emergency doors in buildings with blind lift hoist ways. These requirements apply when the distance between consecutive lift landing doorsills exceeds 18m, and they aim to ensure safety and accessibility in case of lift emergencies. (Section 6.6.7c)"
+      },
+      {
+        "question": "Under what conditions are intermediate landing emergency doors required ?",
+        "answer": "According to subsection (1), intermediate landing emergency doors are required when the distance between consecutive lift landing doorsills exceeds 18m. However, if adjacent cars are fitted with car emergency doors complying with Cl.6.6.7d, then intermediate landing emergency doors are not required. (Section 6.6.7c)"
+      },
+      {
+        "question": "What are the requirements for the dimensions and type of landing emergency doors ?",
+        "answer": "Subsection (2) outlines several requirements for landing emergency doors, including compliance with the dimensions specified in SS 550, the use of horizontally sliding or swinging single-leaf doors, self-closing and self-locking mechanisms, and the presence of a warning sign marked 'DANGER, LIFT WELL.' These doors should also have a landing door lock unlockable only from the landing side using a specific key. Additionally, each door should have an electrical contact that renders the lift inoperable when opened. Finally, two rescue hooks complying with Cl.6.6.7b.(3) should be provided at the underside of each emergency door head or in the ceiling space. (Section 6.6.7c)"
+      },{
+        "question": "What is Section 6.6.7d?",
+        "answer": "Subsection d of Section 6.6.7 outlines the requirements and standards for car emergency doors in adjacent lift cars. These doors play a crucial role in enabling lift-to-lift rescue and passenger evacuation during emergencies. The section provides specifications and safety measures related to car emergency doors. (Section 6.6.7d)"
+      },
+      {
+        "question": "Under what conditions is there no limit on the maximum allowable length of the blind lift hoist way?",
+        "answer": "Subsection (1) of Section 6.6.7d states that when car emergency doors are provided in adjacent cars to facilitate lift-to-lift rescue and evacuation of passengers, there is no limit on the maximum allowable length of the blind lift hoist way. This means that car emergency doors can be used to address longer hoist way distances during emergencies. (Section 6.6.7d)"
+      },
+      {
+        "question": "What are the key requirements for car emergency doors ?",
+        "answer": "Subsection (2) of Section 6.6.7d outlines several requirements for car emergency doors, including compliance with horizontal distance and dimension requirements specified in SS 550. These doors should be openable from outside the car without a key and from inside the car using a key. They must open toward the inside of the car and should not obstruct the path of a counterweight or fixed obstacle. Additionally, they should be equipped with a portable/movable bridge or a bridge integrated into the car, complying with SS 550. Each car emergency door should also have an electrical safety device that renders the lift inoperable when opened. Furthermore, a safety feature to prevent lift operation when the bridging plate or handrail is deployed is required. (Section 6.6.7d)"
+      },
+      {
+        "question": "What is the effective date of the regulations ?",
+        "answer": "The effective date of the regulations in Section 6.6.7d is March 1, 2023, with an update as of August 25, 2023. These regulations specify the standards and requirements for car emergency doors in lift cars. (Section 6.6.7d)"
+      },{
+        "question": "What is Section 6.6.7?",
+        "answer": "This section outlines safety provisions for buildings with blind lift hoist ways exceeding 11 meters, including requirements for rescue hooks, landing emergency doors, and car emergency doors."
+      },{
+        "question": "What is Section 6.7.1?",
+        "answer": "Section 6.7.1 specifies the equipment, fixtures, and fittings related to fire protection systems that must be painted in red. It also provides guidelines for the color scheme of other equipment in accordance with relevant Codes of Practice."
+    },
+    {
+        "question": "Which equipment related to the fire sprinkler system should be painted in red?",
+        "answer": "The following equipment for the fire sprinkler system should be painted in red: (1) Fire pump & control panel, (2) Breeching inlet (excluding breeching inlet cabinet/enclosure), (3) Sprinkler control valve, and (4) Sprinkler water proofing system/device. (Section 6.7.1)"
+    },
+    {
+        "question": "What are the requirements for the color of electrical fire alarm system equipment?",
+        "answer": "For electrical fire alarm system equipment, the main fire alarm panel/cabinet, sub fire alarm panel/cabinet, and manual call point should be painted in red. However, it's important to note that the fire alarm bell need not be in red. Visual alarm light housing is also specified but need not be red. (Section 6.7.1)"
+    },
+    {
+        "question": "What are the color requirements for private fire hydrants?",
+        "answer": "For private fire hydrants, a wet pillar hydrant should have a yellow band in accordance with SS 575. A dry pillar hydrant should be entirely in yellow. (Section 6.7.1)" 
+    },
+    {
+        "question": "What equipment related to wet/dry rising mains should be painted in red?",
+        "answer": "The following equipment for wet/dry rising mains should be painted in red: (1) Fire pump & control panel, (2) Breeching inlet (excluding breeching inlet cabinet/enclosure), (3) Wet riser breeching inlet, and (7) Standby hose cabinet/enclosure. However, the dry riser breeching inlet should be in yellow. (Section 6.7.1)"
+    },
+    {
+        "question": "What are the color requirements for hose reel system equipment?",
+        "answer": "For the hose reel system, the hose reel pump & control panel should be painted in red. The hose reel drum, excluding the cabinet/enclosure, is also included. (Section 6.7.1)"
+    },
+    {
+        "question": "Which equipment related to the total flooding fire extinguishing system should be painted in red?",
+        "answer": "For the total flooding fire extinguishing system, the breathing apparatus cabinet/enclosure should be painted in red. (Section 6.7.1)"
+    },
+    {
+        "question": "What is the requirement for the color of Emergency Voice Communication System equipment?",
+        "answer": "For the Emergency Voice Communication System, the handset, cabinet, and enclosure should be painted in red. (Section 6.7.1)"
+    },
+    {
+        "question": "What are the color requirements for fire extinguisher equipment?",
+        "answer": "For fire extinguisher equipment, the housing cabinet/enclosure should be painted in red. Alternatively, red graphic signage or red wordings 'Fire Extinguisher' of minimum size 20mm shall be provided. (Section 6.7.1)"
+    },
+    {
+        "question": "When does section 6.7.1 become effective?",
+        "answer": "This section, 6.7.1, became effective on 10 May 2019."
+    },
+    {
+        "question": "What is the purpose of Section 6.7.2?",
+        "answer": "Section 6.7.2 addresses the requirements for pipework, conduits, trunkings, and cable trays related to fire protection systems. It specifies that for components not required to be painted in red, red color bands of at least 20mm in width and labeling must be provided at intervals not exceeding 6 meters."
+    },
+    {
+        "question": "What is Section 6.7.2 ?",
+        "answer": "Section 6.7.2 applies to pipework, conduits, trunkings, and cable trays used in fire protection systems."
+    },
+    {
+        "question": "Under what circumstances are red color bands and labeling required?",
+        "answer": "Red color bands and labeling are required when the pipework, conduits, trunkings, and cable trays used in fire protection systems are not already painted in red. Section 6.7.2"
+    },
+    {
+        "question": "What are the specifications for the red color bands?",
+        "answer": "The red color bands should have a minimum width of 20mm. Section 6.7.2"
+    },
+    {
+        "question": "How should the red color bands be applied?",
+        "answer": "The red color bands should be provided at intervals not exceeding 6 meters along the length of the pipework, conduits, trunkings, or cable trays. Section 6.7.2"
+    },
+    {
+        "question": "Is labeling required in addition to the red color bands?",
+        "answer": "Yes, labeling must also be provided along with the red color bands. Section 6.7.2"
+    },
+    {
+        "question": "What is the purpose of the labeling?",
+        "answer": "The labeling serves to provide information or identification related to the components in the fire protection system. Section 6.7.2"
+    },
+    {
+        "question": "What is Section 6.7.3 ?",
+        "answer": "Section 6.7.3 pertains to the use of graphical symbols to depict fire safety equipment in buildings. Section 6.7.3"
+    },
+    {
+        "question": "Are graphical symbols allowed for representing fire safety equipment?",
+        "answer": "Yes, graphical symbols are allowed for use in buildings to represent fire safety equipment. Section 6.7.3"
+    },
+    {
+        "question": "What is the condition for using graphical symbols for fire safety equipment?",
+        "answer": "The graphical symbols must comply with SS 508 to be eligible for use. Section 6.7.3"
+    },
+    {
+        "question": "What format options are available for designing fire safety signage?",
+        "answer": "Fire safety signage can be designed in either graphic or text format. Section 6.7.3"
+    },
+    {
+        "question": "Is there a specification for different sizes of graphical symbols?",
+        "answer": "Yes, the section provides a table specifying different sizes of graphical symbols based on viewing distance. Section 6.7.3" 
+    },
+    {
+        "question": "What is the purpose of using graphical symbols for fire safety equipment?",
+        "answer": "Using graphical symbols helps convey information about the location and presence of fire safety equipment in a clear and universally understandable manner. Section 6.7.3"
+    },
+    {
+        "question": "What standard or guideline must graphical symbols adhere to?",
+        "answer": "Graphical symbols must comply with SS 508 to ensure they meet the required standards for fire safety signage. Section 6.7.3"
+    },
+    {
+        "question": "What is section 6.8?",
+        "answer": "Section 6.8, titled REDUNDANCY FOR FIRE PUMPING SYSTEM, outlines the requirement for redundancy in the pumping system used for wet rising mains, hose reels, sprinklers, and hydrants. This redundancy ensures that the system remains operational even when one of the pumps or its associated control system is temporarily out of operation due to maintenance or breakdown. This provision is critical for maintaining the reliability of fire protection systems in buildings. The effective date of this requirement is March 1, 2019."
+    }
 
 ]
 
