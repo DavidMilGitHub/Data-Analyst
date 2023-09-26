@@ -14,23 +14,23 @@ import fitz  # PyMuPDF
 os.environ["OPENAI_API_KEY"] = "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"
 
 # Create a Streamlit app
-st.title("PDF Text Analysis and QA")
+st.title("Dental Practice")
 
-# Local path to the PDF file (replace with your actual file path)
-pdf_file_path = "C:\\Users\\user\\Desktop\\test_folder\\docs\\DentalClinicManual.pdf"
+# URL of the PDF file on GitHub (replace with your actual GitHub URL)
+pdf_github_url = "https://github.com/username/repo/raw/main/path/to/PDF/file.pdf"
 
 # Initialize pdf_content as an empty string
 pdf_content = ""
 
-# Read the content of the PDF file using PyMuPDF
+# Fetch the PDF content from GitHub
 try:
-    pdf_document = fitz.open(pdf_file_path)
-    for page_number in range(len(pdf_document)):
-        page = pdf_document.load_page(page_number)
-        pdf_content += page.get_text()
-    pdf_document.close()
-except FileNotFoundError:
-    st.warning("PDF file not found. Please check the file path.")
+    response = requests.get(pdf_github_url)
+    if response.status_code == 200:
+        pdf_content = response.content.decode('utf-8')
+    else:
+        st.warning("Failed to fetch the PDF. Please check the URL.")
+except Exception as e:
+    st.warning("An error occurred while fetching the PDF: " + str(e))
 
 # Create function to count tokens
 tokenizer = GPT2TokenizerFast.from_pretrained("gpt2")
