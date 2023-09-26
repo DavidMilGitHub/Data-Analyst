@@ -59,10 +59,6 @@ def handle_userinput(user_question):
             st.write(bot_template.replace(
                 "{{MSG}}", message.content), unsafe_allow_html=True)
 
-import requests
-import pdfplumber
-import io
-
 
 github_txt_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/DentalBot/dental.txt'
 
