@@ -11,7 +11,7 @@ from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
 import io
-
+import pdfreader
 
 
 def get_pdf_text(pdf_file_path):
