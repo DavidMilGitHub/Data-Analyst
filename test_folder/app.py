@@ -34,7 +34,7 @@ st.title("PDF Text Analysis and QA")
 #     st.warning("PDF file not found. Please check the file path.")
 
 # URL of the PDF file on GitHub (replace with your actual GitHub URL)
-pdf_github_url = "https://github.com/username/repo/raw/main/path/to/PDF/file.pdf"
+pdf_github_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/test_folder/docs/DentalClinicManual.pdf"
 
 # Initialize pdf_content as an empty string
 pdf_content = ""
