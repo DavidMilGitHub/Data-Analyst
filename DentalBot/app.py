@@ -10,9 +10,9 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
+import tempfile
 
 
-import io
 
 def get_pdf_text(pdf_file_path):
     text = ""
@@ -60,23 +60,32 @@ def handle_userinput(user_question):
                 "{{MSG}}", message.content), unsafe_allow_html=True)
 
 def get_pdf_text(pdf_url):
-    # Download the PDF content from the GitHub raw content URL
+    # Fetch the PDF content from the GitHub raw content URL
     response = requests.get(pdf_url)
     response.raise_for_status()  # Check if the request was successful
     pdf_content = response.content
 
-    # Extract text from the downloaded PDF content
-    pdf_reader = PdfReader(io.BytesIO(pdf_content))
+    # Save the PDF content to a temporary file
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
+        temp_file.write(pdf_content)
+        temp_file_path = temp_file.name
+
+    # Extract text from the temporary PDF file
+    pdf_reader = PdfReader(open(temp_file_path, "rb"))
     text = ""
-    for page in pdf_reader.pages:
-        text += page.extract_text()
+    for page_number in range(len(pdf_reader.pages)):
+        text += pdf_reader.pages[page_number].extract_text()
+
+    # Clean up: remove the temporary file
+    temp_file.close()
+    st.session_state.temp_file_path = temp_file_path  # Store for cleanup
     return text
 
 # Define other functions (get_text_chunks, get_vectorstore, get_conversation_chain, handle_userinput) as before
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Chat with PDF", page_icon=":books:")
+    st.set_page_config(page_title="Dental Practice", page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
 
     if "conversation" not in st.session_state:
@@ -97,6 +106,16 @@ def main():
     user_question = st.text_input("Ask a question about the PDF:")
     if user_question:
         handle_userinput(user_question)
+
+    # Cleanup: Remove the temporary PDF file
+    if "temp_file_path" in st.session_state:
+        temp_file_path = st.session_state.temp_file_path
+        st.session_state.pop("temp_file_path", None)  # Remove from session state
+        try:
+            import os
+            os.remove(temp_file_path)
+        except Exception as e:
+            st.error(f"Failed to remove temporary file: {str(e)}")
 
 if __name__ == '__main__':
     main()
