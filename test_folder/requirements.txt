@@ -4,3 +4,4 @@ tiktoken
 transformers 
 openai 
 faiss-cpu
+fitz
