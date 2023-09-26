@@ -10,7 +10,7 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
-import tempfile
+import temp
 
 
 
@@ -66,7 +66,7 @@ def get_pdf_text(pdf_url):
     pdf_content = response.content
 
     # Save the PDF content to a temporary file
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
+    with temp.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
         temp_file.write(pdf_content)
         temp_file_path = temp_file.name
 
