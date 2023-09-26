@@ -11,6 +11,9 @@ from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
 
+
+import io
+
 def get_pdf_text(pdf_file_path):
     text = ""
     pdf_reader = PdfReader(pdf_file_path)
