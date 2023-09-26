@@ -9,9 +9,17 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 from langchain.chains import ConversationalRetrievalChain
 import fitz  # PyMuPDF
+import json
+
+# Load the configuration from the file
+with open('config.json', 'r') as config_file:
+    config = json.load(config_file)
+
+# Access your API keys from the configuration
+openai_api_key = config.get('OPENAI_API_KEY')
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = openai_api_key
 
 # Create a Streamlit app
 st.title("Dental Practice")
