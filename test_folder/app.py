@@ -17,7 +17,7 @@ os.environ["OPENAI_API_KEY"] = "sk-e4T7rs83K2JKpXzC2r5aT3BlbkFJKhAM4hs0wmsbWPkT8
 st.title("Dental Practice")
 
 # URL of the PDF file on GitHub (replace with your actual GitHub URL)
-pdf_github_url = "https://github.com/username/repo/raw/main/path/to/PDF/file.pdf"
+pdf_github_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/test_folder/docs/DentalClinicManual.pdf"
 
 # Initialize pdf_content as an empty string
 pdf_content = ""
