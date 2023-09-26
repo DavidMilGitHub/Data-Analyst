@@ -1,3 +1,4 @@
+
 import streamlit as st
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
@@ -11,7 +12,9 @@ from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
 import io
-import pdfreader
+import fitz
+import tempfile
+# import pdfreader
 
 
 def get_pdf_text(pdf_file_path):
@@ -59,18 +62,25 @@ def handle_userinput(user_question):
             st.write(bot_template.replace(
                 "{{MSG}}", message.content), unsafe_allow_html=True)
 
-def get_pdf_text(pdf_url):
-    # Fetch the PDF content from the GitHub raw content URL
-    response = requests.get(pdf_url)
-    response.raise_for_status()  # Check if the request was successful
-    pdf_content = response.content
+import requests
+import pdfplumber
+import io
 
-    # Extract text from the downloaded PDF content
-    pdf_reader = PdfReader(io.BytesIO(pdf_content))
-    text = ""
-    for page in pdf_reader.pages:
-        text += page.extract_text()
-    return text
+
+github_txt_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/DentalBot/dental.txt'
+
+
+def fetch_txt_from_github(txt_url):
+    try:
+        response = requests.get(txt_url)
+        response.raise_for_status()  # Check if the request was successful
+        return response.text
+    except Exception as e:
+        st.error("An error occurred while fetching the text file: " + str(e))
+        return None
+
+
+
 
 # Define other functions (get_text_chunks, get_vectorstore, get_conversation_chain, handle_userinput) as before
 
@@ -87,19 +97,28 @@ def main():
     st.header("Chat with PDF :books:")
 
     # Specify the GitHub raw content URL of the PDF file
-    github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/DentalClinicManual.pdf"
+    github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/7ee33a509e4c73903152a0505cd93540d35119aa/DentalBot/DentalClinicManual.pdf"
 
     # Get PDF text from the GitHub URL
-    raw_text = get_pdf_text(github_pdf_url)
+    # raw_text = get_pdf_text(github_pdf_url)
+    raw_text = fetch_txt_from_github(github_txt_url)
 
-    # Get the text chunks, create vector store, and conversation chain as before
+    # Get PDF text
+        # raw_text = get_pdf_text(pdf_file_path)
 
+    # Get the text chunks
+    text_chunks = get_text_chunks(raw_text)
+
+    # Create vector store
+    vectorstore = get_vectorstore(text_chunks)
+
+    # Create conversation chain
+    st.session_state.conversation = get_conversation_chain(vectorstore)
+    
     user_question = st.text_input("Ask a question about the PDF:")
     if user_question:
         handle_userinput(user_question)
 
 if __name__ == '__main__':
     main()
-
-
 
