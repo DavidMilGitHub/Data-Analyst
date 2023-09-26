@@ -87,7 +87,7 @@ def main():
     st.header("Chat with PDF :books:")
 
     # Specify the GitHub raw content URL of the PDF file
-    github_pdf_url = "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/DentalClinicManual.pdf"
+    github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/DentalClinicManual.pdf"
 
     # Get PDF text from the GitHub URL
     raw_text = get_pdf_text(github_pdf_url)
