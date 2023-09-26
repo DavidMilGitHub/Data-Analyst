@@ -66,7 +66,7 @@ def get_pdf_text(pdf_url):
     pdf_content = response.content
 
     # Save the PDF content to a temporary file
-    with temp.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
+    with temp.TemporaryFile(delete=False, suffix=".pdf") as temp_file:
         temp_file.write(pdf_content)
         temp_file_path = temp_file.name
 
