@@ -10,7 +10,7 @@ from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 import requests
-import temp
+import io
 
 
 
@@ -65,27 +65,18 @@ def get_pdf_text(pdf_url):
     response.raise_for_status()  # Check if the request was successful
     pdf_content = response.content
 
-    # Save the PDF content to a temporary file
-    with temp.TemporaryFile(delete=False, suffix=".pdf") as temp_file:
-        temp_file.write(pdf_content)
-        temp_file_path = temp_file.name
-
-    # Extract text from the temporary PDF file
-    pdf_reader = PdfReader(open(temp_file_path, "rb"))
+    # Extract text from the downloaded PDF content
+    pdf_reader = PdfReader(io.BytesIO(pdf_content))
     text = ""
-    for page_number in range(len(pdf_reader.pages)):
-        text += pdf_reader.pages[page_number].extract_text()
-
-    # Clean up: remove the temporary file
-    temp_file.close()
-    st.session_state.temp_file_path = temp_file_path  # Store for cleanup
+    for page in pdf_reader.pages:
+        text += page.extract_text()
     return text
 
 # Define other functions (get_text_chunks, get_vectorstore, get_conversation_chain, handle_userinput) as before
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Dental Practice", page_icon=":books:")
+    st.set_page_config(page_title="Chat with PDF", page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
 
     if "conversation" not in st.session_state:
@@ -94,9 +85,9 @@ def main():
         st.session_state.chat_history = None
 
     st.header("Chat with PDF :books:")
-    
+
     # Specify the GitHub raw content URL of the PDF file
-    github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/DentalClinicManual.pdf"
+    github_pdf_url = "https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/DentalClinicManual.pdf"
 
     # Get PDF text from the GitHub URL
     raw_text = get_pdf_text(github_pdf_url)
@@ -107,17 +98,8 @@ def main():
     if user_question:
         handle_userinput(user_question)
 
-    # Cleanup: Remove the temporary PDF file
-    if "temp_file_path" in st.session_state:
-        temp_file_path = st.session_state.temp_file_path
-        st.session_state.pop("temp_file_path", None)  # Remove from session state
-        try:
-            import os
-            os.remove(temp_file_path)
-        except Exception as e:
-            st.error(f"Failed to remove temporary file: {str(e)}")
-
 if __name__ == '__main__':
     main()
+
 
 
