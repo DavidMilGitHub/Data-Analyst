@@ -29,7 +29,7 @@ if response.status_code == 200:
     # Use PyPDFLoader to load the uploaded PDF
     document = []
     loader = PyPDFLoader(uploaded_pdf)
-     document.extend(loader.load())
+    document.extend(loader.load())
         
     # Now 'document' contains the text extracted from the uploaded PDF
 
