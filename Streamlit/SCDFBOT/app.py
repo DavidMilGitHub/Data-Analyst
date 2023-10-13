@@ -37,6 +37,11 @@ else:
     st.write("Failed to download the PDF file from GitHub")
 
 
+github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/7ee33a509e4c73903152a0505cd93540d35119aa/DentalBot/DentalClinicManual.pdf"
+response = requests.get(github_pdf_url)
+raw_text = response.txt
+
+document.extend(raw_text)
 
 document_splitter=CharacterTextSplitter(separator='\n', chunk_size=500, chunk_overlap=100)
 
@@ -70,7 +75,7 @@ def get_chatbot_response(question):
 def main():
     # Create a Streamlit app
     st.title("Chatbot App")
-
+    
     # Add a text input field for user questions
     user_question = st.text_input("Ask a question")
 
