@@ -26,21 +26,16 @@ github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Strea
 response = requests.get(github_pdf_url)
 
 if response.status_code == 200:
-    # Create a Streamlit file_uploader widget to allow users to upload the PDF
-    uploaded_pdf = st.file_uploader("Upload PDF File", type=["pdf"])
-
-    if uploaded_pdf is not None:
-        # Use PyPDFLoader to load the uploaded PDF
-        document = []
-        loader = PyPDFLoader(uploaded_pdf)
-        document.extend(loader.load())
+    # Use PyPDFLoader to load the uploaded PDF
+    document = []
+    loader = PyPDFLoader(uploaded_pdf)
+     document.extend(loader.load())
         
-        # Now 'document' contains the text extracted from the uploaded PDF
+    # Now 'document' contains the text extracted from the uploaded PDF
 
 else:
     st.write("Failed to download the PDF file from GitHub")
 
-# Rest of your Streamlit app code
 
 
 document_splitter=CharacterTextSplitter(separator='\n', chunk_size=500, chunk_overlap=100)
