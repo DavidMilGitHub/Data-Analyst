@@ -91,7 +91,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Chat with PDF :books:")
+    st.header("SCDF Bot :books:")
 
     # Specify the GitHub raw content URL of the PDF file
     github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/7ee33a509e4c73903152a0505cd93540d35119aa/DentalBot/DentalClinicManual.pdf"
