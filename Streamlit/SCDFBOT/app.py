@@ -22,20 +22,19 @@ document=[]
 # Specify the URL of the PDF file on GitHub
 
 
-# Specify the URL of the text file on GitHub
-github_text_url = "https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/Streamlit/SCDFBOT/CLAUSE3.txt"
+# GitHub URL for the PDF file
+github_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Streamlit/SCDFBOT/Base.pdf"
 
-# Download the text file from GitHub
-response = requests.get(github_text_url)
+# Use requests to fetch the PDF content
+response = requests.get(github_url)
 
+# Check if the request was successful (status code 200)
 if response.status_code == 200:
-    # Extract the text content from the response
-    raw_text = response.text
-
-    # Split the text into lines
-    document = raw_text.split('\n')
+    loader = PyPDFLoader(github_url)
+    document = loader.load()
 else:
-    print("Failed to download the text file from GitHub")
+    print("Failed to fetch the PDF from GitHub.")
+    exit(1)
 
 document_splitter=CharacterTextSplitter(separator='\n', chunk_size=500, chunk_overlap=100)
 
