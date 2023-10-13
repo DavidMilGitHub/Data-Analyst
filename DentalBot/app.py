@@ -63,7 +63,8 @@ def handle_userinput(user_question):
                 "{{MSG}}", message.content), unsafe_allow_html=True)
 
 
-github_txt_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/DentalBot/dental.txt'
+#github_txt_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/DentalBot/dental.txt'
+github_txt_url = 'https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/Streamlit/SCDFBOT/CLAUSE3.txt'
 
 
 def fetch_txt_from_github(txt_url):
