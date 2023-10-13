@@ -83,7 +83,7 @@ def fetch_txt_from_github(txt_url):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Chat with PDF", page_icon=":books:")
+    st.set_page_config(page_title="SCDF Bot", page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
 
     if "conversation" not in st.session_state:
@@ -112,7 +112,7 @@ def main():
     # Create conversation chain
     st.session_state.conversation = get_conversation_chain(vectorstore)
     
-    user_question = st.text_input("Ask a question about the PDF:")
+    user_question = st.text_input("Ask a question chapter 3 for now:")
     if user_question:
         handle_userinput(user_question)
 
