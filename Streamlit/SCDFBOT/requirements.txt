@@ -1,4 +1,4 @@
-pypdf
+pypdf==3.16.2
 streamlit==1.25.0
 requests==2.31.0
 langchain==0.0.184
