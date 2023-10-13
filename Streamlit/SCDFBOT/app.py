@@ -28,7 +28,7 @@ response = requests.get(github_pdf_url)
 if response.status_code == 200:
     # Use PyPDFLoader to load the uploaded PDF
     document = []
-    loader = PyPDFLoader(github_pdf_url)
+    loader = PyPDFLoader(response)
     document.extend(loader.load())
         
     # Now 'document' contains the text extracted from the uploaded PDF
