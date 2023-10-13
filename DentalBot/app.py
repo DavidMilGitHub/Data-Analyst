@@ -112,7 +112,7 @@ def main():
     # Create conversation chain
     st.session_state.conversation = get_conversation_chain(vectorstore)
     
-    user_question = st.text_input("Ask a question chapter 3 for now:")
+    user_question = st.text_input("Ask a question, only from chapter 3 for now:")
     if user_question:
         handle_userinput(user_question)
 
