@@ -20,21 +20,6 @@ document=[]
 # loader=PyPDFLoader(pdf_path)
 # document.extend(loader.load())
 # Specify the URL of the PDF file on GitHub
-github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Streamlit/SCDFBOT/Base.pdf"
-
-# Download the PDF file from GitHub
-response = requests.get(github_pdf_url)
-
-if response.status_code == 200:
-    # Use PyPDFLoader to load the uploaded PDF
-    document = []
-    loader = PyPDFLoader(github_pdf_url)
-    document.extend(loader.load())
-        
-    # Now 'document' contains the text extracted from the uploaded PDF
-
-else:
-    st.write("Failed to download the PDF file from GitHub")
 
 
 github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/7ee33a509e4c73903152a0505cd93540d35119aa/DentalBot/DentalClinicManual.pdf"
