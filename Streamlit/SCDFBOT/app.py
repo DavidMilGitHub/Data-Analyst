@@ -22,11 +22,20 @@ document=[]
 # Specify the URL of the PDF file on GitHub
 
 
-github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/7ee33a509e4c73903152a0505cd93540d35119aa/DentalBot/DentalClinicManual.pdf"
-response = requests.get(github_pdf_url)
-raw_text = response.txt
+# Specify the URL of the text file on GitHub
+github_text_url = "https://raw.githubusercontent.com/DavidMilGitHub/Data-Analyst/main/Streamlit/SCDFBOT/CLAUSE3.txt"
 
-document.extend(raw_text)
+# Download the text file from GitHub
+response = requests.get(github_text_url)
+
+if response.status_code == 200:
+    # Extract the text content from the response
+    raw_text = response.text
+
+    # Split the text into lines
+    document = raw_text.split('\n')
+else:
+    print("Failed to download the text file from GitHub")
 
 document_splitter=CharacterTextSplitter(separator='\n', chunk_size=500, chunk_overlap=100)
 
