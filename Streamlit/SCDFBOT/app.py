@@ -15,12 +15,12 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # Initialize your chatbot components (document, loader, embeddings, etc.)
 # ... (Code you provided in your question)
-# document=[]
+document=[]
 # pdf_path="C:\\Users\\user\\Desktop\\CLAUSE3.pdf"
 # loader=PyPDFLoader(pdf_path)
 # document.extend(loader.load())
 # Specify the URL of the PDF file on GitHub
-github_pdf_url = "https://github.com/username/repo/raw/main/path/to/CLAUSE3.pdf"
+github_pdf_url = "https://github.com/DavidMilGitHub/Data-Analyst/blob/main/Streamlit/SCDFBOT/Base.pdf"
 
 # Download the PDF file from GitHub
 response = requests.get(github_pdf_url)
