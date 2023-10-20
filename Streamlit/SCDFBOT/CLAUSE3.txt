@@ -1,1754 +1,110 @@
-﻿
+
 CLAUSE 3.1 - GENERAL
 The purpose of this chapter of the Code is to stipulate requirements to minimise the risk of spread of fire between adjoining buildings by separation, prevent the untimely collapse of buildings in the event of fire by the provision of a stable and durable form of construction and prevent the spread of fire between specified parts of the buildings by the division of such buildings into compartments.
 Updated 25 Aug 2023
-
-
-
+------
 CLAUSE 3.2 - PROVISION OF COMPARTMENT WALLS AND COMPARTMENT FLOORS
-
-
-
-3.2.1 Compartment size - floor area & cubical extent
-
-Any building other than a building of PG I which has any storey the floor area of which exceeds that specified as relevant to a building of that height in column (2) of Table 3.2A or a cubic capacity which exceeds that specified as relevant in column (3)
-
-of Table 3.2A, shall be divided into compartments by means of compartment walls and compartment floors so that:
-a. no such compartment has any storey the floor area of which exceeds the area specified as relevant to the building in column (2) of the table; and
-b. no such compartment has a cubic capacity which exceeds that specified as relevant in column (3) of the table.
-
-
-
-3.2.2 Cubical extent for compartment exceeding 4m in height
-a. In computing the cubical extent of compartments in single storey buildings such as factories, sport halls, markets, food courts, multi -purposes halls, cinemas, concert halls, churches, temples and similar buildings, the height of 4m shall be used where the actual height exceeds that figure.
-If the compartment comprises or contains mezzanine, galleries or lofts, the full height of the compartment shall be used in computing the cubical exten t for each storey, mezzanine, galleries or lofts.
-
-b. Where two buildings are connected by external open -sided covered walkway or open-sided covered link -bridge, the buildings are considered as separate buildings, if they comply with the following conditi ons:
-There is no commercial activities or other usage that would pose a fire risk within the covered walkway or link -bridge.
-(1) The width of the covered walkway or covered link -bridge shall not exceed
-
-5m measured from eave to eave.
-
-
-
-3.2.3 Exemption of compartmentation
-
+section 3.2.1 Compartment size - floor area & cubical extent
+Any building other than a building of PG I which has any storey the floor area of which exceeds that specified as relevant to a building of that height in column (2) of Table 3.2A or a cubic capacity which exceeds that specified as relevant in column (3) of Table 3.2A, shall be divided into compartments by means of compartment walls and compartment floors so that: A. no such compartment has any storey the floor area of which exceeds the area specified as relevant to the building in column (2) of the table; and b. no such compartment has a cubic capacity which exceeds that specified as relevant in column (3) of the table.
+------
+section 3.2.2 Cubical extent for compartment exceeding 4m in height
+a. In computing the cubical extent of compartments in single storey buildings such as factories, sport halls, markets, food courts, multi -purposes halls, cinemas, concert halls, churches, temples and similar buildings, the height of 4m shall be used where the actual height exceeds that figure. If the compartment comprises or contains mezzanine, galleries or lofts, the full height of the compartment shall be used in computing the cubical exten t for each storey, mezzanine, galleries or lofts. b. Where two buildings are connected by external open -sided covered walkway or open-sided covered link -bridge, the buildings are considered as separate buildings, if they comply with the following conditi ons: There is no commercial activities or other usage that would pose a fire risk within the covered walkway or link -bridge.
+(1) The width of the covered walkway or covered link -bridge shall not exceed 5m measured from eave to eave.
+------
+section 3.2.3 Exemption of compartmentation
 Cl.3.2.1 is not applicable if the building:
-a. is fitted throughout with an automatic sprinkler system which complies with the requirements in Chapter 6; and
-b. complies with Cl.3.2.4, Cl.3.2.6, Cl.7.4 and Cl.9.8.3.
-
-
-3.2.4. Compartmentation by height
-a. In any compartment except those mentioned under Cl.9.1, up to a habitable height of 24m, no compartment shall comprise more than three storeys. This requirement can be relaxed for atrium spaces provided the design of such spaces complies with the conditions stipulated under Cl.3.2.6.
-
-b. In any building which exceeds 24m in habitable height, no compartment shall comprise more than one storey for compartments at storey level exceeding 24m above average ground level, other than a compartment which is within a residential maisonette which may comprise two storey levels.
-
-
-
-3.2.5 Areas requiring compartmentation
-
+a. is fitted throughout with an automatic sprinkler system which complies with the requirements in Chapter 6; and b. complies with Cl.3.2.4, Cl.3.2.6, Cl.7.4 and Cl.9.8.3.
+------
+section 3.2.4. Compartmentation by height
+a. In any compartment except those mentioned under Cl.9.1, up to a habitable height of 24m, no compartment shall comprise more than three storeys. This requirement can be relaxed for atrium spaces provided the design of such spaces complies with the conditions stipulated under Cl.3.2.6. b. In any building which exceeds 24m in habitable height, no compartment shall comprise more than one storey for compartments at storey level exceeding 24m above average ground level, other than a compartment which is within a residential maisonette which may comprise two storey levels.
+------
+section 3.2.5 Areas requiring compartmentation
 The following situations shall require compartmentation by provision of compartment walls and/or compartment floors:
-a. PG II buildings
-Any wall and floor separating a residential apartment or maisonette from any other part of the same building, unless permitted (as in the case of an external wall adjoining an external corridor, for provision of window openings).
-
-b. Areas of different purpose groups
-Any wall and floor separating part of a building from any other part of the same building which is used or intended to be used mainly for a purpose falling within a different purpose group, as identified under Table 1.4A, except the following:
-(1) ancillary offices located within a building or compartment of PG III, V, VI, VII and VIII, or.
-(2) rooms or spaces for ancillary usage located within a building or compartment of PG III to VIII as stipulated under Cl.1.4.5, or
-(3) rooms or spaces located within a sprinkler -protected building, unless otherwise stated in following Cl.3.2.5 or other clauses in the Code.
-
-
-
-c. Floor over a basement
-
-Any floor immediately over a basement for PG II to VIII buildings shall be a compartment floor except for:
-(1)	a basement with floor area not exceeding 100m², or
-Effective Date: 25 Aug 2023
-(2) PG IV, V and VII buildings with basement floor area exceeding 100m 2 , provided the following conditions are complied with:
-(a) the building is fitted throughout with an automatic spr inkler system in compliance with the requirements in Chapter 6; and
-(b) the first basement shall be compartmented from other basement storeys.
-Note: For PG I buildings, refer to Cl.9.1.1b.(2) for compartmentation of floor over basement requirements.
-
-
-
-
-
-
-d. Basement floors
-In any compartment below pavement level, no compartment shall comprise more than one storey, except in the case of PG IV, V and VII buildings as permitted under Cl.3.2.5c.(2) and in the case of basement used solely for car parking. No part of a basement storey shall be used for the bulk storage of highly inflammable liquids or substances of an explosive nature.
-
-e. Fire Command Centre (FCC)
-The FCC shall be separated from other parts of the same building by compartment walls and floors having at least 2 -hr fire resistance rating.
-
-
-
-
-f. Kitchen
-In room/ space where open -flame cooking activities are carried out, except for residential units in PG I and II buildings, the following requirements shall be complied with:
-Effective Date: 25 Aug 2023
-(1) The kitchen shall be separated from other parts of the same building by compartment wall and floor having at least 1 -hr fire resistance rating. Separation requirement for kitchen can be exempted under the following conditions:
-(a) when all the cooking facilities in the kitchen are fitted with approved extinguishing systems, or
-(b) when there are at least 25% of the perimeter walls (excluding air well and void) of an eating establishment open directly to the external of the building, and provided any part of the floor space is within 9m from the nearest opening, or when there are at least 50% of the perimeter walls (excluding air well and void) of an eating establishment open directly to the external of the building, and provided any part of the floor space is within 12m from the nearest opening, or 
-(c) when an eating establishment is separated from other parts of the same building by walls and floors having 1 -hr fire resistance rating and doors having at least ½ -hr fire resistance rating; and provided:
-(i) for a sprinkler-protected building, there is no restriction to the floor area of the compartment, or
-(ii) for a non-sprinkler-protected building, the floor area of
-
-
-the compartment shall not exceed 150m 2 .
-(2) Openings in the compartment wall a nd floor shall comply with the relevant provisions of Cl.3.9 for protection of openings.
-(3) Doors shall have at least ½ -hr fire resistance rating and be fitted with an automatic self-closing device.
-(4) Where the flue or duct passes through the compartment wall or floor, the flue or duct shall be encased by non -combustible construction to comply with the requirements of Cl.3.9.5, and the installation of dampers in such flue or duct is prohibited.
-(5) LPG cylinders provided for open -flame cooking activities shall not be
-
-located at the basement and the installation of LPG cylinders at other areas shall comply with the provisions in the Fire Safety (Petroleum) Regulations.
+a. PG II buildings Any wall and floor separating a residential apartment or maisonette from any other part of the same building, unless permitted (as in the case of an external wall adjoining an external corridor, for provision of window openings). b. Areas of different purpose groups Any wall and floor separating part of a building from any other part of the same building which is used or intended to be used mainly for a purpose falling within a different purpose group, as identified under Table 1.4A, except the following: (1) ancillary offices located within a building or compartment of PG III, V, VI, VII and VIII, or. (2) rooms or spaces for ancillary usage located within a building or compartment of PG III to VIII as stipulated under Cl.1.4.5, or (3) rooms or spaces located within a sprinkler -protected building, unless otherwise stated in following Cl.3.2.5 or other clauses in the Code.
+------
+section 3.2.5 Areas requiring compartmentation
+c. Floor over a basement Any floor immediately over a basement for PG II to VIII buildings shall be a compartment floor except for:(1)	a basement with floor area not exceeding 100m², or Effective Date: 25 Aug 2023 (2) PG IV, V and VII buildings with basement floor area exceeding 100m 2 , provided the following conditions are complied with: (a) the building is fitted throughout with an automatic spr inkler system in compliance with the requirements in Chapter 6; and (b) the first basement shall be compartmented from other basement storeys. Note: For PG I buildings, refer to Cl.9.1.1b.(2) for compartmentation of floor over basement requirements. d. Basement floors In any compartment below pavement level, no compartment shall comprise more than one storey, except in the case of PG IV, V and VII buildings as permitted under Cl.3.2.5c.(2) and in the case of basement used solely for car parking. No part of a basement storey shall be used for the bulk storage of highly inflammable liquids or substances of an explosive nature. e. Fire Command Centre (FCC) The FCC shall be separated from other parts of the same building by compartment walls and floors having at least 2 -hr fire resistance rating.
+------
+section 3.2.5 Areas requiring compartmentation
+f. Kitchen In room/ space where open -flame cooking activities are carried out, except for residential units in PG I and II buildings, the following requirements shall be complied with: Effective Date: 25 Aug 2023 (1) The kitchen shall be separated from other parts of the same building by compartment wall and floor having at least 1 -hr fire resistance rating. Separation requirement for kitchen can be exempted under the following conditions: (a) when all the cooking facilities in the kitchen are fitted with approved extinguishing systems, or (b) when there are at least 25% of the perimeter walls (excluding air well and void) of an eating establishment open directly to the external of the building, and provided any part of the floor space is within 9m from the nearest opening, or when there are at least 50% of the perimeter walls (excluding air well and void) of an eating establishment open directly to the external of the building, and provided any part of the floor space is within 12m from the nearest opening, or  (c) when an eating establishment is separated from other parts of the same building by walls and floors having 1 -hr fire resistance rating and doors having at least ½ -hr fire resistance rating; and provided: (i) for a sprinkler-protected building, there is no restriction to the floor area of the compartment, or (ii) for a non-sprinkler-protected building, the floor area of the compartment shall not exceed 150m 2 .
+------
+section 3.2.5 Areas requiring compartmentation
+f. Kitchen (2) Openings in the compartment wall a nd floor shall comply with the relevant provisions of Cl.3.9 for protection of openings.(3) Doors shall have at least ½ -hr fire resistance rating and be fitted with an automatic self-closing device.
+(4) Where the flue or duct passes through the compartment wall or floor, the flue or duct shall be encased by non -combustible construction to comply with the requirements of Cl.3.9.5, and the installation of dampers in such flue or duct is prohibited. (5) LPG cylinders provided for open -flame cooking activities shall not be located at the basement and the installation of LPG cylinders at other areas shall comply with the provisions in the Fire Safety (Petroleum) Regulations.
 Notwithstanding all the above, the compartment where open -flame cooking activities is carried out shall not comprise more than one storey.
-
-
-
-
-
-g. Motor vehicle workshop
-A motor vehicle workshop shall be separated from any other part of the same building by compartment walls and floors having at least 2 -hr fire resistance rating, and if located in a basement storey of a building, shall be separated from any other part of the same building by compartment walls and floors having at least 4-hr fire resistance rating.
-
-h. Spray painting room
-Areas in which spray painting or other related processes are performed or carried out, shall be separated from other parts of the same building by compartment walls and floors having at least 2 -hr fire resistance rating. Where spray painting booths that have built-in vapour extraction system complying with NFPA 33, the fire resistance requirement is not applicable.
-Where a spray painting room or booth is protected by an automatic sprinkler system but not complying with NFPA 33, the f ire resistance rating for the fire compartment to the room or booth can be reduced from two hours to one hour.
-
-
-
-
-
-
-
-i. Store room
-
-For non-sprinkler-protected buildings, if the area of the store room exceeds 10m², it shall be compartmented from the other parts of the same building by compartment walls and floors having at least 1 -hr fire resistance rating. No fire compartmentation is required for a store room which is housed within a sprinkler - protected building. However, store room exceeding 700m 2 and 100m2 for above-ground and below-ground respectively are subject to the compartment size requirements stipulated under Cl.9.8.3.
-j. Areas of special hazard
-(1) Areas of special high risk in a building
-Boiler rooms, transformer rooms, generator rooms, storage areas of materials that are highly combustible or flammable, and any other areas of special high risk shall be separated from other parts of the building by compartment walls and floors having at least 2 -hr fire resistance rating. If the building is protected by an automatic sprinkler system, the fire resistance rating of the compartment walls and floors can be reduced to one hour.
-
-(2) Room housing transformer that uses flammable liquid shall be located at ground level against an external wall.
-(3) Diesel fuel tank for generator need not be located against an external wall.
-
-
-
-
-3.2.6 Provision for atrium spaces
-
-The requirements of Cl.3.2.1 ,Cl.3.2.4a . and Cl.3.2.4b. of this Code are not applicable for atrium spaces provided the following conditions are complied with:
-a. The minimum plan area of the atrium void shall be not less than 93m² and no horizontal dimension between opposite edges of the floor opening is less than 6m wide.
-b. The atrium space is not of high hazard occupancy as stated in C l.1.4.68 .
-c. The atrium is open and unobstructed in a manner such that it can be assumed that a fire in any part of the space will be readily obvious to the occupants before it becomes a hazard.
-d. The building is fitted throughout with an automatic sprinkler system to comply with the requirements in Chapter 6.
-e. The building is fitted with an eng ineered smoke control system in accordance with Cl.7.4.5.
-f. Provision of openings and enclosure s, and the planning of means of escape shall be subject to the approval of the SCDF.Effective Date: 25 Aug 2023
-
-
-
-
-3.2.7 Buildings of high hazard occupancy
+------
+section 3.2.5 Areas requiring compartmentation
+g. Motor vehicle workshop A motor vehicle workshop shall be separated from any other part of the same building by compartment walls and floors having at least 2 -hr fire resistance rating, and if located in a basement storey of a building, shall be separated from any other part of the same building by compartment walls and floors having at least 4-hr fire resistance rating. h. Spray painting room Areas in which spray painting or other related processes are performed or carried out, shall be separated from other parts of the same building by compartment walls and floors having at least 2 -hr fire resistance rating. Where spray painting booths that have built-in vapour extraction system complying with NFPA 33, the fire resistance requirement is not applicable. Where a spray painting room or booth is protected by an automatic sprinkler system but not complying with NFPA 33, the f ire resistance rating for the fire compartment to the room or booth can be reduced from two hours to one hour.
+------
+section 3.2.5 Areas requiring compartmentation
+i. Store room For non-sprinkler-protected buildings, if the area of the store room exceeds 10m², it shall be compartmented from the other parts of the same building by compartment walls and floors having at least 1 -hr fire resistance rating. No fire compartmentation is required for a store room which is housed within a sprinkler - protected building. However, store room exceeding 700m 2 and 100m2 for above-ground and below-ground respectively are subject to the compartment size requirements stipulated under Cl.9.8.3. j. Areas of special hazard (1) Areas of special high risk in a building
+Boiler rooms, transformer rooms, generator rooms, storage areas of materials that are highly combustible or flammable, and any other areas of special high risk shall be separated from other parts of the building by compartment walls and floors having at least 2 -hr fire resistance rating. If the building is protected by an automatic sprinkler system, the fire resistance rating of the compartment walls and floors can be reduced to one hour. (2) Room housing transformer that uses flammable liquid shall be located at ground level against an external wall. (3) Diesel fuel tank for generator need not be located against an external wall.
+------
+section 3.2.6 Provision for atrium spaces
+The requirements of Cl.3.2.1 ,Cl.3.2.4a . and Cl.3.2.4b. of this Code are not applicable for atrium spaces provided the following conditions are complied with: a. The minimum plan area of the atrium void shall be not less than 93m² and no horizontal dimension between opposite edges of the floor opening is less than 6m wide. b. The atrium space is not of high hazard occupancy as stated in C l.1.4.68 . c. The atrium is open and unobstructed in a manner such that it can be assumed that a fire in any part of the space will be readily obvious to the occupants before it becomes a hazard. d. The building is fitted throughout with an automatic sprinkler system to comply with the requirements in Chapter 6. e. The building is fitted with an eng ineered smoke control system in accordance with Cl.7.4.5. f. Provision of openings and enclosure s, and the planning of means of escape shall be subject to the approval of the SCDF.Effective Date: 25 Aug 2023
+------
+section 3.2.7 Buildings of high hazard occupancy
 Effective Date: 15 Sep 2020
-
-a. The compartment of buildings of high hazard occupancy shall not exceed one half of the sizes given in Table 3.2A and each compartment shall comprise one storey only.
-b. No storey of a building, the habitable height of which is more than 24m, shall be used for the bulk storage of goods or substances of highly combustible nature unless the building is provided with a sprinkler system to comply with Chapter 6.
-c. The type of storage materials or substances shall not include the fo llowing:
-(1) materials with an auto -ignition temperature lower than 200°C; and
-(2) combustible/highly flammable materials which include those highlighted in sub-clauses a., b., c. and d. of Cl.1.4.67.
-d. For buildings not listed in Table 1.4A, including but not limited to buildings used for the manufacture and/or storage of highly combustible substances and/or flammable liquids, etc., the requirements shall be consulted with the SCDF.
-
-
-
-3.2.8 Exemption on size limitation of compartment
-
-The requirements of Cl.3.2.1 for car parking decks can be exempted if both the following are complied with:
-a. The car parking decks shall be open -sided with not less than 50% of the sides permanently open and unobstructed. Such openings shall be evenly distributed along each of the perimeter walls and on every individual floor/deck, excluding perimeter walls to air well, so as to provide cross ventilation to all parts of the car parking decks.
-b. No part of the floor space shall be more than 12m from the openings on the perimeter walls of the building or air well. Air well where provided for this purpose shall have a superficial plan area of not less than 10m², or 0.1m² for every 300mm of height, whichever is greater, and have a minimum dimension on plan of 2m, open vertically to the sky for its full height.
-
-
-
-3.2.9 Separation of area undergoing addition & alteration works
-
+a. The compartment of buildings of high hazard occupancy shall not exceed one half of the sizes given in Table 3.2A and each compartment shall comprise one storey only. b. No storey of a building, the habitable height of which is more than 24m, shall be used for the bulk storage of goods or substances of highly combustible nature unless the building is provided with a sprinkler system to comply with Chapter 6. c. The type of storage materials or substances shall not include the fo llowing:
+(1) materials with an auto -ignition temperature lower than 200°C; and (2) combustible/highly flammable materials which include those highlighted in sub-clauses a., b., c. and d. of Cl.1.4.67. d. For buildings not listed in Table 1.4A, including but not limited to buildings used for the manufacture and/or storage of highly combustible substances and/or flammable liquids, etc., the requirements shall be consulted with the SCDF. 
+------
+section 3.2.8 Exemption on size limitation of compartment
+The requirements of Cl.3.2.1 for car parking decks can be exempted if both the following are complied with: a. The car parking decks shall be open -sided with not less than 50% of the sides permanently open and unobstructed. Such openings shall be evenly distributed along each of the perimeter walls and on every individual floor/deck, excluding perimeter walls to air well, so as to provide cross ventilation to all parts of the car parking decks. b. No part of the floor space shall be more than 12m from the openings on the perimeter walls of the building or air well. Air well where provided for this purpose shall have a superficial plan area of not less than 10m², or 0.1m² for every 300mm of height, whichever is greater, and have a minimum dimension on plan of 2m, open vertically to the sky for its full height.
+------
+section 3.2.9 Separation of area undergoing addition & alteration works
 For additions and alterations to existing buildings, the areas undergoing such works shall be separated from other occupied areas of the building in ac cordance with Cl.3.15.16.
 Updated 25 Aug 2023
-
-
-
-
+------
 CLAUSE 3.3 FIRE RESISTANCE OF ELEMENTS OF STRUCTURE
-
-
-
-3.3.1 Interpretation and application
-The interpretation and application of Cl.3.3 shall be as follows:
-a. Subject to the provisions of Cl.3.3.1b. and any other expressed provision to the contrary, any reference to a building of which an element of structure forms a part means the building or (if the building is divided into compartments) any compartment of the building, for which the element forms a part.
-
-b. Any reference to height means the height of a building, but if any part of the building is completely separated throughout its height both above and below ground from all other parts by a compartment wall or compartment walls in the same continuous vertical plane, any reference to height in relation to that part means the height solely of that part.
-
-c. If any element of structure forms part of more than one building or compartment and the requirements of fire resistance specified in Table 3.3A, in respect of one
-building or compartment, and differs from those specified in respect of any other building or compartment of which the element forms a part, such element shall be so constructed as to comply with the greater or greatest of the requirements specified.
-
-d. If any element of structure is required to be of non -combustible construction, the measure of fire resistance rating shall be determined by the part which is constructed wholly of non -combustible materials. (With the exception of fire protecting suspended ceilings, surface materials for walls and ceilings and floor finishes can be combustible, if they are not relied on to contribute to the fire resistance of the wall or floor).
-
-
-
-
-
-3.3.2 Minimum periods of fire resistance
-Subject to any expressed provision to the contrary, any element of structure shall be constructed of non-combustible materials and is required to have fire resistance for not less than the relevant period specified in Table 3.3A, with regards to the purpose group of the building of which it forms a part and the dimensions specified in that table, provided that:
-a. any separating wall shall have at least 1 -hr fire resistance rating; and
-b. any compartment wall or compartment floor which separates a part of a PG II or
-
-III buildings, from any other part of the building of a purpose group other than PG II or III shall have at least 1 -hr fire resistance rating.
-
-
-3.3.3 Exemption for non-load-bearing external walls
-
-The requirement on fire resistance in Cl.3.3.2 for non-load-bearing external walls shall not apply to:
-a. any part of any external wall which is non -load-bearing and can, in accordance with Cl.3.5 be an unprotected area, or
-b. steel structures of a standalone car park for passenger vehicles of Class 3 and below (unladen weight not exceeding 2500kg) provided the following conditions are fulfilled:
-(1) Each storey shall be provided with cross ventilation by the provision of uninterrupted openings evenly distributed around the perimeter walls, excluding perimeter walls to air well. The area of the openings shall not be less than 50% of all external walls or 15% of the footprint per storey, whichever is greater. This condition is not applicable if a sprinkler system is installed throughout the car park.
+section 3.3.1 Interpretation and application
+The interpretation and application of Cl.3.3 shall be as follows: a. Subject to the provisions of Cl.3.3.1b. and any other expressed provision to the contrary, any reference to a building of which an element of structure forms a part means the building or (if the building is divided into compartments) any compartment of the building, for which the element forms a part. b. Any reference to height means the height of a building, but if any part of the building is completely separated throughout its height both above and below ground from all other parts by a compartment wall or compartment walls in the same continuous vertical plane, any reference to height in relation to that part means the height solely of that part.
+------
+section 3.3.1 Interpretation and application
+c. If any element of structure forms part of more than one building or compartment and the requirements of fire resistance specified in Table 3.3A, in respect of one building or compartment, and differs from those specified in respect of any other building or compartment of which the element forms a part, such element shall be so constructed as to comply with the greater or greatest of the requirements specified. d. If any element of structure is required to be of non -combustible construction, the measure of fire resistance rating shall be determined by the part which is constructed wholly of non -combustible materials. (With the exception of fire protecting suspended ceilings, surface materials for walls and ceilings and floor finishes can be combustible, if they are not relied on to contribute to the fire resistance of the wall or floor).
+------
+section 3.3.2 Minimum periods of fire resistance
+Subject to any expressed provision to the contrary, any element of structure shall be constructed of non-combustible materials and is required to have fire resistance for not less than the relevant period specified in Table 3.3A, with regards to the purpose group of the building of which it forms a part and the dimensions specified in that table, provided that: a. any separating wall shall have at least 1 -hr fire resistance rating; and b. any compartment wall or compartment floor which separates a part of a PG II or III buildings, from any other part of the building of a purpose group other than PG II or III shall have at least 1 -hr fire resistance rating.
+------
+section 3.3.3 Exemption for non-load-bearing external walls
+The requirement on fire resistance in Cl.3.3.2 for non-load-bearing external walls shall not apply to: a. any part of any external wall which is non -load-bearing and can, in accordance with Cl.3.5 be an unprotected area. b. steel structures of a standalone car park for passenger vehicles of Class 3 and below (unladen weight not exceeding 2500kg) provided the following conditions are fulfilled: (1) Each storey shall be provided with cross ventilation by the provision of uninterrupted openings evenly distributed around the perimeter walls, excluding perimeter walls to air well. The area of the openings shall not be less than 50% of all external walls or 15% of the footprint per storey, whichever is greater. This condition is not applicable if a sprinkler system is installed throughout the car park.
+------
+section 3.3.3 Exemption for non-load-bearing external walls
 (2) No point on any storey shall be more than 12m from the external air or air well. An air well, where provided for this purpose, shall have a superficial plan area of not less than 10m², or 0.1m² for every 300mm of height, whichever is greater, and have a minimum dimension on plan of 2m, open vertically to the sky for its full height. This condition is not applicable if a sprinkler system is installed throughout the car park.
+------
+section 3.3.3 Exemption for non-load-bearing external walls
 (3) All floor beams shall be designed as a composite structure with the floor slab.
 (4) The building is not more than 24m in habitable height, and there shall not be any basement storeys;
 (5) No other usages, other than the electrical services that serve only the car park, are permitted;
 (6) Steel structures shall meet the specifications of SS EN 1993-1-2 and SS EN 1994-1-2.
 Effective Date: 25 Aug 2023
-
-
-
-
-3.3.4 Exemption for single storey buildings
-In the case of a single storey building or a building consisting of a first storey and one or more basement storeys, the requirement on fire resistance in Cl.3.3.2 shall not apply to any element of structure which forms part of the first storey and consists of:
-a. a structural frame or a beam or column, provided that any beam or column (whether or not it forms part of a structural frame) which is within or forms part of a wall, and any column which gives support to a wall or gallery, shall have fire resistance of not less than the minimum period, if any, required by this Code for that wall or gallery, or
-b. an internal load-bearing wall or a load -bearing part of a wall, unless that wall or part of it forms part of a compartment wall or a separating wall, or forms part of the structure enclosing a protected shaft or supports a gallery, or
-
-c. part of an external wall which does not support a gallery and which may, in accordance with Cl.3.5 be an unprotected area.
-
-
-
-
-
-3.3.5 Suspended ceiling
+------
+section 3.3.4 Exemption for single storey buildings
+In the case of a single storey building or a building consisting of a first storey and one or more basement storeys, the requirement on fire resistance in Cl.3.3.2 shall not apply to any element of structure which forms part of the first storey and consists of: a. a structural frame or a beam or column, provided that any beam or column (whether or not it forms part of a structural frame) which is within or forms part of a wall, and any column which gives support to a wall or gallery, shall have fire resistance of not less than the minimum period, if any, required by this Code for that wall or gallery. b. an internal load-bearing wall or a load -bearing part of a wall, unless that wall or part of it forms part of a compartment wall or a separating wall, or forms part of the structure enclosing a protected shaft or supports a gallery. c. part of an external wall which does not support a gallery and which may, in accordance with Cl.3.5 be an unprotected area.
+------
+section 3.3.5 Suspended ceiling
 In determining the fire resistance of floors, no account shall be taken of any fire resistance attributable to any suspended ceiling unless the ceiling is constructed specifically as a fire protecting suspended ceiling, and the construction complies with the requirements under Table 3.3B for Limitations on Fire Protecting Suspended Ceilings.
-
-
-
-3.3.6 Fire-rated board
-
+------
+section 3.3.6 Fire-rated board
 a. Fire-rated boards are permitted to be used for protection to structural steel beams, columns and as wall construction in building if all of the following are complied with:
 (1) The fire-rated boards shall be non -combustible (BS 476 Part 4 or Part 11).
 (2) They shall have fire resistance for not less than the relevant period specified in Table 3.3A, with regards to the purpose group of the building of which it forms a part and the dimensions specified in that table.
 (3) They shall meet the criteria, in terms of water absorption and bending strength performance, when subject to the test standards of BS EN 520 (for gypsum plaster board) or ISO 1896 (for calcium silicate or cement board).
+------
+3.3.6 Fire-rated board
 (4) Fire-rated boards used to make dry walls shall, in terms of impact & deflection performance, meet the partition grade specified under BS 9999 (Test for partitions) in accordance with BS 5234-2.
 (5) They shall not be used to protect structural steel in areas which are subject to explosion risk, as the boards may be displaced by the force of the blast.
 (6) In buildings under PG VI and VIII, where the presence of corrosive atmosphere may affect the effectiveness of fire -rated boards for protection to structural steel members of buildings, such proposals shall be subject to evaluation of the SCDF.
-
-
-
-
+------
+section 3.3.6 Fire-rated board
 b. Incorporation of services within fire -rated drywall construction shall comply with the following:
 (1) The installations shall meet the fire performance test req uirements set out in BS 476 Part 22 and shall not incorporate services beyond the case scenario for which it has been successfully tested.
 (2) Electrical cables shall be housed in metal conduits within the dry construction.
 (3) Gas pipe installation are prohibited in fire-rated dry construction.
-
 Updated 25 Aug 2023
-
-
-
-
+------
 CLAUSE 3.4 TESTS OF FIRE RESISTANCE
-
-
-
-3.4.1 Fire resistance
-
-Performance for the fire resistance of elements of structure and other forms of construction shall be determined by reference to the methods specified in BS 476: Part 20 to 23, which specify tests for stability, integrity and insulation.
-Specific requirements for each element in terms of the three performance criteria of stability, integrity and insulation are give n in Table 3.4A.
-
-
-3.4.2 “Deem to satisfy” provisions
-An element of structure or other part of a building shall be deemed to have the requisite fire resistance if:
-a. it is constructed to the same specification as that of a specimen exposed to test by fire in accordance with the method and procedure under BS 476: Part 20 to 23 , and satisfied the requirements of that test for the three performance criteria of stability, integrity and insulation for not less than the specified period, or
-b. in the case of a wall, beam, column, stanchion or floor to which Annex
-
-3A to Cl.3.4 relates, it is constructed in accordance with one of the specification set out in that Annex and the notional period of fire resistance given in that Annex as being appropriate to that type of construction and other relevant factors is not less than the specified period.
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.5 EXTERNAL WALL
-
-
-
-3.5.1 Requirements of external walls
-The requirements of external walls are as follows:
-a. Any external wall of a building or a separated part of a building which constitutes or is situated within a distance of 1m from any point on the relevant boundary, or is a wall of a building or a separated part of a building which exceeds 15m in height shall:
-(1) be constructed wholly of non -combustible materials apart from any external wall finishes which complies with Cl.3.5.4 or any internal lining which complies with Cl.3.13.4
-(2) be so constructed as to attain the fire resistance requir ed by this chapter; and
-
-b. any beam or column forming part of an external wall, and any structure carrying an external wall which is required to be constructed of non -combustible material, shall comply with the provisions of Cl.3.5.1a ..
-
-
-
-
-
-3.5.2 Exceptions on external wall construction
-a. The requirements of Cl.3.5.1a.(1) for non-combustibility of external walls need not apply to the external wall of a building or part of a building separated as described in Cl.3.3.2b., if that wall is situated 1m or more from the relevant boundary and it is:
-(1) of PG I or II building of not more than three storeys, or
-(2) of single storey construction and not exceeding 15m in height and floor area not exceeding:
-(a) 3000m2  for PG III, IV, VII buildings, or
-(b) 2000m2  for PG V, VI buildings, or
-(c) 500m2  for PG VIII buildings, or
-(3) of other than single storey buildings, but not exceeding 7.5m in height and the compartmented floor area not exceeding:
-(a) 250m2  for PG IV, V, VII buildings, or
-(b) 150m2  for PG VI, VIII buildings.
-
-b. The requirements of Cl.3.5.1a.(2) for fire resistance of external walls need not apply to the external wall of a building or part of a building separated as described in Cl.3.3.2b., if that wall is situated 1m or more from the relevant boundary and it is:
-(1) of a single storey building of a purpose group other than PG VI and VIII and not exceeding 15m in height, or
-(2) of a single storey PG VI or VIII building not exceeding 15m in height and floor area not exceeding 2000m² or 500m² respectively.
-
-
-
-
-3.5.3 Unprotected areas in any side of a building
-Unprotected areas in any side of a building shall comply with all of the following:
-a. Any relevant requirements relating to the permitted limits of unprotected areas specified in Annex 3B, unless the building is so situated that such side can in accordance with Annex 3B, consist entirely of any unprotected area.
-b. The extent of unprotected openings in an external wall of a building/compartment, in relation to its distance from the lot boundary, can be doubled that of Annex 3B, provided the building/compartment is fitted throughout with an automatic sprinkler system in compliance with the requirements in Chapter 6.
-c. As an alternative to Cl.3.5.3b. above, the distance between the external wall of a building and the relevant boundary can be half that spec ified in Annex 3B, if the building is fitted throughout with an automatic sprinkler system in compliance with the requirements in Chapter 6.
-d. The extent of unprotected openings in an external wall of a building/part of building used for car parking in relation to its distance from the lot boundary/relevant boundary can be based on the floor having the largest extent of unprotected openings to comply with Table 1 of Annex 3B.
-
-
-
-
-3.5.4 External wall finishes
-
-Finishes on external walls shall comply with the following:
-a. Homogenous cladding on external walls shall be constructed of material of at least limited combustibility tested in accordance with BS 476 Part 11 or approved equivalent. For buildings not within PG VI and VIII, any part of such cladding below a height of 15m from the ground, and situated at least 1m away from the relevant boundary can consist of:
-(1) timber of not less than 9mm finished thickness, or
-(2) a material having a surface which achieves at least:
-(a) Class 0 flame -spread rating tested in accordance with BS 476 Part 6 & 7, or
-(b) Class B rating classified under EN 13501-1.
-b. Composite panels used as cladding on external walls shall comply with Cl.3.15.13.
-
-
-3.5.5 Reference to Part I & II of Annex 3B
-Any reference to Annex 3B shall be construed as referring to the provisions of Part I of that Annex together with the provisions of Part II.
-
-
-
-3.5.6 Buildings on land in common occupation
-
-If two or more detached buildings are erected on land in common occupation, for any external wall of such a building facing the external wall of an adjacent building, the relevant boundary shall be a notional boundary passing between those buildings. This notional boundary shall be positioned to enable the external walls of those buildings to comply with the requirements of Cl.3.5.3.
-
-
-
-3.5.7 Vertical fire spread
-
-a. For high and low parts of different compartments of a building abutting each other, either one of the following requirements shall be complied with to prevent spread of fire between the distinct parts:
-(1) the roof-over of the lower part of the building shall be fire -rated in accordance with the element of structure for minimum 1 hr for a distance of 5m measured horizontally from the external wall of the higher part of building; or
-(2) the external wall of the higher part of the building overlooking the roof below shall have the necessary fire resistance rating in accordance with the element of structure for minimum 1 hr for a vertical height of not less than 9m measured from the roof of the lower part of the building.
-
-
-
-
-b. The above requirements shall not be applicable to:
-(1) buildings or lower parts of the building which are sprinkler -protected;
-(2) the buildings under the conservation p rogramme of the authority having jurisdiction, or buildings built before 1969;
-(3) covered car porches intended solely for the purpose of the boarding and alighting of passengers;
-(4) open-sided/ covered walkways/linkways not exceeding 5m in width with no commercial activities or storage; and
-(5) canopies of depth not exceeding 2m over private enclosed spaces or balconies in PG II buildings, provided that the canopy is constructed of non - combustible material.
-Effective Date: 10 May 2019
-
-
-3.5.8 Non-sprinkler-protected roof
-
-For non-sprinkler-protected roof within 4m from the boundary (excluding boundary abutting public street, canal or river), the portion of the roof within this 4m zone shall be 1-hr fire-rated. This requirement is exempted for areas stated under Cl.3.5.7b..
-
-
-3.5.9 Separation of residential floor facade
-Effective Date: 15 Mar 2021
-
-Separation of PG II residential floor façade shall be in accordance with Cl.9.2.1b.(3) .
-3.5.10 External sun-breakers/weather features
-
-External sun-breakers or weather features which will result in the channelling of flame upwards during a fire are not permitted
-Updated 25 Aug 2023
-
-
-
-
-
-
-
-CLAUSE 3.6 SEPARATING WALLS
-3.6.1 Requirements of separating wall
-a. Every separating wall shall:
-(1) form a complete barrier in the same continuous vertical plane through the full height between the buildings it separates, including roofs and basements and shall be without openings, except where permitted under Cl.3.6.2;
-(2) have the appropriate fire resistance to comply with the requirements
-
-of Cl.3.3;
-
-(3) be constructed of non -combustible materials, together with any beam and column which form part of the wall and any structure which it carries; and
-    (4) not include glass fire -resisting walls. b. Exception
-
-Effective Date: 10 May 2019
-
-Cl.3.6.1a.(1) need not be applied to wall between car porches of PG I buildings or wall between canopies over private enclosed spaces located on the grade level of PG II buildings. This exception shall not apply if the u nprotected opening of the car porches/canopies fail to comply with the setback distance requirements from the other lot boundary.
-
-
-
-Effective Date: 10 May 2019
-
-
-
-3.6.2 Openings in separating walls
-
-
-
-
-A separating wall shall have no openings except for:
-
-a. a door required to provide a means of escape in the event of a fire, having the same fire resistance as that required for the wall and complying with Cl.3.9.2, or
-
-b. a door provided for the purpose of public circulation and permitted by the SCDF, having the same fire resistance as that required for the wall and complying with Cl.3.9.2, or
-
-
-c. an opening for the passage of a pipe complying with the relevant provisions of Cl.3.9.3.
-
-
-
-
-3.6.3 Roof junction
-
-
-
-
-A separating wall shall be either extended up to form a close joint with the underside of a pitched roof of non -combustible covering or extended up above the level of such roof covering. The junction between such separating wall and roof shall be properly fire-stopped so as not to render ineffective the resistance of such separating wall to prevent the spread of fire.
-
-
-3.6.4 External wall junction
-
-
-
-
-If any external wall is extended across the end of a separating wall, such external wall and separating wall shall be bonded together or the junction of such walls shall be fire - stopped to comply with the requirements of Cl.3.12.
-
-3.6.5 Prohibition of combustible materials in separating walls
-
-
-
-
-No combustible material shall be built into, extended through, across the ends of, or over the top of separating walls in such a way as to render ineffecti ve the resistance of such separating walls to prevent the spread of fire.
-
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.7 COMPARTMENT WALLS AND COMPARTMENT FLOORS
-
-
-
-3.7.1 Requirements of compartment walls or compartment floors
-
-
-
-
-Every compartment wall or compartment floor shall be required to:
-
-a. form a complete barrier to fire between the compartments it separates;
-
-b. have the appropriate fire resistance to comply with the requirements of Cl.3.3, except for compartment which is abutting a common circulation space and not more than 3m from the eaves of the building;
-
-c. be constructed of non -combustible materials (together with any beam or column which forms part of the wall or floor, and any stru cture which it carries); and
-
-d. shall not have fire -resisting glass components, unless permitted under Cl.3.15.14 .
-
-3.7.2 Openings in compartment wall or compartment floor
-
-
-
-
-A compartment wall or compartment floor shall have no openings in it, except for
-
-a. a door which has the same fire resistance rating as the compartment wall and complies with the relevant requirements of C l.3.4, unless permitted by other provisions of the Code, or
-
-b. a protected shaft which complies with the requirements of Cl.3.8, or
-
-c. the passage of a pipe or ventilation duct.
-
-Such openings in the compartment wall or compartment floor shall be protected to comply with the relevant provisions of Cl.3.9.
-
-3.7.3 Openings
-
-
-a. Junction with other structures
-
-Where a compartment wall or compartment floor forms a junction with any structure comprising any other compartment wall, or any external wall, separating wall or structure enclosing a protected shaft, such structures shall be bonded together at the junctions or the junctions shall be fire -stopped to comply with the requirements of Cl.3.12.
-
-
-
-
-b. Opening in curtain walling
-
-The opening occurring at the junction between the edge of a structural floor and the curtain walling shall be sealed to prevent the spread of smoke and flame from the lower floor to the upper floor via the opening. Materials to be used for sealing the opening shall have the requisite fire resistance rating as the elements of structure.
-
-
-
-3.7.4 Compartment wall - roof junctions
-
-
-
-
-Where a compartment wall forms a junction with a roof, such compartment wall shall be extended up to form a close joint with the underside of the roof and shall be properly fire-stopped or shall be extended up above the level of the roof covering and the junction between such compartment wall and roof shall be properly fire -stopped so as not to render ineffective the resistance of such compartment wall to the effects of the spread of fire.
-
-
-3.7.5 Prohibition of combustible materials
-
-
-No combustible material shall be built into, extended through or extended across the ends of any compartment wall or compartment floor or extended over the top of any compartment wall in such a manner as to render ineffective the resistance of such wall or floor to the effects of the spread of fire.
-
-3.7.6 Non-combustibility of compartment walls or floors
-
-
-
-
-Every compartment wall or compartment floor shall be constructed of non -combustible materials, unless permitted by the SCDF.
-
-
-3.7.7 Use of fire shutter
-
-
-a. General
-
-A fire shutter is permitted to be used as compartment wall, except for the fire compartmentation to comply with the requirements of Cl.3.2.4b., Fire Command Centre (FCC) and means of escape, which include exit staircases, smoke -free lobbies/ fire lift lobbies, internal exit passageways, etc.
-
-Effective Date: 1 Mar 2023
-
-
-
-b. Fire resistance
-
-The fire shutters, which are used to protect openings in compartment wall/floor, shall have the necessary fire resistance including thermal insulation, not less than that of the compartment wall/floor. However, fire shutters, which are installed at the edge of atria, voids such as escalator void areas and between floors, and door way, need not have thermal insulation.
-
-
-
-
-c. Operation
-
-The commonly used shutters such as vertical, horizontal and lateral fire shutters shall comply with SS 489 and the following:
-
-(1) Vertical fire shutter operated by gravity during a fire
-
-Upon activation by a fire alarm system or fusible link, the operating mechanism of curtains/leaves of the vertical fire shutter shall be released. The curtain/leaves shall descend under gravity at a controlled rate.
-
-(2) Electrically-operated vertical, lateral and horizontal fire shutter (fusible link is not required)
-
-Upon activation by fire alarm system, the electrical motor shall drive the curtains/leaves to descend and shall be backed up by emergency power supply. The power and signal cables shall be fir e-rated.
-
-(3) Activation time and closing speed
-
-
-(a) For vertical fire shutter with height not exceeding 6m, the maximum time for full closure of the fire shutter shall not exceed 30 secs from time of activation, with a descending speed not exceeding 0.2m/se c.
-
-(b) For vertical fire shutter with height exceeding 6m and not more than 12m, the maximum time of full closure of the fire shutter shall not exceed 60 secs from time of activation, with a descending speed not exceeding 0.2m/sec.
-
-
-
-d. Mode of activation
-
-The mode of activation for fire shutters at different locations shall be as follows:
-
-(1) Fire shutters as separating wall between two buildings (if allowed in accordance with Cl.3.6.2)
-
-(a) Two buildings separated by a common fire shutter:
-
-Both gravity-operated and electrically-operated fire shutters shall be linked to the fire alarm systems of both buildings and shall be activated by the fire alarm system of either building. Activation solely by fusible link is not permitted.
-
-
-(b) Two buildings separated by two separate fire shutters:
-
-Both gravity-operated and electrically-operated fire shutters shall be activated by the fire alarm system of its own building. Activation solely by fusible link is not permitted.
-
-
-(2) Fire shutters as compartment wall/ floor for limiting compartment area and cubical extent
-
-Fire shutters as compartment wall/ floor for limiting compartment areas and cubical extent, as compartment between different purpose groups, as compartment of special rooms such as kitchen, elec trical room, store room, etc. and as compartment of basement passenger/ goods lift lobby: and as compartment of basement passenger/ goods lift lobby:
-
-(a) For gravity-operated vertical fire shutters, activation by fusible link is acceptable.
-
-
-(b) For electrically-operated fire shutters, activation shall be by local smoke detectors.
-
-(3) Fire shutters as compartmentation at atrium/ voids or between floors (being part of the engineered smoke control design)
-
-Only electrically-operated fire shutters are permitted. The signal to operate the respective fire shutter shall be from a dedicated smoke detector installed at the respective smoke zone.
-
-3.7.8 Fire safety signage for fire shutter and smoke curtain
-
-
-Effective Date: 15 Mar 2021
-
-
-
-
-a. Exit directional signage marked with an arrow and the word “EXIT” shall be prominently painted/ pasted on fire shutters/ smoke curtains to redirect building occupants to the nearest exits if the activated shutters visually obscure the building exit and/ or directional signs. The sign shall be reflective and the letters at least 100mm in height.
-
-
-
-b. Signage for alerting persons not to impede the operation of fire shutters/ smoke curtains shall be permanently displayed at prominent locations and suitable intervals close to the descending paths of the fire shutters/ smoke curtains. The lettering of the sign shall be at least 25mm high in a colour contrasting with the background and states the following where applicable:
-
-(1) “FIRE SHUTTER – KEEP CLEAR”
-
-
-(2) “SMOKE CURTAIN – KEEP CLEAR”
-
-3.7.9 Emergency generator room
-
-
-a. An emergency generator room shall be co mpartmented as stipulated under Table 6.4A.
-
-b. An emergency generator can be located in an external space provided:
-
-(1) the setback distance between the outdoor emergency generator from other surrounding hazards except water tank shall be at least 3m; and
-
-
-(2) if there is more than one outdoor emergency generator, each outdoor emergency generator shall be separated from the other by a dividing wall of masonry construction for the full length and height of the adjacent outdoor emergency generator.
-
-
-
-
-
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.8 PROTECTED SHAFTS
-
-
-
-3.8.1 Purpose of protected shaft
-
-
-
-
-A protected shaft shall not be used for any purpose additional to those given as defined under Cl.1.4.85. All services such as, pipe/duct installation shall not be located inside a protected staircase,unless otherwise permitted in Cl.3.8.7 . Likewise, no washroom is allowed to be located inside an exit staircase.
-
-Effective Date: 15 Sep 2020
-
-3.8.2 Requirements of protected shaft
-
-
-
-
-Every protected shaft shall be required to:
-
-a. form a complete barrier to fire between the differ ent compartments which the shaft connects;
-
-b. have the appropriate fire resistance to comply with the requirements of Cl.3.3; and
-
-
-
-c. be constructed of non -combustible material (together with any beam or column which forms part of the enclosure and any structure which carries it).
-
-
-3.8.3 Openings in protected shaft
-
-
-a. A protected shaft shall have no openings in its enclosure , except in the case of any part of the enclosure:
-
-(1) in the case of any part of the enclosure which is formed by a separating wall, any opening which complies with the requirements of Cl.3.6 for separating walls, or
-
-
-(2) in the case of any part of the enclosure which is formed by a compartment wall or a compartment floor, any opening which complies with the requirements of Cl.3.7 for compartment wall or compartment floor, or
-
-
-(3) in the case of any part of the enclosure which is formed by the protecting structure:
-
-
-
-(a) a door which has the appropriate fire resistance to comply with the requirements of Cl.3.4 for test of fire resistance, or otherwise permitted by provision of Cl.3.8.6, or
-
-
-(b) the passage of a pipe, excluding protecting structure to exit staircase and exit passageway, or
-
-(c) inlets to and outlets from and opening for the duct, if the shaft contains or serves as a ventilation duct.
-
-
-b. Such openings in the protected shaft shall be protected to comply with the relevant provisions of Cl.3.9 for protection of openings.
-
-
-
-3.8.4 Non-combustibility of protecting structures
-
-
-
-
-Every protecting structure shall be constructed wholly of non -combustible materials except that floor, wall and ceiling finishes which do not contribute to the fire resistance of such protecting structure are not be required to comply with the requirements for non-combustibility.
-
-
-3.8.5 Ventilation of protected shaft
-
-
-
-
-
-Ventilation of protected shaft shal l comply with the following:
-
-
-a. A protected shaft used for the passage of people, such as exit staircases, shall be ventilated to comply with the relevant provisions of the Code.
-
-b. A protected shaft containing a pipe conveying gas shall be adequately ventilated directly to the outside air or have other modes of ventilation allowed under SS 608.
-
-
-3.8.6 Doors in protecting structures
-
-
-
-
-a. Any door fitted to an opening in protecting structure shall have fire resistance for not less than half the period required by other provisions of the Code for the protecting structure surrounding the opening.
-
-b. Exception
-
-(1) Any door fitted to an opening in protecting structure of a shaft containing services, such as electrical cables, pipes (including gas pipe in separate shaft), ducts etc., is not required to have the fire resistance rating if the door is located along the wall facing the external corridor.
-
-(2) Any metal door fitted to an opening in protecting structure of a rubbish/ bin chute is not required to have the fire resistance rating if:
-
-(a) the thickness of the rubbish/ bin chute door is at least 1.5mm;
-
-(b) the rubbish/ bin chute door is sealed with rubber gasket; and
-
-(c) the rubbish/ bin chute door shall be self -closing type.
-
-c. Any door fitted to an opening in protecting structure of a shaft containing services, such as electrical and telecommunication cabl es, pipes (including gas pipe in separate shaft), ducts etc., is not required to comply with the requirements in Cl.2.3.9d.(2) if it is fitted with a self -closing device. Rising mains and hose reel doors shall not be fitted with self -closing device and shall comply with the stipulated corridor width when the door is in its fully opened position. Areas within the swing paths of the rising mains and hose reel doors shall be clear of any obstruction/storage at all times.
-
-
-
-Effective Date: 1 Sep 2021
-
-
-3.8.7 Protected shaft containing exit staircase
-
-
-a. A protected shaft which contains an exit staircase s hall not contain any services e.g. pipes, cables, ducts, etc., that are not solely serving the same exit staircase (even if the services are protected with fire -rated dry construction), except for:
-
-(1) cut-off sprinkler and pipe for that staircase;
-
-(2) UPVC or cast iron rain water downpipes serving the roof directly above the exit staircase, and not routed through anywhere outside the staircase;
-
-(3) rising mains; and
-
-(4) metal water supply pipe and water tap not exceeding 50mm in diameter. Effective Date: 15 Mar 2021
-
-
-b. The protecting structure shall be constructed of masonry, or drywall. If drywall construction is used, all of the following conditions shall be complied with:
-
-(1) the drywall shall be non -combustible;
-
-(2) the drywall shall have fire resistance rating for not less than the relevant period specified in Table 3.3A having regard to the purpose group of the building of which it forms a part and the dimension specified in that table;
-
-(3) the drywall shall, in terms of impact & deflection performance, meet the partition grade specified under BS 9999 (Test for partitions) in accordance with BS 5234-2;
-
-
-(4) the drywall shall meet the criteria, in terms of water absorption and bending strength performance, when subject to the test of BS EN 520 or ISO 1896; and
-
-
-(5) the building shall have at least two independent exit staircase shafts (scissors exit staircases are considered single shaft).
-
-
-
-3.8.8 Lift shaft
-
-
-A protected shaft which contains a lift shall comply with the following:
-
-a. It shall not contain any pipe conveying gas or combustible liquid, other than those in the mechanism of a hydraulic lift.
-
-b. The protecting structure shall be constructed of masonry, or drywall. If drywall construction is used, the conditions stipulated under Cl.3.8.7b.(1) to (5) shall be complied with. The drywall shall also meet the criteria of cyclic loading and dynamic test as specified under Cl.3.3 of the National Construction Code of Australia C 1.8
-
-
-
-
-
-c. Where a lift is either located at the edge of atrium floors or at the external wall and outside the building, the lift shall be considered as not enclosed within a protected shaft.
-
-
-
-
-d. The protected shaft shall be vented in accordance with SS 550. The vents shall be so arranged as to induce exhaust ventilation of the shaft. Where vents cannot be provided because of the location of the lift shaft, a ventilation duct protected by drywall complying with Cl.3.8.7b. serving as ventilation of the shaft may be provided instead. If the duct is not fire -rated, fire dampers shall be provided to the duct at the wall of the lift shaft, provided such relaxation shall not ap ply to shafts containing a fire lift.
-
-
-
-e. Openings for the passage of lift cables into the lift motor room located above or at the bottom of the shaft shall be as small as practicable.
-
-
-
-f. Fire resistance
-
-(1) A transom panel above the lift entrance shall be considered as part of the protecting structure and shall therefore conform to the fire resistance requirements of the protecting structure.
-
-(2) In the case of motor -room-less lifts, the lift control panel enclosure located at the lift lobby shall not affect the fire resistance requirements of the protecting structure.
-
-
-g. If it serves any basement storey, it shall be enclosed by a protected lobby with walls having 1 -hr fire resistance rating and fire door of ½ -hr fire resistance rating. If the protected lobby also acts as a smoke -free lobby required under Cl.2.2.13, it shall be mechanically ventilated in accordance with Cl.7.1.10 .
-
-Exception:
-
-(1) Where the lift landing area is adjoining an air well or external space of minimum clear area 10m² and minimum width of 3m, the distance between the nearest edge of lift door opening to the air well shall not exceed 3m.
-
-(2) Where the basement storey forms part of a building under PG I or a single household cluster housing compartment within a PG II development and has a basement area not exceeding 100m².
-
-
-
-h. Private lift
-
-A private lift that is provided for the exclusive use of occupants in residential buildings under PG II shall comply with all of the following requirements:
-
-(1) A smoke detector shall be provided at the lift landing area. The activation of any of the smoke detectors at the lift landing area shall cause the lift to home to the designated floor.
-
-(2) Emergency power supply from a standby generating plant shall be provided to home the lift to the designated floor when there is a power failure in the building.
-
-
-
-(3) An alternate designated floor (e.g., any other floor with common lobby) shall be identified. The lift shall be brought to the alternate designated floor in the event that there is a fire at the 1st storey designated floor. For buildings without an alternate designated floor, the lift shall return to the last called floor in the event that the designated floor is on fire.
-
-(4) The lift shall not serve as a fire lift.
-
-(5) Private lifts shall comply with SS 550.
-
-
-
-3.8.9 Protected shaft containing other services installations
-
-
-A protected shaft used for the enclosure of services shall comply with the following:
-
-a. The protecting structure for a protected shaft, containing mechanical ventilation ducts serving areas specified in Cl.5.2.1g.(1) and Cl.5.2.1h. or kitchen exhaust ducts, which pass through floor slabs, shall be of masonry construction. Such a shaft shall be completely compartmented from the rest of the shaft space containing other ducts or any other services installations. A protected shaft containing ducts serving other areas which pass through floor slabs can be constructed of drywall. If the protected shaft is of drywall construction, the conditions stipulated in Cl.3.8.7b. shall be complied with.
-
-
-
-
-
-b. Cavity barriers
-
-A protected shaft used for the enclosure of electrical power services shall be interrupted at every floor level with at least ½ -hr fire resistance cavity barriers. Protected shaft used for the enclosure of telecommunications services shall be interrupted by at least ½-hr fire resistance cavity barriers at vertical intervals not exceeding 15m. The cavity barriers within trunking enclosing electrical and telecommunication cables can be exempted if the following conditions are met:
-
-
-
-
-(1) the cables shall be flame retardant type complying with IEC 60332;
-
-(2) the floor within the shaft shall be sloped upward with an angle of at least 45° to the floor level; and
-
-    (3) the fire doors to the protected shaft are installed with self -closing devices. c. Self-closing devices
-
-Automatic self-closing devices are not required to be installed on fire resisting doors opening into protected shafts which are interrupted by at least ½ -hr fire resistance cavity barriers at every floor level, or protected shafts containing sanitary pipes or water pipes, provided that the fire r esisting doors are kept closed and locked at all times.
-
-
-d. Siting of protected shafts
-
-All protected shafts containing services shall not be located within an exit staircase except for the case of residential apartment/ maisonette development under PG II not exceeding 4 -storey where smoke-free lobby is not required
-
-
-
-Updated 25 Aug 2023
-
-
-CLAUSE 3.9 PROTECTION OF OPENINGS
-
-
-
-3.9.1 Application
-
-
-
-
-The provisions of this Clause concern the protection of openings permitted in elements of structure or other forms of fire resisting construction, which are required to act as a barrier to fire and smoke.
-
-
-3.9.2 Fire doors
-
-
-Fire doors for protection of openings shall comply with all of the following:
-
-a. Fire doors shall have the appropriate fire resistance as required b y relevant parts of the Code.
-
-
-
-b. All fire doors shall be fitted with an automatic self -closing device which is capable of closing the door from any angle and against any latch fitted to the door. The omission of a self -closing device to the bolted door leaf of a two -leaf door is acceptable if the door is the entrance door to a residential unit under PG II.
-
-
-
-c. Where a self-closing device would be considered a hindrance to the normal use of the building, fire doors can be held open as follows:
-
-(1) by a fusible link, or
-
-
-(2) by electromagnetic or electromechanical devices which can be activated via smoke detector and/or the building alarm system.
-
-d. Any hinge on which a fire door is hung shall be of the approved type, complying with SS 332.
-
-e. Any fire door fitted in an opening which is provided as a means of escape:
-
-(1) shall be capable of being opened manually, without the use of key, tool, special knowledge or effort for operation from the inside of the building;
-
-(2) shall not be held open by any means other than by an electromagnetic or electromechanical device which can be activated via smoke detector and/ or the building alarm system, except in the case of fire doors opening into pressurised exit staircases; and
-
-(3) shall open in the direction of exit travel in accordance with Cl.2.3.9.
-
-f. Fire doors, where required, shall be constructed and installed to comply with specifications stipulated under SS 332.
-
-
-
-3.9.3 Pipes
-
-
-
-
-a. Pipes passing through a separating wall, compartment wall or compartment floor shall be kept as small as possible and be fire -stopped around the pipe. The nominal diameter of the pipe shall not be more than the respective dimension given in Table 3.9A. These pipe penetrations are permitted only for conveying non-hazardous & non-combustible substances such as air, water, etc., and approved fire-stopping material shall be applied around the pipe penetratio n. The clear spacing between pipes shall be at minimum 50mm or half the diameter of the largest pipe, whichever is larger.
-
-
-
-b. The following pipes of nominal diameter larger than 150mm, subject to the conditions listed under Cl.3.9.3c. below, are permitted to penetrate through a separating wall, compartment wall or compartment floor:
-
-(1) emergency standby diesel generator steel exhaust pipes connected directly to the external space;
-
-
-(2) pipes of non-combustible material (such as cast iron or steel) with pipe wall thickness of at least 5mm, and melting point of at least 1200ºC; and
-
-(3) thermal insulated pipes with pipe wall thickness of at least 5mm and combustible insulation in compliance with Cl.7.1.2c.(1) . The metal sheath for insulation material shall be at least 0.6mm thick galvanised steel with the melting point, including pipe support, of at least 1200ºC.
-
-
-
-c. The following conditions shall be complied with for penetration of p ipes stipulated under Cl.3.9.3b.:
-
-(1) For non-sprinkler-protected area, pipe supports within 3m from the pipe penetration shall be strengthened such that the tensile stress generated on the supports shall not exceed 10N/mm 2 and will not be softened or fracture when exposed to temperature of 750ºC. For sprinkler -protected area, the pipe supports and pipe penetrations shall be protected by the sprinkler system;
-
-(2) Combustible materials or services (e.g., pipe or ductwork) are not permitted to be placed within 1m before and after the penetration [except for those thermal insulated pipes constructed under Cl.3.9.3b.(3). For the purpose of this sub-clause, fire-rated materials are deemed as non -combustible; and
-
-(3) The penetration shall not pass through fire-rated wall/ floor of exit staircase, fire lift lobby, smoke -free lobby, electrical switch room, transformer room, generator room, battery room and fan room serving fire protection system, fire pump room, FCC, fuel tank room, and areas hand ling hazardous materials. Except for exit staircase, the penetration of pipes through the abovementioned rooms/ spaces is permitted if the pipes are fully enclosed by fire-rated enclosure with the same fire -rating as the fire-rated walls/ floors it passes through.
-
-
-
-Effective Date: 10 May 2019
-
-d. In addition to Cl.3.9.3a., fuel and vent pipes for emergency standby diesel generators and fuel tanks located outside the room they served shall be enclosed in construction having at least 2 -hr fire resistance rating. They shall not be located in intakes/ fresh air vent shafts.
-
-
-e. Routing of gas pipes in basements
-
-(1) All gas pipes that are routed in basement shall be API pipes with welded joints. These joints shall be 100% radiography checked in accordance with SS 608. The gas pipes are not required to be fire -rated if they are running outside essential areas such as an exit staircases, smoke -free or fire lift lobby, fire pump room, generator room, FCC, etc.. If gas pipes run pass through an essential area, they are required to be encased in masonry.
-
-
-
-(2) For mechanically ventilated basement, the gas pipes shall be p rovided with pipe sleeves to vent the gas pipes. One end of the sleeve shall be exposed to the external space in accordance with SS 608.
-
-(3) For naturally ventilated basement that complies with Cl.6.4.1d.(2)(b)(ii) , the provision of pipe sleeve is not required.
-
-3.9.4 Ventilation ducts
-
-
-A ventilation duct which passes directly through a compartment wall or compartment floor shall comply with the following:
-
-a. Where the ventilation duct does not form a protected shaft or is not contained within a protecting structure,
-
-(1) the duct shall be fitted with a fire damper where it passes through the compartment wall or compartment floor; and
-
-(2) the opening for the duct shall be kept as small as practicable and any gap around the fire damper shall be fire -stopped.
-
-
-
-b. Where the ventilation duct forms a protected shaft or is contained within a protecting structure, the duct shall be:
-
-(1) fitted with fire dampers at the inlets to the shaft and outlets from it; and
-
-(2) constructed and lined with materials in accordance with the requirements in Chapter 7.
-
-
-c. The installation of ventilation ducts and fire dampers shall comply with the requirements in Chapter 7.
-
-
-
-3.9.5 Flues
-
-
-
-
-Ducts encasing one or more flue pipes which pass through a compartment wall or compartment floor shall be of non -combustible construction, having fire resistance of not less than half the minimum period of fire resistance required for the compartment wall or compartment floor through which it passes, except for kitchen flue pipes when the fire resistance shall be as required for the compartment wall or compartment floor.
-
-3.9.6 Services passing through FCC, fire pump room, emergency generator room and smoke control fans room
-
-
-
-
-Air ducts, sanitary pipes, gas pipes, elect rical conduits/ cable tray and other services that are likely to permit the passage of flame or smoke in the event of a fire shall not be permitted to pass through any of the following spaces:
-
-a. FCCs
-
-b. Fire pump rooms
-
-c. Emergency generator rooms
-
-d. Smoke control fans rooms
-
-except where such services are required for the operation of the equipment in these areas.
-
-3.9.7 Services running inside and/or passing through fire lift lobby and smoke-free lobby
-
-
-Effective Date: 25 Aug 2023
-
-
-
-a. Air ducts, sanitary pipes, gas pipes, electrical conduits/ cable trays, and other services, e.g., fan coil units, ventilation fans (essential or non -essential) are permitted to locate, run inside and/ or pass through a fire lift or smoke -free lobby
-
-
-provided all these services are protected with a 1 -hr fire resistance rating enclosure, or separated with a 1 -hr fire resistance ceiling from the said lobby.
-
-b. For cablings/ pipings of firefighting or fire protection systems serving or running through the above lobbies, and for other services that are required for operation of the above lobbies during fire emergency, e.g., lighting, mechanical ventilation systems, these need not be separately protected.
-
-c.	Exception
-
-
-   The above requirements are not applicable for services running inside and/ or passing through an external corridor.
-
-Effective Date: 25 Aug 2023
-
-3.9.8 Gas pipes running inside an internal corridor/lobby
-
-
-Gas pipes running inside an internal corridor /lobby without fire resistance enclosure shall be encased with a pipe duct/sleeve vented to an external space.
-
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.10 EXIT STAIRCASES
-
-
-
-3.10.1 Non-combustibility of structure
-
-
-Every exit staircase, including the treads/ risers and landing, shall be constructed of non-combustible materials. The exception is for buildings under PG I, where only the stringer or structures supporting the treads/ risers and landing shall be constructed of non-combustible materials.
-
-
-3.10.2 Compartmentation
-
-
-Effective Date: 2 Mar 2020
-
-
-
-The exit staircase shall be separated from other parts of the building by a masonry structure or drywall complying with Cl.3.8.7b . which shall have fire resistance for not less than the period required by Cl.3.3 for elements of structure. The flight, landing and supporting structures of the exit staircase shall comply with Cl.3.10.1 and fire resistance rating is not required.
-
-
-3.10.3 Exit doors
-
-
-Doors opening into the exit staircase shall have at least ½ -hr fire resistance rating and fitted with an automatic self -closing device.
-
-3.10.4 Finishes
-
-
-
-
-Finishes to the ceilings/ walls and floors of exit staircase shall be of non -combustible materials.
-
-
-
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.11 CONCEALED SPACES
-
-
-
-3.11.1 General provision
-
-
-
-
-
-Concealed spaces in a building, such as those within suspended ceilings or raised floors, shall be sub -divided by construction of cavity barriers to restrict the spread of smoke and flames.
-
-
-3.11.2 Closing the edges of cavities
-
-
-
-
-Cavity barriers shall be used to close the edges of cavities, edges around openings through a wall, floor and any other part o f the construction which contains a cavity and to separate any cavity in a wall, floor or any other part of the construction from any other such cavity.
-
-
-3.11.3 Interrupting cavities
-
-
-
-
-If a fire-resistant barrier (such as a compartment wall, floor, ceiling or roof) abuts a cavity (including a roof space), such a barrier shall be extended to sub -divide the cavity to form a complete fire resistant barrier. Such cavity barriers shall be of fire resisting construction at least equal to the provision for that required of the fire resisting barrier.
-
-
-3.11.4 Sub-division of extensive cavities
-
-
-Cavities, including roof spaces, unless otherwise permitted, shall be sub -divided so that the maximum distance between cavity barriers shall not exceed the relevant dimensions given under Table 3.11A.
-
-3.11.5 Fire resistance and fixing of cavity barriers
-
-
-
-
-Cavity barriers shall be:
-
-a. constructed to provide at least ½ -hr fire resistance rating; and
-
-b. tightly fitted to rigid construction or the junctions shall be fire -stopped to comply with the requirements of Cl.3.12.
-
-3.11.6 Openings in cavity barriers
-
-
-
-
-A cavity barrier shall have no opening except for:
-
-a. a door which has the same fire resistance rat ing as the cavity barrier, and are kept closed all the times;
-
-
-b. a pipe which complies with the provision under Cl.3.9.3;
-
-c. a cable or conduit containing one or more cables;
-
-d. a duct which is fitted with suitably mounted automatic fire damper where it passes through the cavity barrier; and
-
-e. other openings fitted with a suitably mounted fire damper.
-
-3.11.7 Raised floors for fixed stages and display platforms
-
-
-
-
-The construction of raised floors for fix ed stages and display platforms shall comply with the following requirements:
-
-a. the concealed space between the structural floor and raised floor shall not be used for storage;
-
-b. no services or installation shall be permitted within the concealed space o ther than electrical wiring in conduit in compliance with the requirements of SS 638;
-
-c. all sides of the raised floor shall be properly sealed; and
-
-d. the concealed space shall be subdivided by cavity barriers in compliance with the requirements of Cl.3.11.4 and Table 3.11A.
-
-3.11.8 Raised floors with or without accessible panels
-
-
-The construction of raised floors with or without accessible panels shall comply with all of the following requirements:
-
-a. The supporting structure shall be constructed of non -combustible materials having a melting point of at least 750°C.
-
-b. The concealed space between the structural floor and raised floor shall not be used for storage.
-
-c. No services or installations shall be permitted wit hin the concealed space other than:
-
-
-(1) electrical wiring in metal conduit and metal trunking in compliance with the requirements of SS 638;
-
-(2) communication cables for computer equipment; and
-
-(3) fire protection installations serving the area.
-
-d. Where the raised floor is used as a plenum, requirements in Cl.7.1.4 shall be satisfied.
-
-
-
-Effective Date: 10 May 2019
-
-e. Decking of the raised floor shall be constructed of non -combustible material. Where combustible material is used as core material, if allowed in the case of sprinkler-protected buildings, the top, bottom, all sides and cut edges shall be covered with material with surface property complying with Class 0 (excluding materials for floor finishes).
-
-
-
-f. In the case of raised floors with accessible panels, access sections or panels shall be provided such that all concealed spaces between the structural floor and raised floor are easily accessible.
-
-
-
-g. Openings in the raised floor for entry of electrical cables shall be effectively closed to prevent entry of debris or other combustible material into the concealed spaces.
-
-
-h. All sides of the raised floor shall be properly sealed.
-
-i. the concealed space shall be subdivided by cavity barriers such that the maximum unobstructed area within the concealed space does not exceed 930m 2 .
-
-j. Where the concealed space is fitted with an automatic sprinkler system which complies with the requirements in Chapter 6, c avity barriers are not required.
-
-k. For a non-sprinkler-protected building, if the height of the concealed space measured between the top of the structural floor and underside of the raised floor decking exceeds 150mm, it shall be fitted with an automatic smoke detection system complying with requirements of SS 645. For a sprinkler-protected building, the concealed space shall be fitted with an automatic smoke detection system as
-
-
-above if its height is between 150mm to 400mm, and automatic sprinkler system if it exceeds 400mm; and
-
-l. Where the height of concealed space measured between the top of the structural floor and the underside of the raised floor decking is less than 50mm, the requirements on provision of cavity barriers shall not be applicable.
-
-
-
-3.11.9 Provision for concealed spaces between floor or roof and suspended ceilings
-
-
-Provision of cavity barriers within the concealed spaces of suspended ceiling can be exempted provided all of the following requirements are complied with:
-
-a. The concealed space shall not be used for storage.
-
-b. The supporting elements shall be construc ted of non-combustible material.
-
-c. The exposed surfaces within the concealed space is of Class 0 flame spread (excluding surfaces of any pipe, cable, conduit or insulation of any pipe).
-
-d. In the case of a detector protected building:
-
-(1) if the concealed space does not exceed 800mm in depth, or
-
-(2) if the concealed space is fitted with detectors which comply with the requirements of Chapter 6.
-
-
-
-e. In the case of a sprinkler -protected building:
-
-(1) if the concealed space does not exceed 400mm in depth, or
-
-
-
-(2) if the concealed space exceeds 400mm and does not excee d 800mm in depth and no combustible material is used within the concealed space, or
-
-
-(3) if the concealed space is fitted with an automatic sprinkler system which complies with the requirements of Chapter 6.
-
-
-
-f. In the case of other buildings, the concealed space shal l not exceed 800mm in depth.
-
-
-
-
-3.11.10 Exemption of cavity barriers in ceiling space
-
-
-
-
-Where the concealed space of suspended ceiling is fitted w ith an automatic sprinkler system which complies with the requirements in Chapter 6,
-
-a. the concealed space can be exempted from provision of cavity barriers; and
-
-b. combustible materials can be used for the supporting elements and exposed surfaces of materials within the concealed space, provided the ceiling is not situated over an exit passageway, smoke -free lobby or other designated means of escape facilities.
-
-
-3.11.11 Suspended ceiling over protected areas
-
-
-
-
-The concealed spaces of a suspended ceiling over an exit passageway, smoke -stop lobby, exit staircase or other designated means of esc ape facilities shall comply with the following:
-
-
-a. the ceiling supporting elements and the ceiling shall be constructed of non - combustible materials.
-
-b. the exposed surfaces within the concealed space shall be of Class 0 surface flame spread; and
-
-c. where sprinkler system is installed within the concealed spaces at smoke -free lobby/ fire lift lobby, the ceiling supporting elements and its exposed surface may have a surface spread of flame not lower than Class 2.
-
-3.11.12 Exemption
-
-
-Buildings under PG I are not required to comply with the requirements on the provision of cavity barriers in concealed spaces. Residential units in buildings under PG II need not comply with requirements on the provision of cavity barriers in concealed floor and ceiling spaces.
-
-
-3.12 FIRE STOPPING
-
-
-
-3.12.1 General provision
-
-
-
-
-Openings for pipes, ducts, conduits or cables which pass through any part of a compartment (except for a part which does not serve as a fire resisting barrier) or cavity barrier, shall be:
-
-
-a. kept as few in number as possible;
-
-b. kept as small as practicable; and
-
-c. all gaps shall be filled with fire -stopping materials.
-
-
-
-3.12.2 Fire-stopping
-
-
-Materials for fire stopping shall have the necessary fire resistance when tested to BS
-
-476: Part 20 or other acceptable standards.
-
-3.12.3 Materials for fire-stopping
-
-
-
-
-Suitable fire-stopping materials include:
-
-a. Fire-stopping and sealing systems (including those designed for service penetrations) which have been shown by test to maintain the fire resist ance of the wall or other element.
-
-
-b. Other fire-stopping materials include:
-
-(1) cement mortar;
-
-(2) gypsum-based plaster;
-
-(3) cement or gypsum -based vermiculite/ perlite mixes;
-
-
-(4) glass fibre, crushed rock, blast furnace slag or ceramic based products (with or without resin binders); and
-
-(5) intumescent mastics.
-
-The method of fire-stopping and choice of materials shall be appropriate to the situation and its application.
-
-Updated 25 Aug 2023
-
-
-CLAUSE 3.13 CLASSIFICATION OF SPREAD OF FLAME
-
-
-
-3.13.1 Requirements for Class 0
-
-
-
-
-Any reference to a surface being Class 0 shall be construed as a requirement that:
-
-a. the material of which the wall or ceiling is constructed shall be non -combustible throughout, or
-
-b. the surface material (or, if it is bonded throughout to a substrate, the surfac e material in conjunction with the substrate) shall have a surface of Class 1 when tested to BS 476 Part 7 and if tested in accordance with BS 476: Part 6 shall have an index of performance (I) not exceeding 12 and a sub -index (i1 ) not exceeding 6.
-
-3.13.2 Class other than Class 0
-
-
-
-
-Any reference to a surface being of a class other than Class 0, shall be construed as a requirement that the material which the wall or ceiling is constructed shall comply with the relevant test criteria relating to surface spread of flame, which is specified in relation to that class in BS 476: Part 7 .
-
-
-3.13.3 Order of classification
-
-
-
-
-
-Class 0 shall be regarded as the highest class (based on BS 476 Part 6 & 7), followed in descending order by Class 1, Class 2, Class 3 and Class 4 (based on BS 476 Part 7), as set hereunder:
-
-
-a. Class 0 - Surface of no flame spread. Such surfaces shall conform to the requirements of Cl.3.13.1.
-
-b. Class 1 - Surface of very low flame spread. This refers to surfaces on which during the first 1½ mins of test, the spread of flame does not exceed 165mm and the final spread of flame does not exceed 165mm under the relevant test conditions.
-
-
-
-c. Class 2 - Surface of low flame spread. This refers to surfaces on which during the first 1½ mins of test, the spread of flame does not exceed 215mm and the final spread of flame does not exceed 455mm under the relevant test conditions.
-
-d. Class 3 - Surface of medium flame spread. This refers to surfaces on which during the first 1½ mins of test, the spread of flame does not exceed 265mm and the final spread of flame does not exceed 710mm under the relevant test conditions.
-
-
-
-e. Class 4 - Surface of rapid flame spread. This refers to surfaces on which the spread of flame exceeded the limit of Class 3.
-
-Effective Date: 10 May 2019
-
-3.13.4 Class of flame spread to be not lower than specified
-
-
-
-
-The surface of a wall or ceiling in a room/space shall be of a class not lower than specified as relevant in the Table 3.13A, provided that
-
-a. Where an automatic sprinkler system is fitted throughout in the building in compliance with the requirements in Chapter 6, there is no control on the surface of flame rating in rooms/spaces, except for the following occupancies/usage:
-
-(1) healthcare facilities, including hospital, and nursing homes for handicapped, disabled, aged or persons with mental and/or mobility impairments;
-
-(2) detention facilities; and
-
-(3) exit staircases, exit passageways and smoke -free/fire lift lobbies.
-
-
-b. Where a building is not protected by an automatic sprinkler system, surfaces of the walls and ceilings can be of a surface class not lower than Class 3 to the extent permitted by Cl.3.13.5a. and Cl.3.13.5b. respectively.
-
-c. If timber is used as the surface material for the walls along the side gangways of an auditorium which is not sprinkler -protected, the requirements of this regulation pertaining to the requisite class of flame spread can be relaxed only in respect of those parts of such wall surface s provided the aggregate area of such parts does not exceed 50% of the whole surface area of the side walls of the auditorium.
-
-
-
-
-3.13.5 Where class of flame spread can be of any class not lower than Class 3
-
-
-a. Any part of the surface of a wall in a room or compartment can be of any class not lower than Class 3 if the area of that part (or if there are two or more such parts, the total area of those parts) does not exceed the following
-
-(1) in the case of a building or compartment of PG III, 20m 2 , or
-
-
-(2) in any other case, 60m 2 .
-
-
-b. Any part of the surface of a ceil ing can be of any class not lower than Class 3 if that part of the surface is the face of a layer of material the other face of which is exposed to the external air (skylight included) and complies with any one of the following:
-
-
-
-
-(1) The ceiling is that of a room in a building or compartment of PG III, IV, V or VII, or is that of a circulation space excluding a smoke -free lobby, exit staircase or exit passageway in a building or compartment of any purpose group, and
-
-
-(a) the area of that part does not exceed 2.5m²; and
-
-(b) the distance between that part and any other such part is not less than 3.5m.
-
-
-
-(2) The ceiling is that of a room in a building or compartment of PG VI or VIII, and
-
-
-
-(a) the area of that part does not exceed 5m²;
-
-(b) the distance between that part and any other such part is not less than 1.8m; and
-
-
-
-(c) that part and all other such parts are even ly distributed over the whole area of the ceiling and together have an area which does not exceed 20% of the floor area of the room.
-
-
-(3) The ceiling is that of a balcony, verandah, open car porch, covered way or loading bay which (regardless of its floor area) has at least one of its longer sides wholly and permanently open.
-
-
-(4) The ceiling is that of a garage or outbuilding which (regardless of whether it forms part of a building or is a building which is attached to another building or wholly detached) has a floor area not exceeding 40m 2 .
-
-
-
-3.13.6 Exception
-
-
-
-
-Wall and ceiling finishes in the form of thin sheet of not more than 1.0mm thickness mounted to a non -combustible substrate will not be subject to the requirement of surface spread of flame provisions, except for exit staircases and passageways.
-
-3.13.7 Composite panel
-
-
-Composite panel used as wall, ceiling or finishes shall comply with Cl.3.15.13 .
-
-Updated 25 Aug 2023
-
-
-
-
-CLAUSE 3.14 ROOFS
-
-
-
-3.14.1 Roof construction
-
-
-a. The surface of materials for roof covering and roof construction shall have a surface spread of flame rating not lower than Class 1, or Class A when tested in accordance with ASTM E108, except in the case of PG I and PG II, and in buildings that are protected throughout with automatic sprinkler system.
-
-
-
-b. Composite panel used as roof covering shall comply with Cl.3.15.13.
-
-c. Roof covering containing plastic shall com ply Cl.3.15.19c.(7).
-
-3.14.2 Provision for buildings not exceeding four storeys
-
-
-Combustible material can be used for roof construction for PG III, IV, V and VII buildings which satisfy the following requirements:
-
-a. the building shall not exceed four storeys;
-
-b. the roof space between the roof and the ceiling shall be sub -divided by cavity barriers where required to comply with the relevant provisions of Cl.3.11, and openings in cavity barriers shall be fire -stopped to comply with the requirements of Cl.3.12; and
-
-
-
-
-c. if the underside of the roof serves as the ceiling to a room or space, the elements of the underside of the roof shall comply with the relevant provisions of Cl.3.13 for restriction of spread of flame.
-
-
-3.14.3 Roof junction with separating wall and compartment wall
-
-
-
-
-At junctions where the roof meets with a separating wall or compartment wall, the roof construction shall comply with the relevant requirements under Cl.3.6.3 and Cl.3.7.4 respectively.
-
-
-Updated 25 Aug 2023
-
-
-
-
-3.15 MATERIALS FOR CONSTRUCTION
-
-
-
-3.15.1 General
-
-
-Materials used in the construction of building elements shall comply with the provisions stated under this section in addition to the performance requirements, such as fire resistance rating and limit to spread of flame, stipulated in other relevant sections of this Code.
-
-
-3.15.2 Intumescent paint
-
-
-
-
-
-Intumescent paint is allowed to be used for protection of structural steel members of all buildings provided all of the following requirements are complied with:
-
-a. The paint shall be of a proprietary system that has been demonstrated to achieve the fire resistance performance as required in BS 476 Part 20/ 21 or its equivalent, together with the specified weathering tests as specified in the BS 8202: Part 2.
-
-
-
-b. Coating of intumescent paint onto structural steels, and subsequent maintenance shall conform to BS 8202: Part 2. Fire test for fire resistance performance shall be conducted on the specimens after the weather tests. The fire resistance rating of the tested specimen shall not diminish more than 25%, post - weathering tests.
-
-
-c. A signage depicting the below minimum information shall be affixed at a conspicuous location:
-
-(1) Name of supplier
-
-(2) Fire resistance rating of the intumescent paint
-
-(3) Date of painting
-
-(4) Expected date of re -painting
-
-(5) Caution note: “Caution – No other paint/coating shall be applied to the surfaces of the structural steel members protected by the intumescent paint system"
-
-
-d. In buildings under PG VI and VIII, where there can be pres ence of corrosive atmosphere that can affect the effectiveness of intumescent paints for protection to structural steel members of buildings, such proposal shall be subjected to evaluation of the SCDF.
-
-
-3.15.3 Flame retardant chemicals
-
-
-
-
-Flame retardant chemicals can be used for upgrading of fire resistance rating or surface spread of flame of timber or an y combustible materials, subject to the following:
-
-
-
-
-
-a. the chemical treatment process is part of the manufacturing process to produce the finished product;
-
-b. the chemical treatment is by means of pressure impregnation conforming to SS 572, or the manufacturer’s specification in accordance to the prototype test, for timber and other combustible materials, respectively; and
-
-c. the treated materials/products have been subjected to a fire test, as required under Cl 3.4.1 or Cl 3.13.1.
-
-
-3.15.4 Elements of structure
-
-
-All elements of structure shall be constructed of non -combustible materials in addition to the relevant provisions as follows:
-
-a. Cl.3.3 for fire resistance of elements of structure
-
-b. Cl.3.5.1, Cl.3.5.2 & Cl.3.5.4 for external walls
-
-c. Cl.3.6.1a.(3), Cl.3.6.1b. & Cl.3.6.5 for separating walls
-
-d. Cl.3.7.1c., Cl.3.7.1d ., Cl.3.7.5 & Cl.3.7.6 for compartment walls and compartment floors
-
-e. Cl.3.8.2c., Cl.3.8.4, Cl.3.8.7b., Cl.3.8.8b., Cl.3.8.8e. and Cl.3.8.9a. for protected shafts
-
-3.15.5 Protection of openings
-
-
-Materials used for the protection of openings shall comply with the relevant provisions of Cl.3.9 of this Code for protection of openings.
-
-3.15.6 Exit staircases
-
-
-Exit staircases shall be constructed of non -combustible materials to comply with the provisions of Cl.3.10.1 .
-
-3.15.7 Raised floors
-
-
-Materials used for the construction of raised floors shall comply with the provisions of Cl.3.11.8a. and Cl.3.11.8e..
-
-3.15.8 Ceiling and ceiling supports
-
-
-a. Materials used for construction of ceiling and its supports shall comply
-
-with Table 3.13B, except for supports that are required to comply with Cl.3.11.9b..
-
-b. Construction of ceilings and ceiling supports located within sprinkler -protected building shall comply with the provision of Cl.3.11.10b..
-
-
-3.15.9 Fire-stopping
-
-
-Materials used for fire -stopping shall comply with the relevant provisions of Cl.3.12.2 and Cl.3.12.3.
-
-3.15.10 Surfaces of walls and ceilings
-
-
-Materials used on the surfaces of walls and ceilings are required to meet the requirements for restriction of spread of flame, and shall comply with the performance requirements as stipulated under Cl.3.13.
-
-3.15.11 Roof construction
-
-
-Materials used for roof construction shall comply with the provisions of Cl.3.14.1 & Cl.3.14.2.
-
-3.15.12 Internal non-load-bearing walls
-
-
-
-
-Internal non -load-bearing walls in buildings shall comply with Table 3.13B and the materials for surface finishes of internal non -load-bearing walls shall not be treated as part of the wall and shall comply with the relevant provisions of Cl.3.13.
-
-3.15.13 Composite panel
-
-
-Composite panels used for the construction of internal non -load-bearing walls, as cladding to external/ internal walls or as roof covering shall comply with all of the following criteria:
-
-
-a. The outer layers shall be constructed of non -combustible material.
-
-b. The core material (with aggregate thickness exceeding 1mm) of composite panel used for building interior shall meet the classification stipulated in Table 3.13B.
-
-
-c. The composite panel used for external wall cladding shall be mounted against 1-hr fire-rated wall and shall comply with any of the following:
-
-(1) Its core material shall meet at least:
-
-(a) BS 476 Part 4 , or
-
-
-(b) BS 476 Part 11 , or
-
-(c) Class 0 flame -spread rating when tested in accordance with BS 476 Part 6 & 7, or
-
-(d) Class B classified under EN 13501-1.
-
-(2) The panel assembly shall comply with NFPA 285.
-
-d. Composite panel containing plastic shall also comply with Cl.3.15.19.
-
-3.15.14 Fire-rated glass
-
-
-In buildings which are protected by an automatic sprinkler system, fire -rated glass can be used for the construction of compartment walls, compartment floors, enclosures of smoke-stop lobbies and fire lift lobbies, and protecte d shafts not containing exit staircase and fire lift, subject to the following:
-
-a. the walls shall have the necessary fire resistance, including insulation, when subject to test under BS 476 Part 20-23; and
-
-b. the doors shall have the necessary fire resist ance, including insulation, when subject to test under SS 332 or EN 1634-1; and
-
-c. the walls and doors shall meet the requirement of Class A for Impact performance when tested under AS 2208 or Class 1 for Impact Level (drop height class) when tested under EN 12600.
-
-Effective Date: 1 Mar 2022
-
-3.15.15 Walls, ceilings, roof covering and finishes
-
-
-
-
-Walls, ceilings, floor, roof and finishes shall not contain any plastic material, unless the plastic material complies with the requirements stipulated in Cl.3.15.19.
-
-3.15.16 Separation of areas undergoing A&A works
-
-
-
-For additions and alterations to existing buildings, non -combustible partitions shall be used for separation of areas undergoing A&A works from other occupied areas of the building.
-
-
-3.15.17 Partition for toilet cubicles
-
-
-Materials with surface flame spread rating of not lower than Class 2 shall be used for the construction of partition for toilet cubicles. If the material used is of Class 3 surface flame spread rating, total exposed surface area of the partitions within th e toilet shall not be more than 60m².
-
-
-3.15.18 Timber floors
-
-
-The use of timber floors is allowed under the following situations, provided it is protected to achieve the fire resistance rating required of the element of structure or compartment:
-
-
-a. for an attic within residential units under PG I and II, or
-
-b. in buildings designated for conservation where the timber floors are required to be retained, but subject to compliance with requirements stipulated under Cl.9.9.1, or
-
-
-c. in buildings built before 1969 under Cl.9.9.1.
-
-3.15.19 Use of plastics in building construction
-
-
-a. General
-
-(1) Tables 3.15A, 3.15B and 3.15C list the relevant fire test standards and acceptance criteria concerning the use of plastics for v arious building applications. Tables 3.15D to 3.15K stipulate whether fire tests are exempted or required, depending on the situation, as well as the situations in which the use of plastics is disallowed regardless of the fire test results. The use plastics for wall, ceiling, roof covering, floor and related finishes is only allowed if the conditions stated are met.
-
-
-
-
-(2) For each test category, only one fire test is needed to demonstrate the acceptable fire risk level.
-
-
-
-(3) Fire retardants are also allowed to be used to enhance the fire performance of plastics for building construction provided the retardants are applied in suppliers’ factories according to the retardants’ respective standards. Accelerated weathering tests will also be required to assess the effect of weather on fire retardants applied on external building applications.
-
-b. Acceptable fire tests and corresponding acceptance criteria
-
-(1) For plastic floor material/finishes, see Table 3.15A.
-
-(2) For plastic wall and ceiling material/finishes, see Table 3.15B.
-
-(3) For plastic roof covering, see Table 3.15C.
-
-c. Conditions for the use of plastics in various building applications
-
-(1) For plastic floor finishes (uncovered), see Diagram 3.15.19c.(1) and Table 3.15D.
-
-
-
-(2) For plastic material cast into (embedded within) structural floor system, see Diagram 3.15.19c.(2) and Table 3.15E.
-
-(3) For plastic floor finishes (covered), see Diagram 3.15.19c.(3) and Table
-
-3.15F.
-
-(4) For plastic wall or ceiling material/finishes, see Diagram 3.15.19c.(4) and Table 3.15G.
-
-(5) For composite panel containing plastic used as wall or ceiling material/ finishes, see Diagram 3.15.19c.(5) and Table 3.15H.
-
-(6) For plastic material embedded in masonry wall/ceiling, see Diagram
-
-3.15.19c.(6) and Table 3.15I.
-
-(7) For plastic roof covering, see Table 3.15J.
-
-(8) For composite panel containing plastic used as roof covering, see Table 3.15K.
-
-
-3.15.20 UPVC window frame
-
-
-Window frames made partly or wholly of UPVC are allowed to be used in buildings provided they are listed under the product listing sch eme and comply with the requirements stipulated in Table 3.15.20 .
-
-
-TABLE 3.15.20 : CONDITIONS OF INSTALLATION OF UPVC WINDOW FRAME
-
-
-Installation height (measured from the level of fire engineBuilding typeLength of windowaccessway/access road)
-
-Non-sprinkler-protectedSprinkler-HoprotectedPG INo restrict
-
-PG II< 60mNo< 3restrictionPG III & VII< 15m< 24m< 3PG IV, V, VI & VIII< 15m< 24m< 5
-Updated 25 Aug 2023
+section 3.4.1 Fire resistance
+Performance for the fire resistance of elements of structure and other forms of construction shall be determined by reference to the methods specified in BS 476: Part 20 to 23, which specify tests for stability, integrity and insulation. Specific requirements for each element in terms of the three performance criteria of stability, integrity and insulation are give n in Table 3.4A.
+------
+section 3.4.2 “Deem to satisfy” provisions
+An element of structure or other part of a building shall be deemed to have the requisite fire resistance if: a. it is constructed to the same specification as that of a specimen exposed to test by fire in accordance with the method and procedure under BS 476: Part 20 to 23 , and satisfied the requirements of that test for the three performance criteria of stability, integrity and insulation for not less than the specified period, or b. in the case of a wall, beam, column, stanchion or floor to which Annex 3A to Cl.3.4 relates, it is constructed in accordance with one of the specification set out in that Annex and the notional period of fire resistance given in that Annex as being appropriate to that type of construction and other relevant factors is not less than the specified period. Updated 25 Aug 2023
